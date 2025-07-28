@@ -1,0 +1,6 @@
+site_name: Docs @ Lu Lab
+site_url: https://lulab.life.tsinghua.edu.cn/docs
+theme:
+  name: material
+
+
