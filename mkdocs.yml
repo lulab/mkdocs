@@ -2,5 +2,72 @@ site_name: Docs @ Lu Lab
 site_url: https://lulab.life.tsinghua.edu.cn/docs
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes 
+    - navigation.sections
+extra_css: [extra.css] 
+
+markdown_extensions: 
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
 
 
+nav:
+  - Getting Started: index.md
+  - FAQ: faq/faq.md
+  - Lab Meetings:
+    - Lab Meetings: meeting/meeting.md
+    - Lab Calendar: meeting/cal.md
+  - Literature Reading:
+    - Tips for paper reading: reading/reading.md
+    - Seq. Tech.:
+      - Interaction-seq: reading/seq.-tech./interaction-seq.md
+      - Single-Cell-seq Tech.: reading/seq.-tech./single-cell-seq-tech..md
+      - cfRNA-seq Tech.: reading/seq.-tech./exrna-seq-tech.md
+      - cfDNA-seq Tech.: reading/seq.-tech./cfdna-seq-tech..md
+    - Omics Data Analysis:
+      - Single Cell Data Analysis: reading/omics/single-cell-data-analysis.md
+      - Genetic & Function Analysis: reading/omics/genetic-and-function-analysis.md
+      - Microbiome Analysis: reading/omics/microbiome.md
+      - RNA Regulation Analysis: reading/omics/postar.md
+      - cfRNA-seq Analysis: reading/omics/cfrna.md
+    - Precision Medicine: 
+      - Cancer: 
+        - ncRNA in Cancer: reading/med/cancer/ncrna.md
+        - Cancer Immunotherapy: reading/med/cancer/cancer-immunotherapy.md
+      - Immunity: 
+        - RNA in Immune System: reading/med/immunity/cancer-immunology.md
+        - Immune Diseases: reading/med/immunity/immune-diseases.md
+      - Liquid Biopsy: 
+        - Liquid Biopsy: reading/med/liquid-biopsy/README.md
+        - Panel and Database: reading/med/liquid-biopsy/panel-and-screen.md
+    - Artificial Intelligence:
+      - Overview: reading/ai/index.md 
+      - Multi-modal: reading/ai/multi-modal.md
+      - RNA Pairing & Talk: 
+        - RNA 2nd Structure Prediction: reading/ai/rna-pairing-and-talk/rna-structure.md
+        - RNA-RNA Interaction: reading/ai/rna-pairing-and-talk/rna-rna-interaction.md
+        - RNA Motif & dsRNAfinder: reading/ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md
+      - RNA Target & Drug: 
+        - RNA target: reading/ai/rna-target-and-drug/README.md
+        - RNA-Oligo: reading/ai/rna-target-and-drug/rna-oligo.md
+        - RNA-Ligand: reading/ai/rna-target-and-drug/rna-ligand.md
+        - RNA-Protein: reading/ai/rna-target-and-drug/rna-protein.md
+        - RNA 3D Structure Prediction: reading/ai/rna-target-and-drug/rna-3d-structure-prediction.md
+      - RNA & Protein Design: reading/ai/rna-and-protein-design.md
+  - Paper Writing: writing/writing.md

@@ -1,0 +1,17 @@
+.md-typeset h1 {
+	color: teal;
+}
+.md-typeset h2 {
+	color: teal;
+	font-weight: bold;
+}
+.md-nav {
+	color: grey;
+}
+
+.md-nav__item.md-nav__item--nested > .md-nav__link {
+#	color: black; 
+ }
+
+
+
