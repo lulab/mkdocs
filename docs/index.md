@@ -9,10 +9,19 @@
 >
 > _The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
-* [Lab Meetings](meeting.md)  &  [Lab Calendar](cal.md)
-* [FAQ](faq.md)&#x20;
-  * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
+
+<div class="grid cards" markdown>
+
+- :material-page-layout-header: __[Introduction]__ – [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
+- :octicons-info-16: __[Campus Info]__ – [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
+- :material-calendar-clock: __[Meetings]__ – [Lab Meetings](meeting/meeting.md)  &  [Lab Calendar](meeting/cal.md)
+- :material-frequently-asked-questions: __[FAQ]__ – [FAQ](faq/faq.md)
+
+
+
+</div>
+
+
 
 ### 📖 Learning
 
@@ -20,9 +29,9 @@
 >
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
-* [正式参与生物信息科研课题之前该做哪些准备？](faq.md#pre)（包括预修课推荐等）
+* [正式参与生物信息科研课题之前该做哪些准备？](faq/faq.md#pre)（包括预修课推荐等）
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua - [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
-* [Tips for Literature Reading](literature-reading/reading.md)
+* [Tips for Literature Reading](reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
@@ -70,12 +79,12 @@
 >
 > _Teachers help students **discover their interests, passions, and ultimately themselves**._”
 
-* [Software](http://www.ncrnalab.org/software)&#x20;
-* [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
-* [Paper](https://www.ncrnalab.org/publications/)
+* [Software](https://lulab.life.tsinghua.edu.cn/ncrnalab/software/)&#x20;
+* [Patent](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
+* [Paper](https://lulab.life.tsinghua.edu.cn/ncrnalab/publications/)
   * 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
-  * [Tips for manuscript writing](paper-writing/writing.md)
+  * [Tips for manuscript writing](writing/writing.md)
 
 
 
@@ -95,4 +104,4 @@
 > * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
 > * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
 > * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )&#x20;
-> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
+> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org) 

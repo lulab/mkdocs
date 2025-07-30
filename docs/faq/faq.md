@@ -4,11 +4,11 @@
 
 !!! tip "Tips"
 
-    - [**研究生生存指南**](faq/guide.md)  [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide) &#x20;
+    - [**研究生生存指南**](../survival-guide)  [**A grad school survival guide**](../survival-guide#a-grad-school-survival-guide) &#x20;
     - Want to get great at something? **Get a coach !**  [TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
 
 
-### 1) 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
+### 1) 科研中建议养成哪些好的习惯？ 
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
@@ -20,18 +20,18 @@
 
 * 自强不息（有上进心不懒散，止于至善）
 * 厚德载物（对他人的尊重和善意）
-* [作息规律且有效率](faq.md#pre-1)
+* [作息规律且有效率](faq.md#time)
 * 勤于阅读、勤于思考 （Stay Hungry & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
 * 经常锻炼身体&#x20;
 * … …&#x20;
 
 实操建议：
 
-1. 对于重要而不紧急的事情，<mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
-2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
-3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
-4. <mark style="color:orange;">带上“纸”和“笔”</mark>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
-5. <mark style="color:orange;">高级冥想</mark> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
+1. 对于重要而不紧急的事情，<font style="color:red;">多用 email 少用微信</font>   （see [detail](faq.md#email))
+2. <font style="color:red;">做事要提前</font>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
+3. <font style="color:red;">"研究“ 为主  "学习“为辅</font>   (see [detail](faq.md#sci) )
+4. <font style="color:red;">带上“纸”和“笔”</font>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
+5. <font style="color:red;">高级冥想</font> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
 
 
 
@@ -39,7 +39,7 @@
 
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
-![学习金字塔](.gitbook/assets/learning.jpg)
+![学习金字塔](../img/learning.jpg)
 
 
 
@@ -47,7 +47,7 @@
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
-> **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
+> **做好从本科生到研究生的角色转变，不能只知道“**<font style="color:red;">**学习**</font>**”，要侧重“**<font style="color:red;">**研究**</font>**”。**
 
 * **科研生涯的四戒律**&#x20;
   * 1\. 边干边学，不要彷徨；&#x20;
@@ -80,7 +80,7 @@
 
 
 
-### 4) 如何才能高效率地完成不喜欢的工作或学习任务？ <a href="#sci" id="sci"></a>
+### 4) 如何才能高效率地完成不喜欢的工作或学习任务？ 
 
 "绝招只有一个：不要过度准备，**先随便开个头**。\
 人的大脑很奇怪，工作的压力越大，大脑越会找借口去拖延。有时候大脑告诉你，这么难的工作，还是上网查一下资料吧，还是找找相似案例吧，你会误以为自己在做必要准备，其实是大脑在帮你逃避压力。你信了它的，就会把时间浪费到刷网页上，随着期限越来越近，你就越来越紧张，反而会更加拖延。\
@@ -185,9 +185,9 @@
 
 ## III. 实验室规范
 
-### 1) 如何作息规律且有效率？ <a href="#pre" id="pre"></a>
+### 1) 如何作息规律且有效率？ <a href="#time" id="time"></a>
 
-到底需要每周在实验室工作多久？不少杰出的科学家给学生做出的工作时间的看法和建议（认为每周需要工作<mark style="color:orange;">**60个小时以上**</mark>），都是非常值得我们借鉴的。 【[原文链接](https://app.yinxiang.com/fx/c0d05045-6620-4fbc-8ce6-06c5b799fc98)】
+到底需要每周在实验室工作多久？不少杰出的科学家给学生做出的工作时间的看法和建议（认为每周需要工作<font style="color:red;">**60个小时以上**</font>），都是非常值得我们借鉴的。 【[原文链接](https://app.yinxiang.com/fx/c0d05045-6620-4fbc-8ce6-06c5b799fc98)】
 
 > “天道酬勤”  “勤而善悟”  &#x20;
 >
@@ -198,16 +198,16 @@
 **规律而有效的作息时间建议：**
 
 {% hint style="success" %}
-* 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7:30-10pm (2.5) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
-* 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+* 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7:30-10pm (2.5) = \~10  X 6 天 = <font style="color:red;">**\~60 小时**</font>
+* 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <font style="color:red;">**\~60 小时**</font>
 {% endhint %}
 
 **效率对比：**
 
-同样是早上“9点多”来，晚上“快10点”走，但如果稍微放松懒散一点，**感觉上差不多**的作息时间，实质上一周下来就<mark style="color:orange;">**很容易**</mark>会变成：
+同样是早上“9点多”来，晚上“快10点”走，但如果稍微放松懒散一点，**感觉上差不多**的作息时间，实质上一周下来就<font style="color:red;">**很容易**</font>会变成：
 
 {% hint style="danger" %}
-* 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<mark style="color:orange;">**\~40小时**</mark>
+* 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<font style="color:red;">**\~40小时**</font>
 {% endhint %}
 
 > **注：**&#x4EE5;上为每天的平均时间，实际执行时周一到周五多一点、周六少一点，更符合常情也更容易做到。每天和每周的工作时间和方式，要因人而异，适合自己才是最重要的。同时，工作效率要比绝对时间更为重要。
@@ -234,8 +234,8 @@
 
 **建议养成做事提前规划的习惯**:
 
-* 如非事出突然/特殊因由，请<mark style="color:red;">**提前一周**</mark>发email给PI（抄送实验室管理员）请假；
-* 寒暑假、国庆长假等<mark style="color:red;">**提前半个月到1个月**</mark>安排好工作交接和假日值班；
+* 如非事出突然/特殊因由，请<font style="color:red;">**提前一周**</font>发email给PI（抄送实验室管理员）请假；
+* 寒暑假、国庆长假等<font style="color:red;">**提前半个月到1个月**</font>安排好工作交接和假日值班；
 * 如果只是短暂离开几个小时，可以不用请假;
 * 如遇到疫情封控、天灾等不可抗力，上述规定根据具体情况具体调整。 &#x20;
 
@@ -331,17 +331,3 @@ Alternatively, you can clear browsing data, including cache and cookies, by goin
 * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/%E5%9C%A8-powerpoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E9%9F%B3%E9%A2%91-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html)）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
 * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5)&#x20;
 
-
-
-
-
-<div class="grid cards" markdown>
-
-- :fontawesome-solid-earth-americas: __[Language]__ – Choose out of the 60+ supported languages or add a new one
-- :material-page-layout-sidebar-left: __[Navigation]__ – Create a clear, concise, and comprehensive navigation structure
-- :material-page-layout-header: __[Header]__ – Customize the behavior of the header, add an announcement bar
-- :material-page-layout-footer: __[Footer]__ – Add links to your social media profiles or websites in the footer
-- :material-tab-search: __[Search]__ – Set up and configure search, running entirely in the user's browser
-- :material-tag-plus-outline: __[Tags]__ – Categorize your pages with tags and group related pages
-
-</div>
