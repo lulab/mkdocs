@@ -1,6 +1,6 @@
 site_name: Docs @ Lu Lab
-site_url: https://lulab.github.io/mkdocs
-# site_url: http://lulab.life.tsinghua.edu.cn/docs
+#site_url: https://lulab.github.io/mkdocs
+site_url: http://lulab.life.tsinghua.edu.cn/docs
 theme:
   name: material
   features:
