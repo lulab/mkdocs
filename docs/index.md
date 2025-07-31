@@ -17,10 +17,9 @@
 
 ### 📖 Learning
 
-* [Courses](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/) @Tsinghua - [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
-* [Tips for Literature Reading](reading/reading.md)
-  * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
-* [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
+* Course: [Courses @Tsinghua](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/)  &  [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
+* Read: [Tips for Literature Reading](reading/reading.md)
+* Presentation: [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
 > :material-frequently-asked-questions: [正式参与生物信息科研课题之前该做哪些准备？](faq/faq-2.md#pre)（包括预修课推荐等）
 
