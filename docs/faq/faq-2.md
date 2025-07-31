@@ -90,3 +90,6 @@
 >
 > 清华云上还提供了一些正式的presentation的模板：4.Sharing - PPT and Poster Templates; 3.Thesis/优秀答辩ppt。
 
+### 4) 更多
+
+* [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_
