@@ -26,8 +26,6 @@
 
 ### 谷歌提供的地址 ics格式:
 
-> [谷歌访问助手](http://www.ggfwzs.com)
-
 * 中国节气: webcal://www.google.com/calendar/ical/orp22j75kcj10gqhol530ftucs@group.calendar.google.com/public/basic.ics
 * 中国农历: http://www.google.com/calendar/ical/lunar\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics
 * 中国节假日: http://www.google.com/calendar/ical/china\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics

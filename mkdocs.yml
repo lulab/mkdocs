@@ -30,7 +30,13 @@ markdown_extensions:
 
 nav:
   - Getting Started: index.md
-  - FAQ: faq/faq.md
+  - FAQ: 
+    - I.科研方法: faq/faq-1.md
+    - II.科研实践: faq/faq-2.md
+    - III.实验室规范: faq/faq-3.md
+    - IV.生活和财务: faq/faq-4.md
+    - V.办公硬件和软件: faq/faq-5.md
+    - VI.网络和数据: faq/faq-6.md
   - Lab Meetings:
     - Lab Meetings: meeting/meeting.md
     - Lab Calendar: meeting/cal.md

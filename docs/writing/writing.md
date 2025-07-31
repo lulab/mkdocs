@@ -2,8 +2,6 @@
 
 > [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/d2c5d0670b7143deb2d4/)
 >
-> [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FENDNOTE\&mode=list)
->
 > [Publication Tips](https://www.yinxiang.com/everhub/note/81f68b0f-80ca-463c-a96b-65765c90bde9) (Cover Letter, Status Enquiry Letter, etc)
 
 ## I. Format
@@ -15,7 +13,7 @@
 3. **Manuscript - Main text.docx** (see sections below)
 4. **Figures.pdf** (save as from PPT file)
 5. **Supplementary Info.pdf** (save as from docx file)
-6. **Supplementary file 1.xlsx, Supplementary file 2.xlsx, ...**&#x20;
+6. **Supplementary file 1.xlsx, Supplementary file 2.xlsx, ...**
 
 **Sections in Main text**
 
@@ -48,7 +46,7 @@
    * noncoding, cross-validation
    * _<font style="color:red;">**P**</font>_<font style="color:red;">**-value**</font> (italicize and capitalize the P here)
    * <font style="color:red;">**vs.**</font> (lower case with one dot after)
-   * <font style="color:red;">**i.e.,**</font> something ( "," is needed)&#x20;
+   * <font style="color:red;">**i.e.,**</font> something ( "," is needed)
    * <font style="color:red;">**e.g.,**</font> something ( "," is needed)
 2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
@@ -73,8 +71,8 @@
 ### **Main Text**
 
 1. Check **first** and **last** sentence in the **whole paper**. To make it easy to read, in every paragraph, first and last sentences are important. Usually, first sentence introduces and summarizes the whole paragraph; last sentence concludes the whole paragraph (e.g. "This result suggests that ...").
-2. Check voice:&#x20;
-   1. &#x20;n **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".&#x20;
+2. Check voice:
+   1. n **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".
    2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
 3. Recommended words:
    1. We <s><font style="color:red;">**performed**</font></s> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
@@ -96,41 +94,61 @@ In your scientific paper, use verb tenses (past, present, and future) exactly as
 
 * **Past tense**
 
-> **Work done**\
-> We collected blood samples from . . .\
-> Groves et al. determined the growth rate of . . .\
-> Consequently, astronomers decided to rename . . .\
-> \
-> **Work reported**\
-> Jankowsky reported a similar growth rate . . .\
-> In 2009, Chu published an alternative method to . . .\
-> Irarrázaval observed the opposite behavior in . . .\
-> \
-> **Observations**\
-> The mice in Group A developed, on average, twice as much . . .\
-> The number of defects increased sharply . . .\
-> The conversion rate was close to 95% . . .\
->
+> **Work done**
+> 
+> We collected blood samples from . . .
+> 
+> Groves et al. determined the growth rate of . . .
+> 
+> Consequently, astronomers decided to rename . . .
+> 
+> 
+> **Work reported**
+> 
+> Jankowsky reported a similar growth rate . . .
+> 
+> In 2009, Chu published an alternative method to . . .
+> 
+> Irarrázaval observed the opposite behavior in . . .
+> 
+> 
+> **Observations**
+> 
+> The mice in Group A developed, on average, twice as much . . .
+> 
+> The number of defects increased sharply . . .
+> 
+> The conversion rate was close to 95% . . .
+
 
 * **Present tense**
 
-> **General truths**\
-> Microbes in the human gut have a profound influence on . . .\
-> The Reynolds number provides a measure of . . .\
-> Smoking increases the risk of coronary heart disease . . .\
-> \
-> **Atemporal facts**\
-> This paper presents the results of . . .\
-> Section 3.1 explains the difference between . . .\
-> Behbood's 1969 paper provides a framework for . . .\
+> **General truths**
+> 
+> Microbes in the human gut have a profound influence on . . .
+> 
+> The Reynolds number provides a measure of . . .
+> 
+> Smoking increases the risk of coronary heart disease . . .
+> 
 >
+> **Atemporal facts**
+> 
+> This paper presents the results of . . .
+> 
+> Section 3.1 explains the difference between . . .
+> 
+> Behbood's 1969 paper provides a framework for . . .
+
 
 * **Future tense**
 
-> **Perspectives**\
-> In a follow-up experiment, we will study the role of . . .\
-> The influence of temperature will be the object of future research . . .\
->
+> **Perspectives**
+> 
+> In a follow-up experiment, we will study the role of . . .
+> 
+> The influence of temperature will be the object of future research . . .
+
 
 Note the difference in scope between a statement in the past tense and the same statement in the present tense: "The temperature increased linearly over time" refers to a specific experiment, whereas "The temperature increases linearly over time" generalizes the experimental observation, suggesting that the temperature always increases linearly over time in such circumstances.
 
@@ -140,9 +158,8 @@ In complex sentences, you may have to combine two different tenses — for examp
 
 ## III. 网友的写作建议
 
-{% embed url="https://www.nature.com/scitable/topicpage/effective-writing-13815989" %}
-Effective Writing by _Nature_
-{% endembed %}
+> [Effective Writing by _Nature_](https://www.nature.com/scitable/topicpage/effective-writing-13815989)
+
 
 **写出第一稿**
 
@@ -150,11 +167,10 @@ Effective Writing by _Nature_
 * 当你写作时，不要编辑！写作和编辑使用不同的半脑，交叉这两件事不容易。
 * 每个结果和相应的讨论一起写，以免之后忘记结果的解释和意义。再写方法，最后写介绍（基于结果和讨论）。
 * 用照片做类比：
-  *
-  * Introduction：Why was the picture taken?
-  * Results：What do you see?
-  * Conclusion and Discussion：What does it mean?
-  * Methods：How was it taken？
+	* Introduction：Why was the picture taken?
+	* Results：What do you see?
+	* Conclusion and Discussion：What does it mean?
+	* Methods：How was it taken？
 
 **编辑最终稿**
 
@@ -164,4 +180,4 @@ Effective Writing by _Nature_
 * 不使用『etc』、『and so on』，这些词说明作者懒。
 * 『observed』很弱很被动，改用：assess, calculate, detect, estimate, evaluate, examine...
 * 不用『obviously』，读者不一定容易理解。
-* 结果部分避免『significantly』，改为报&#x544A;_&#x50;_-value。讨论部分可用。
+* 结果部分避免『significantly』，改为报 _P-value_ 。讨论部分可用。
