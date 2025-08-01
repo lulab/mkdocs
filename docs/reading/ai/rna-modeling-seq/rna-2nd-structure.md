@@ -1,7 +1,6 @@
 # RNA 2nd Structure Prediction
 
-> * [**PDFs**](../)
-> * ✅ : Recommended
+> ✅ : Recommended
 
 ## I. RNA Secondary Structure Prediction
 
@@ -29,7 +28,7 @@
 
 ### 1. Structure probing methods
 
-关于RNA 二级结构高通量测序方法 (see more in **PDFs**)
+关于RNA 二级结构高通量测序方法 
 
 ### 2. Structure probing data analysis
 

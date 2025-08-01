@@ -4,13 +4,11 @@ description: POST-trAnscriptional Regulation
 
 # RNA Regulation Analysis
 
-{% hint style="info" %}
 ## **RNA Regulation - POSTAR**
 
 **POSTAR: POST-trAnscriptional Regulation** [http://POSTAR.ncRNAlab.org](http://postar.ncrnalab.org)
 
-[**PDFs**](../ai/)
-{% endhint %}
+
 
 ## 0. POSTAR & Genetics
 
@@ -119,4 +117,3 @@ description: POST-trAnscriptional Regulation
 
 * 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
 
-> see more in [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation\&mode=list)

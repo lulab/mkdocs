@@ -32,5 +32,3 @@
 * ✨ _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * ✨ _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FMulti-Omics&mode=list)
-

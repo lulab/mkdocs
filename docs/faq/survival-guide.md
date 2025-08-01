@@ -12,7 +12,7 @@ hidden: true
 >
 > 音频：[研究生生存指南.mp3](https://cloud.tsinghua.edu.cn/f/da01a0c322d241e5bd13/)
 >
-> 原文：[A grad school survival guide](guide.md#a-grad-school-survival-guide), _**Science**_ 2015
+> 原文：[A grad school survival guide](#a-grad-school-survival-guide), _**Science**_ 2015
 
 ***
 
@@ -36,7 +36,9 @@ hidden: true
 
 
 
-<figure><img src="https://www.science.org/cms/10.1126/science.347.6228.1386/asset/085f2b2a-e83a-482b-9f30-d56ef80b51ee/assets/graphic/347_1386_f1.jpeg" alt="" height="677" width="685"><figcaption><p>“Along the route to a Ph.D., rough seas can be navigated or avoided entirely.” ILLUSTRATION: ROBERT NEUBECKER</p></figcaption></figure>
+
+![](../img/guide.jpg)
+Along the route to a Ph.D., rough seas can be navigated or avoided entirely.” ILLUSTRATION: ROBERT NEUBECKER
 
 
 
@@ -67,7 +69,6 @@ Since becoming a postdoc, I've mentored several incoming graduate students. In d
 
 **Balance bouts of focused work with short breaks.** Intermittent breaks are invigorating and help you maintain focus for the entire day.
 
-\
 **Get organized.** Online calendars can ensure that you never miss an important meeting, experiment, or workshop. Cloud-based aggregators (e.g., Evernote) allow you to access practical information such as details for ordering supplies, locations of samples in the lab, and ideas for future experiments.
 
 

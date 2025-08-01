@@ -1,11 +1,5 @@
 # Multi-modal
 
-## 0. Foundation Models
-
-* [**2024 Nature** ](https://www.nature.com/articles/s41586-024-07894-z)- A pathology foundation model for cancer diagnosis and prognosis prediction
-* **\[RNA] 2024 Nature Machine Intelligence** - Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning
-* **\[scRNA-seq]** [**2024 Nature Methods**](https://pubmed.ncbi.nlm.nih.gov/38844628/) - Large-scale foundation model on single-cell transcriptomics
-
 ## I. LLMs for Multi-modal Data
 
 * ✅ [**2024 Nature machine intelligence**](https://www.nature.com/articles/s42256-024-00868-w)  - A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular marker discovery of gliomas
@@ -33,4 +27,22 @@
 * _**✨ 2022 BIB**_ - A computational framework to unify orthogonal information in DNA methylation and copy number aberrations in cell-free DNA for early cancer detection
 * _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
 * _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy
+
+
+
+## IV. More Deep Learning Models
+
+* **Deep Learning on RNA**
+	* **3D Structure prediction of RNA**: 2021 _Science_ - Geometric deep learning of RNA structure
+	* **2D structure** \(**Transfer learning**\): 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
+	* **RNA/DNA-Protein Binding (DeepBind)**: 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+	* **AS of RNA**: 2019 _Cell_ - Predicting Splicing from Primary Sequence with Deep Learning
+	* **AS of RNA \(DARTS**\): 2019 _Nature Methods_ - Deep-learning augmented RNA-seq analysis of transcript splicing
+	* **APA of RNA**: 2019 _Cell_ - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
+* **Deep Learning on DNA**
+	* **2022 Nature** - The evolution, evolvability and engineering of gene regulatory DNA
+* **Deep Learning on Protein**
+	* **2022 Nature Biotech.** - Using deep learning to annotate the protein universe
+	* _**AlphaFold2**_ - **2021&#x20;**_**Nature**_ - Highly accurate protein structure prediction with AlphaFold
+	* Baker et al. - **2021&#x20;**_**Science**_ - Accurate prediction of protein structures and interactions using a three-track neural network
 

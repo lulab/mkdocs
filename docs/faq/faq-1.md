@@ -45,7 +45,7 @@
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
-> **做好从本科生到研究生的角色转变，不能只知道“**<font style="color:red;">**学习**</font>**”，要侧重“**<font style="color:red;">**研究**</font>**”。**
+> 做好从本科生到研究生的角色转变，不能只知道“<font style="color:red;">学习</font>”，要侧重“<font style="color:red;">研究</font>”。
 
 * **科研生涯的四戒律**
   * 1\. 边干边学，不要彷徨；

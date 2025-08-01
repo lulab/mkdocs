@@ -1,18 +1,27 @@
 # RNA-Ligand
 
-{% hint style="success" %}
-**Autoregressive Approach:**
+!!!note "Note"
+    * **Autoregressive Approach:**
+    	* Pocket2Mol, ICML, 2022
+    	* PocketFlow, Nature Mach. Intell., 2024
+    	* Lingo3DMol, Nature Mach. Intell., 2024
+    * **Diffusion Approach:**&#x20;
+    	* TargetDiff, ICLR, 2023
+    	* PMDM, Nature Commn., 2024
+    	* \[Review] Diffusion Models for Molecules: A Survey of Methods and Tasks, 2025, [arXiv:2502.09511](https://arxiv.org/abs/2502.09511)
 
-* Pocket2Mol, ICML, 2022
-* PocketFlow, Nature Mach. Intell., 2024
-* Lingo3DMol, Nature Mach. Intell., 2024
 
-**Diffusion Approach:**&#x20;
 
-* TargetDiff, ICLR, 2023
-* PMDM, Nature Commn., 2024
-* \[Review] Diffusion Models for Molecules: A Survey of Methods and Tasks, 2025, [arXiv:2502.09511](https://arxiv.org/abs/2502.09511)
-{% endhint %}
+## Drug RNA
+
+* [_**2022 Nature Reviews | Genetics**_](https://www.nature.com/articles/s41576-021-00439-4) - Drug delivery systems for RNA therapeutics
+* ✅ [_**2022 Cell Death and Disease**_](https://www.nature.com/articles/s41419-022-05075-2) - RNA-based therapeutics: an overview and prospectus
+* ✅ [_**2021 Nature Reviews | Drug Discovery**_](https://www.nature.com/articles/s41573-021-00219-z) - Noncoding RNA therapeutics — challenges and potential solutions&#x20;
+* [**2021&#x20;**_**Nature Nanotechnology**_](https://www.nature.com/articles/s41565-021-00898-0) -  The current landscape of nucleic acid therapeutic
+
+
+
+
 
 ## RNA-ligand (small molecule) Interaction Prediction
 

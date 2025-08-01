@@ -43,11 +43,11 @@
 ### **Terms**
 
 1. Check the writing of specific terms in <font style="color:red;">right format</font> in the **whole paper**:
-   * noncoding, cross-validation
-   * _<font style="color:red;">**P**</font>_<font style="color:red;">**-value**</font> (italicize and capitalize the P here)
-   * <font style="color:red;">**vs.**</font> (lower case with one dot after)
-   * <font style="color:red;">**i.e.,**</font> something ( "," is needed)
-   * <font style="color:red;">**e.g.,**</font> something ( "," is needed)
+	* noncoding, cross-validation
+	* <font style="color:red;">_P-value_</font> (italicize and capitalize the P here)
+	* <font style="color:red;">vs.</font> (lower case with one dot after)
+	* <font style="color:red;">i.e.,</font> something ( "," is needed)
+	* <font style="color:red;">e.g.,</font> something ( "," is needed)
 2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
 ### **Grammar**
@@ -64,9 +64,9 @@
 
 > **Figure and Figure legend sometimes are more IMPORTANT than main text, because many senior readers read figures first.**
 
-1. Check if Figure Legends contain <font style="color:red;">**sufficiently detailed**</font> descriptions. (We got this suggestion from a previous reviewer who rejected our paper.)
-2. Check if the colors are <font style="color:red;">**easy to see**</font>.  (We got this suggestion from a previous reviewer who rejected our paper.)
-3. <font style="color:red;">**Font**</font>, key's and axis label's fonts in particular, in Figure need to be as large as possible.
+1. Check if Figure Legends contain <font style="color:red;">sufficiently detailed</font> descriptions. (We got this suggestion from a previous reviewer who rejected our paper.)
+2. Check if the colors are <font style="color:red;">easy to see</font>.  (We got this suggestion from a previous reviewer who rejected our paper.)
+3. <font style="color:red;">Font</font>, key's and axis label's fonts in particular, in Figure need to be as large as possible.
 
 ### **Main Text**
 
@@ -75,8 +75,8 @@
    1. n **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".
    2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
 3. Recommended words:
-   1. We <s><font style="color:red;">**performed**</font></s> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
-   2. We <s><font style="color:red;">**built**</font></s>  a Random Forest model … → We used/developed a Random Forest model to …
+   1. We <s><font style="color:red;">performed</font></s> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
+   2. We <s><font style="color:red;">built</font></s>  a Random Forest model … → We used/developed a Random Forest model to …
    3. We **assayed/analyzed** … datasets.
    4. We **assessed, calculated, detected, estimated, evaluated, examined**, ...
    5. We **curated/collected** … datasets from … OR 100 datasets were curated/collected from ...

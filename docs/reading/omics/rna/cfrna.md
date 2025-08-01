@@ -4,8 +4,6 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 # cfRNA-seq Analysis
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine&mode=list)
->
 > ✅ or ✨ **: recommended readings**
 
 ## I. Pipelines
@@ -16,10 +14,10 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 ## II. RNA Feature Extraction
 
-{% hint style="info" %}
-* see more in [**RNA Regulation**](postar.md): editing, splicing, modification, APA, chimeric RNA, etc
-* learn from [**cfDNA features**](../med/liquid-biopsy/#ii.-cfdna)
-{% endhint %}
+!!!note "Note"
+    * see more in [**RNA Regulation**](postar.md): editing, splicing, modification, APA, chimeric RNA, etc
+    * learn from [**cfDNA features**](../../med/liquid-biopsy/)
+
 
 ### II.1. RNA motif
 

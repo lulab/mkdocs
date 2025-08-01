@@ -1,7 +1,5 @@
 # Panel and Database
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
-
 ## 0. Databases
 
 * **2024 NAR** - cfOmics: a cell-free multi-Omics database for diseases
@@ -30,11 +28,11 @@
   * Part I. General Guidance and Tips
   * Part II. Statistical Methods of Meta-Analysis
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FMeta-analysis\&mode=list)
+
 
 ## III. Large-cohort Validation/Screen
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Validation\&mode=list)
+
 
 ### cfRNA Panels
 

@@ -2,7 +2,7 @@
 
 ## I. Start in Lu Lab 
 
-### 🎉 Welcome
+#### Welcome
 
 - :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 - :material-calendar-clock:  [Lab Meetings](meeting/meeting.md)  &  [Lab Calendar](meeting/cal.md)
@@ -10,16 +10,15 @@
 
 > :octicons-info-16:  [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 
-
 !!! quote ""
     “_The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
 
-### 📖 Learning
+#### Learning
 
-* Course: [Courses @Tsinghua](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/)  &  [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
-* Read: [Tips for Literature Reading](reading/reading.md)
-* Presentation: [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
+* **Course**: [Courses @Tsinghua](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/)  &  [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
+* **Read**: [Tips for Literature Reading](reading/reading.md)
+* **Presentation**: [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
 > :material-frequently-asked-questions: [正式参与生物信息科研课题之前该做哪些准备？](faq/faq-2.md#pre)（包括预修课推荐等）
 
@@ -30,22 +29,25 @@
 
 ## **II. Research in Lu Lab**
 
-### **🗂️ Files**
+> Files @[清华云盘](https://cloud.tsinghua.edu.cn) 
+>
+> *  **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
+>
+> *  **Lu Lab - Photos** ...
 
-* [清华云盘](https://cloud.tsinghua.edu.cn) (private) 
-	* **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
-	* **Lu Lab - Photos**
+#### **Dry-lab**
 
-### 🧪 Lab Training
+* Hardware, Software & Instructions @清华云 (private) : Lu Lab Shared-R/0.Lab Guide/1.Drylab Instructions, Experience Sharing, ... 
 
-* **Dry-lab Training**
-	* Hardware, Software & Instructions @清华云 (private) : Lu Lab Shared-R/0.Lab Guide/1.Drylab Instructions, Experience Sharing, ... 
-* **Wet-lab Training**
-	* [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab_safety)
-	* [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
-	* Instructions, Protocols & Samples @清华云 (private): Lu Lab Shared-R/0.Lab Guide/2. Wetlab Instructions, Experience Sharing, ... 
-* **Data**
-	* @清华云 (private): Lu Lab - Shared-R/0.Lab Guide/3. Data Instructions
+#### **Wet-lab**
+
+* [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab_safety)
+* [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
+* Instructions, Protocols & Samples @清华云 (private): Lu Lab Shared-R/0.Lab Guide/2. Wetlab Instructions, Experience Sharing, ... 
+
+#### **Data**
+
+* Instructions & Metadata @清华云 (private): Lu Lab - Shared-R/0.Lab Guide/3. Data Instructions
 
 
 !!!quote ""

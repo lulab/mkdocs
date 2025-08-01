@@ -1,17 +1,13 @@
 # RNA 3D Structure Prediction
 
-{% hint style="success" %}
-**Autoregressive Approach:**
-
-* AlphaFold 2, _Nature_, 2021
-* RoseTTAFold2, _bioRxiv_, 2023
-
-**Diffusion Approach:**&#x20;
-
-* RFDiffusion, _Nature_, 2023
-* RoseTTAFold All-Atom, _Science_, 2024
-* AlphaFold 3 (All-Atom), _Nature_, 2024
-{% endhint %}
+!!!note "Note"
+    * **Autoregressive Approach:**
+    	* AlphaFold 2, _Nature_, 2021
+    	* RoseTTAFold2, _bioRxiv_, 2023
+    * **Diffusion Approach:**&#x20;
+    	* RFDiffusion, _Nature_, 2023
+    	* RoseTTAFold All-Atom, _Science_, 2024
+    	* AlphaFold 3 (All-Atom), _Nature_, 2024
 
 ## 0. Protein Tertiary Structure Prediction
 
