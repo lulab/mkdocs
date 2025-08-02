@@ -11,8 +11,10 @@
 
 ### **cfRNA - cancer**
 
-* [**2025 Nature** ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
-* **2025 Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
+* ✅[**2025 Nature** ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
+* ✅[**2025 Nature Med**](https://www.nature.com/articles/s41591-025-03848-8) - Clinical utility of targeted RNA sequencing in cancer molecular diagnostics
+* ✅**[2025 Nature Biotechnology](https://doi.org/10.1038/s41587-025-02731-8)** - Modifications of microbiome-derived cell-free RNA in plasma discriminates colorectal cancer samples
+* ✅**2025 Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential
 * **2023 Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
 * **2022 Cancer Cell** - Detection and localization of early- and late-stage cancers using platelet RNA
 * **2022 eLife** - Cancer type classification using plasma cell-free RNAs derived from human and microbes
@@ -34,7 +36,9 @@
 ### Cancer
 
 * **Long**
-  * ✅ **Captured long cfRNA-seq:** [**2025&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
+  * ✅ **Targeted long cfRNA-seq:** [**2025&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
+  * ✅[**2025 Nature Med**](https://www.nature.com/articles/s41591-025-03848-8) - Clinical utility of targeted RNA sequencing in cancer molecular diagnostics
+  * ✅**[2025 Nature Biotechnology](https://doi.org/10.1038/s41587-025-02731-8)** - Modifications of microbiome-derived cell-free RNA in plasma discriminates colorectal cancer samples
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023&#x20;**_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
   * **2023 Nature Commn.** - Terminal modiﬁcations independent cell-free RNA sequencing enables sensitive early cancer detection and classiﬁcation
@@ -57,7 +61,7 @@
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Small/Frag.**
-  * ✨ **2025&#x20;**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
+  * ✅  **2025&#x20;**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
   * ✨ **oncRNA: 2024 bioRxiv** - Systematic annotation of orphan RNAs reveals blood-accessible molecular barcodes of cancer identity and cancer-emergent oncogenic drivers
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis

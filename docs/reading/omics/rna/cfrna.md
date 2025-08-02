@@ -16,7 +16,7 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 !!!note "Note"
     * see more in [**RNA Regulation**](postar.md): editing, splicing, modification, APA, chimeric RNA, etc
-    * learn from [**cfDNA features**](../../med/liquid-biopsy/)
+        * learn from [**cfDNA features**](../../med/liquid-biopsy/cfDNA.md)
 
 
 ### II.1. RNA motif
@@ -78,12 +78,12 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 * **MNN**: **2017&#x20;**_**Nature Biotech.**_ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 * ✅ **Review**: **2017&#x20;**_**Nature Methods**_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
 
-## V. Tissue of Origin
+## V. Cell/Tissue-of-Origin
 
 * ✅ [**2024 Cell Genomics -**](https://doi.org/10.1016/j.xgen.2024.100522) Revealing the grammar of small RNA secretion
 * ✅ **Deconvolution**: **2022&#x20;**_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
 * **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
-* ✅ **miRNA motif -&#x20;**_**2021 Nature**_**&#x20;-** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
+* ✅ **miRNA motif/code -&#x20;**_**2021 Nature**_**&#x20;-** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * ✅ **2017&#x20;**_**Genome Biology**_ - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
 
 ## VI. Classification Models

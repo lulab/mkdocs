@@ -1,7 +1,3 @@
----
-description: Literature, Course and Book Recommendations
----
-
 # Artificial Intelligence
 
 !!!note "Note"
