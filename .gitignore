@@ -107,5 +107,3 @@ ENV/
 # MkDocs documentation
 site*/
 
-docs/reading/.DS_Store
-docs/reading/med/.DS_Store
