@@ -1,8 +1,14 @@
 # Liquid Biopsy
 
+**Table of Contents**
+
+* [cfRNA](cfRNA.md)
+* [cfDNA +](cfDNA.md)
+* [Panel and Database](panel-and-screen.md)
+
+---
+
 > ✅ or ✨ **: recommended readings**
-
-
 
 ##  I. 关于液体活检技术的科普
 
@@ -59,13 +65,3 @@
   
 
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
-
-
-
-
-
-## III. Table of Contents
-
-* [cfRNA](cfRNA.md)
-* [cfDNA +](cfDNA.md)
-* [Panel and Database](panel-and-screen.md)
