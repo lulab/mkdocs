@@ -6,8 +6,6 @@
 
 ---
 
-> ✅ or ✨ **: recommended readings**
-
 ##  I. 关于液体活检技术的科普
 
 * **News**
