@@ -100,6 +100,9 @@
 
 ### ERCC  (_2019 Cell papers_)
 
+> * [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium (ERCC) @ _Cell_
+> * [Outlook collection](https://www.nature.com/collections/hibdgeeijf) of _Nature_ ([Could tracking RNA in body fluids reveal disease?](https://www.nature.com/articles/d41586-020-01763-1) )
+
 * **exceRpt**: Cell system 2019 - exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
 * **ERCC perspective**: Cell perspective 2019 - The Extracellular RNA Communication Consortium: Establishing Foundational Knowledge and Technologies for Extracellular RNA Research
