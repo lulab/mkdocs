@@ -1,7 +1,5 @@
 # Liquid Biopsy
 
-**Table of Contents**
-
 * [cfRNA](cfRNA.md)
 * [cfDNA +](cfDNA.md)
 * [Panel and Database](panel-and-screen.md)
