@@ -65,7 +65,8 @@
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 
 **Small/Frag.**
-  * ✅  **2025**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
+
+  * ✅  **2025**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential
   * ✨ **oncRNA: 2024 bioRxiv** - Systematic annotation of orphan RNAs reveals blood-accessible molecular barcodes of cancer identity and cancer-emergent oncogenic drivers
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
@@ -77,9 +78,7 @@
 
 ### Pregnancy
 
-*   (**ccfDNA - 2023&#x20;**_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
-
-    Pregnancy Loss Study (COPL): a prospective cohort study)
+*   (**ccfDNA - 2023&#x20;**_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen Pregnancy Loss Study (COPL): a prospective cohort study)
 * ✅ **long cfRNA-seq**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
 * **Captured long cfRNA-seq**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
 * **2020 Science translational medicine** - Circulating transcripts in maternal blood reflect a molecular signature of early-onset preeclampsia
