@@ -35,7 +35,8 @@
 
 ### Cancer
 
-* **Long**
+**Long**
+
   * ✅ **Targeted long cfRNA-seq:** [**2025&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
   * ✅[**2025 Nature Med**](https://www.nature.com/articles/s41591-025-03848-8) - Clinical utility of targeted RNA sequencing in cancer molecular diagnostics
   * ✅**[2025 Nature Biotechnology](https://doi.org/10.1038/s41587-025-02731-8)** - Modifications of microbiome-derived cell-free RNA in plasma discriminates colorectal cancer samples
@@ -55,13 +56,16 @@
   * **2018 PNAS** - Human plasma and serum extracellular small RNA reference profiles and their clinical utility
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
-* **Long - Platelet**&#x20;
+
+**Long - Platelet**
+
   * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * _**2022 Genome Medicine**_ - RNA profiling of blood platelets noninvasively differentiates colorectal cancer from healthy donors and noncancerous intestinal diseases: a retrospective cohort study
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
-* **Small/Frag.**
-  * ✅  **2025&#x20;**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
+
+**Small/Frag.**
+  * ✅  **2025**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
   * ✨ **oncRNA: 2024 bioRxiv** - Systematic annotation of orphan RNAs reveals blood-accessible molecular barcodes of cancer identity and cancer-emergent oncogenic drivers
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
