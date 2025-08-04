@@ -1,8 +1,8 @@
----
-description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
----
-
 # cfRNA-seq & cfDNA-seq Tech.
+
+!!!quote  ""
+    See other topics of cfRNA in [cfRNA Studies](../../med/liquid-biopsy/cfRNA) 
+
 
 ## I. cfRNA-seq Protocols & Technologies
 

@@ -18,6 +18,7 @@
 
 ### 1. Genetics & Post-GWAS
 
+* ✅**[2024 Nature Genetics](https://www.nature.com/articles/s41588-024-02019-8)** - Single-cell RNA sequencing of peripheral blood links cell-type-specific regulation of splicing to autoimmune and inflammatory diseases
 * **2024 Nature Communications** - Long-read sequencing for 29 immune cell subsets reveals disease-linked isoforms
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
 * **2022 Nature Genetics** - Genetic control of RNA splicing and its distinct role in complex trait variation

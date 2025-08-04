@@ -1,13 +1,6 @@
----
-description: POST-trAnscriptional Regulation
----
+# POSTAR: POST-trAnscriptional Regulation Analysis
 
-# RNA Regulation Analysis
-
-## **RNA Regulation - POSTAR**
-
-**POSTAR: POST-trAnscriptional Regulation** [http://POSTAR.ncRNAlab.org](http://postar.ncrnalab.org)
-
+> **POSTAR Database:** (POST-trAnscriptional Regulation)  [http://POSTAR.ncRNAlab.org](http://postar.ncrnalab.org)
 
 
 ## 0. POSTAR & Genetics

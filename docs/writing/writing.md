@@ -40,6 +40,19 @@
 
 ## II. Writing Rules
 
+### **Grammar and English Writing Tools**
+
+> [**Grammarly**](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin. You can also install it into your office word from this [add-in](https://appsource.microsoft.com/en-us/fontetplace/apps?product=office\&page=1\&src=office\&search=grammarly).
+>
+> AI tools like <font style="color:red;">**ChatGPT** </font>and <font style="color:red;">**ChatGLM**</font> (智谱清言）are even more powerful tools to modify and improve your English writing.
+
+1. Check **plural** or **single**.
+2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
+3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
+4. Check number list (First, Second, Third, ...) see [Firstly, Secondly, Thirdly - Grammarly Blog](https://www.grammarly.com/blog/firstly/)
+5. Check [When do you use 'the' in English? - Learning English Grammar ](https://grammar.collinsdictionary.com/easy-learning/when-do-you-use-the-in-english)
+
+
 ### **Terms**
 
 1. Check the writing of specific terms in <font style="color:red;">right format</font> in the **whole paper**:
@@ -50,15 +63,6 @@
 	* <font style="color:red;">e.g.,</font> something ( "," is needed)
 2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
-### **Grammar**
-
-> [**Grammarly**](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin. You can also install it into your office word from this [add-in](https://appsource.microsoft.com/en-us/fontetplace/apps?product=office\&page=1\&src=office\&search=grammarly).
-
-1. Check **plural** or **single**.
-2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
-3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
-4. Check number list (First, Second, Third, ...) see [Firstly, Secondly, Thirdly - Grammarly Blog](https://www.grammarly.com/blog/firstly/)
-5. Check [When do you use 'the' in English? - Learning English Grammar ](https://grammar.collinsdictionary.com/easy-learning/when-do-you-use-the-in-english)
 
 ### **Figure and Figure Legend**
 

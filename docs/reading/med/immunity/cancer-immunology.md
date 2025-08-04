@@ -8,6 +8,8 @@ description: System and Environment
 
 ## **1. dsRNA** and immunity
 
+> **[Background/Introduction](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)** 
+
 * \[IRAlus Review] **2024 Experimental & Molecular Medicine** - Inverted Alu repeats: friends or foes in the human transcriptome
 * [**2024 Molecular Cell**](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(23\)00977-2) - The competitive landscape of the dsRNA world
 * [**2024 Nature**](https://www.nature.com/articles/s41586-024-07576-w) - dsRNA formation leads to preferential nuclear export and gene expression

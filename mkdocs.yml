@@ -49,7 +49,8 @@ nav:
     - Omics Data Analysis:
       - Transcriptomics: 
         - cfRNA Analysis: reading/omics/rna/cfrna.md
-        - RNA Regulation Analysis: reading/omics/rna/postar.md
+        - Regulome Analysis: reading/omics/rna/regulome.md
+        - POSTAR Analysis: reading/omics/rna/postar.md
       - MultiOmics:
         - MultiOmics Data Analysis: reading/omics/multiomics/multiomics.md
         - Single Cell Data Analysis: reading/omics/multiomics/single-cell-data-analysis.md
