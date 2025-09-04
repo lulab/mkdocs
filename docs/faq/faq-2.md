@@ -69,6 +69,7 @@
 * **Subgroup Meeting**: research results' report & discussion
 * **WECHAT** (**urgent**: need answer **within 24 hours or less**)
 * **EMAIL** (not urgent, need answer in a day or more)
+* **EMAIL+WECHAT** (因为清华邮箱有时会丢邮件，虽不紧急但很重要的信息不得不用微信或者微信+email)
 
 > **“为什么国外把邮件(email)当微信一样发？**
 >
