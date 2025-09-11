@@ -42,6 +42,11 @@
 
 * ✅ **2023 Cell Rep Med.** - Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
 
+**Cell-of-origin (classify type of cancer)**
+
+* ✅ **2022 Nature Biotech** - Cell types of origin of the cell-free transcriptome
+* 2021 Nature - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
+
 **Mechanism study of candidate RNA:**
 
 * **2018 Nature Med.** - Cancer cells exploit an orphan RNA to drive metastatic progression
