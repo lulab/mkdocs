@@ -1,9 +1,17 @@
+:root  > * {
+  --md-primary-fg-color:  #2980b9;
+}
+
+
 .md-typeset h1 {
-	color: teal;
+#	color: teal;
+	color: #2980b9;
+    font-family: Georgia, "Microsoft Yahei","Heiti", "Times New Roman", serif;
 }
 .md-typeset h2 {
-	color: teal;
+	color: #2980b9;
 	font-weight: bold;
+    font-family: Georgia,"Microsoft Yahei","Heiti", "Times New Roman", serif;
 }
 .md-nav {
 	color: grey;
