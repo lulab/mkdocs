@@ -1,12 +1,12 @@
 # FAQ - I. 科研方法
 
-!!! tip "Tips"
+!!! note "Tips"
+     - [**研究生生存指南**](../survival-guide)[**A grad school survival guide**](../survival-guide#a-grad-school-survival-guide)
 
-    - [**研究生生存指南**](../survival-guide)  [**A grad school survival guide**](../survival-guide#a-grad-school-survival-guide) 
-    - Want to get great at something? **Get a coach !**  [TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
+    - Want to get great at something? **Get a coach !**[TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
 
 
-### 1) 科研中建议养成哪些好的习惯？ 
+### 1) 科研中建议养成哪些好的习惯？
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
@@ -25,27 +25,23 @@
 
 实操建议：
 
-1. 对于重要而不紧急的事情，<font style="color:red;">多用 email 少用微信</font>   （see [detail](faq-2.md#email))
-2. <font style="color:red;">做事要提前</font>（比如请假、比如完成任务）   (see [detail](faq-3.md#vacation))
-3. <font style="color:red;">"研究“ 为主  "学习“为辅</font>   (see [detail](faq-1.md#sci) )
-4. <font style="color:red;">带上“纸”和“笔”</font>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
-5. <font style="color:red;">高级冥想</font> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
+1. 对于重要而不紧急的事情，`<font style="color:red;">`多用 email 少用微信`</font>`   （see [detail](faq-2.md#email))
+2. `<font style="color:red;">`做事要提前`</font>`（比如请假、比如完成任务）   (see [detail](faq-3.md#vacation))
+3. `<font style="color:red;">`"研究“ 为主  "学习“为辅`</font>`   (see [detail](faq-1.md#sci) )
+4. `<font style="color:red;">`带上“纸”和“笔”`</font>`  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
+5. `<font style="color:red;">`高级冥想`</font>` 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
 
-
-
-### 2) 如何学习新知识和新技能？ <a href="#coach" id="coach"></a>
+### 2) 如何学习新知识和新技能？ `<a href="#coach" id="coach"></a>`
 
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
 ![学习金字塔](../img/learning.jpg)
 
-
-
-### 3) 如何成为一个好的研究生和科研工作者？ <a href="#sci" id="sci"></a>
+### 3) 如何成为一个好的研究生和科研工作者？ `<a href="#sci" id="sci"></a>`
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
-> 做好从本科生到研究生的角色转变，不能只知道“<font style="color:red;">学习</font>”，要侧重“<font style="color:red;">研究</font>”。
+> 做好从本科生到研究生的角色转变，不能只知道“`<font style="color:red;">`学习`</font>`”，要侧重“`<font style="color:red;">`研究`</font>`”。
 
 * **科研生涯的四戒律**
   * 1\. 边干边学，不要彷徨；
@@ -76,9 +72,7 @@
   * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
-
-
-### 4) 如何才能高效率地完成不喜欢的工作或学习任务？ 
+### 4) 如何才能高效率地完成不喜欢的工作或学习任务？
 
 "绝招只有一个：不要过度准备，**先随便开个头**。
 
@@ -88,9 +82,6 @@
 
 你就这么想，我先随便开个头再说吧。其实一起头你就会发现，根本不像你想的那么痛苦，**很多时候你开了个头就刹不住了**，不知不觉就做完了。"
 
-
-
 作者：@苍泠
 
 更多方法： [https://www.zhihu.com/question/50353727](https://www.zhihu.com/question/50353727)
-

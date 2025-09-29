@@ -3,8 +3,8 @@ site_name: Docs @ Lu Lab
 site_url: http://lulab.life.tsinghua.edu.cn/docs
 theme:
   name: material
-  palette:
-    primary: custom
+ # palette:
+ #   primary: custom
   features:
     - navigation.tabs
     - navigation.tabs.sticky
