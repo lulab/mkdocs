@@ -11,6 +11,11 @@ theme:
     - navigation.top
     - navigation.indexes 
     - navigation.sections
+  markdown_extensions:
+    - admonition
+    - footnotes
+    - attr_list
+    - Highlight
 extra_css: [extra.css] 
 
 markdown_extensions: 
@@ -18,6 +23,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - footnotes
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -28,7 +34,28 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight
 
+
+plugins:
+  - callouts
+  - search
+  - meta
+  - glightbox:
+     effect: zoom
+  - mkdocs-audio
+  - mkdocs-video:
+     is_video: True
+     video_loop: True
+     video_muted: True
+     video_controls: True
+     video_autoplay: True
+     css_style:
+        max-height: 180px /* match with default img height in extra.css */
+        margin-right: 15px
+        vertical-align: left
+        border: 2px solid grey
+        border-radius: 8px
 
 nav:
   - Getting Started: index.md
@@ -83,4 +110,13 @@ nav:
         - RNA-Ligand: reading/ai/rna-modeling-structure/rna-ligand.md
         - RNA-Protein: reading/ai/rna-modeling-structure/rna-protein.md
         - RNA & Protein Design: reading/ai/rna-modeling-structure/rna-and-protein-design.md
-  - Paper Writing: writing/writing.md
+  - Publications: 
+    - By Year: pub/pub.md
+    - By Topic: pub/pub-topics.md
+    - Software: pub/software.md
+    - Tips for Writing: pub/writing.md
+  - Courses:
+    - Overview: courses/index.md 
+    - Bioinformatics: courses/bioinfo.md
+    - AI for Biomedicine: courses/ai.md
+    - Genomics - PTN: courses/genomics.md
