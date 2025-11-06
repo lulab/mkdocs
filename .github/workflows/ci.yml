@@ -30,6 +30,5 @@ jobs:
                 mkdocs-glightbox \
                 mkdocs-video \
                 mkdocs-audio \
-                mkdocs-callouts \
-                mkdocs-encryptcontent-plugin
+                mkdocs-callouts
       - run: mkdocs gh-deploy --force
