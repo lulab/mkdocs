@@ -4,7 +4,7 @@ site_url: https://lulab.github.io/mkdocs
 theme:
   name: material
   palette:
-    primary: blue grey
+    primary: grey
   features:
     - navigation.tabs
     - navigation.tabs.sticky
