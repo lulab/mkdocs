@@ -1,6 +1,6 @@
-site_name: Docs @ Lu Lab
-#site_url: https://lulab.github.io/mkdocs
-site_url: http://lulab.life.tsinghua.edu.cn/docs
+site_name: Example MkDocs
+site_url: https://lulab.github.io/mkdocs
+
 theme:
   name: material
  # palette:
