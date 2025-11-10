@@ -2,6 +2,10 @@
 
 ## I. siRNA/ASO
 
+### 0. Review
+
+* **[2025 Nature Signal Transduction and Targeted Therapy](https://doi.org/10.1038/s41392-024-02112-8)** - Landscape of small nucleic acid therapeutics: moving from the bench to the clinic as next-generation medicines	
+
 ### 1. Efficacy prediction
 
 * [_**Our papers: NAR 2008a, 2008b, 2008c**_](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
@@ -13,6 +17,9 @@
 * _**2005 Nature Biotech.**_ - Design of a genome-wide siRNA library using an artificial neural network
 
 ### 2. Off-target
+
+
+> [Wet-lab Methods](../../seq-tech/interaction-seq.md#iii-off-target)
 
 * ✅ [**2024 Bioinformatics** ](https://academic.oup.com/bioinformatics/article/40/1/btae011/7513164)- SeedMatchR: identify off-target effects mediated by siRNA seed regions in RNA-seq experiments
 * ✅ _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
@@ -31,15 +38,13 @@
 * ✅ _**2018 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
 * [more sgRNA papers](https://portals.broadinstitute.org/gppx/crispick/public/faq)&#x20;
 
-### **2a. sgRNA offtarget - computational methods**
+### **2. sgRNA offtarget - computational methods**
 
+* **2024 Nucleic Acids Research** - Generating, modeling and evaluating a large-scale set of CRISPR/Cas9 off-target sites with bulges
 * \[Benchmark] [**2023 BIB**](https://academic.oup.com/bib/article/24/6/bbad333/7286387) - Benchmarking deep learning methods for predicting CRISPR/Cas9 sgRNA on- and off-target activities
 * \[review][ **2023 BIB**](https://academic.oup.com/bib/article/24/3/bbad131/7130974) - Using traditional machine learning and deep learning methods for on- and off-target prediction in CRISPR/Cas9: a review
 * [**2023 Nature Communications** ](https://www.nature.com/articles/s41467-023-42695-4)- Genome-wide CRISPR off-target prediction and optimization using RNA-DNA interaction fingerprints
 * ✅ \[off-target] _**2016 Nature Biotech.**_ -Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
 
-### **2b. sgRNA offtarget - experimental methods**
 
-* **2024 Nat. Biotech.** - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
-* **2023 Nat. Methods** - Improving the sensitivity of in vivo CRISPR off-target detection with DISCOVER-Seq+
-* **2019 Science** _-_ Unbiased detection of CRISPR off-targets in vivo using DISCOVER-Seq
+

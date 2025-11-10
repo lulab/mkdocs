@@ -1,7 +1,5 @@
 ---
-layout: course
 title: AI for Biomedicine
-description:  【生物医学中的AI实践】
 ---
 
 # 【生物医学中的AI实践】- 秋季学期课程
@@ -24,8 +22,9 @@ description:  【生物医学中的AI实践】
 
 
 
-## 【教学理念】Teaching Philosophy
+## 【教学理念】
 
+<big>**Teaching Philosophy**</big>
 
 “Study and Practice”   **知行合一**
 

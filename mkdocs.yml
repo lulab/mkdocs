@@ -1,10 +1,11 @@
-site_name: Example MkDocs
-site_url: https://lulab.github.io/mkdocs
-
+site_name: Lu Lab Docs
+#site_url: https://lulab.github.io/mkdocs
+site_url: http://lulab.life.tsinghua.edu.cn/docs
 theme:
+  logo: img/Z-1.png
   name: material
-  palette:
-    primary: grey
+ # palette:
+ #   primary: custom
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -17,7 +18,8 @@ theme:
     - attr_list
     - Highlight
 extra_css: [extra.css] 
-
+extra: 
+  homepage: http://lulab.life.tsinghua.edu.cn
 markdown_extensions: 
   - tables
   - attr_list
@@ -56,19 +58,33 @@ plugins:
         vertical-align: left
         border: 2px solid grey
         border-radius: 8px
+#  - encryptcontent:
+#      password_inventory:
+#        classified: setapassword
+#        confidential: setanotherpasswordhere
 
+repo_url: https://github.com/lulab
+repo_name: github/lulab
 nav:
-  - Getting Started: index.md
-  - FAQ: 
-    - I.科研方法: faq/faq-1.md
-    - II.科研实践: faq/faq-2.md
-    - III.实验室规范: faq/faq-3.md
-    - IV.生活和财务: faq/faq-4.md
-    - V.办公硬件和软件: faq/faq-5.md
-    - VI.网络和数据: faq/faq-6.md
-  - Lab Meetings:
-    - Lab Meetings: meeting/meeting.md
-    - Lab Calendar: meeting/cal.md
+  - Home: http://lulab.life.tsinghua.edu.cn
+  - Getting Started: 
+    - Getting Started: index.md
+    - 1.Lab Meetings: meeting/meeting.md
+    - 2.Lab Calendar: meeting/cal.md
+    - FAQ: 
+      - I.科研方法: faq/faq-1.md
+      - II.科研实践: faq/faq-2.md
+      - III.实验室规范: faq/faq-3.md
+      - IV.生活和财务: faq/faq-4.md
+      - V.办公硬件和软件: faq/faq-5.md
+      - VI.其他问题: faq/faq-6.md
+    - Intranet: 
+      - 1.Network: intranet/network.md
+      - 2.Facilities & Instructions: intranet/facilities.md
+    - Programming: 
+      - 1.Mac Settings: program/macos.md
+      - 2.Homebrew & Pip: program/homebrew.md
+      - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md      
   - Literature Reading:
     - Tips for paper reading: reading/reading.md
     - Seq. Tech.:
@@ -90,7 +106,7 @@ nav:
         - ncRNA in Cancer: reading/med/cancer/ncrna.md
         - Cancer Immunotherapy: reading/med/cancer/cancer-immunotherapy.md
       - Immunity: 
-        - RNA in Immune System: reading/med/immunity/cancer-immunology.md
+        - RNA in Immune System: reading/med/immunity/RNA-immune.md
         - Immune Diseases: reading/med/immunity/immune-diseases.md
       - Liquid Biopsy:  
         - Overview: reading/med/liquid-biopsy/index.md       
@@ -115,8 +131,12 @@ nav:
     - By Topic: pub/pub-topics.md
     - Software: pub/software.md
     - Tips for Writing: pub/writing.md
+  - Projects:
+    - Background: proj/background.md
+    - Research Projects: proj/proj.md
+    - Funding: proj/funding.md
   - Courses:
-    - Overview: courses/index.md 
+    - Courses: courses/index.md 
     - Bioinformatics: courses/bioinfo.md
     - AI for Biomedicine: courses/ai.md
     - Genomics - PTN: courses/genomics.md

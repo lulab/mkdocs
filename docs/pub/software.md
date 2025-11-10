@@ -1,25 +1,18 @@
 # Published Software
 
+> [专利和著作权](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
+>
+> [Lu Lab's **Github**](https://github.com/lulab)
+
 We are interested in developing bioinformatics technologies and practicing evidence-based medicine.
 Here, we develop bioinformatic software about biological system, and applying them to RNA biology and Precision Medicine.
 
 
 <div align="middle">
-<img src="https://lulab.life.tsinghua.edu.cn/ncrnalab/projects/projects.webp" style="zoom:20%;" />
+<img src="https://lulab.life.tsinghua.edu.cn/ncrnalab/projects/projects.webp" style="zoom:30%;" />
 </div>
 
-
-
-
-> [Lu Lab's **Github**](https://github.com/lulab)
-
-
-
 ---
-
-
-
-
 
 ## A. RNA-Finder
 

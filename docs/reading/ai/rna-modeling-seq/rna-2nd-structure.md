@@ -19,8 +19,10 @@
 
 ### 2. Recent Research Articles and Reviews
 
-* ✅ \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
+* **2025 Nature Communications** - Deep generalizable prediction of RNA secondary structure via base pair motif energy
+* \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
 * \[review] **2022 PNAS** - Thoughts on how to think (and talk) about RNA structure
+* **2022 Nucleic Acids Research** -UFold_fast and accurate RNA secondary structure prediction with deep learning
 * [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms ([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig))
 * (**Transfer learning**) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 

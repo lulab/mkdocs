@@ -12,7 +12,8 @@ description: System and Environment
 
 * ✅ [**2025 Nature Reviews Genetics**](https://www.nature.com/articles/s41576-025-00830-5) - Leveraging genetics to understand ADAR1-mediated RNA editing in health and disease
 * \[IRAlus Review] **2024 Experimental & Molecular Medicine** - Inverted Alu repeats: friends or foes in the human transcriptome
-* [**2024 Molecular Cell**](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(23\)00977-2) - The competitive landscape of the dsRNA world
+* **2024 Nature Communications** - Release of mitochondrial dsRNA into the cytosol is a key driver of the inflammatory phenotype of senescent cells
+* \[Review] [**2024 Molecular Cell**](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(23\)00977-2) - The competitive landscape of the dsRNA world
 * [**2024 Nature**](https://www.nature.com/articles/s41586-024-07576-w) - dsRNA formation leads to preferential nuclear export and gene expression
 * ✅ **2024 Nature Reviews Immunology** - Novel insights into double-stranded RNA-mediated immunopathology
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences

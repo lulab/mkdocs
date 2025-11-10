@@ -1,10 +1,19 @@
+---
+hide:
+  - toc
+---
+
 # Publications  <small>*by Topic*</small>
 
-<div align="middle">
-<img src="https://lulab.life.tsinghua.edu.cn/ncrnalab/projects/projects.webp" style="zoom:20%;" />
-</div>
 
 > [代表性文章中文解读](https://lulab.life.tsinghua.edu.cn/ncrnalab/news/#news)
+>
+> [专利和著作权](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
+
+![](https://lulab.life.tsinghua.edu.cn/ncrnalab/projects/projects.webp){: style="zoom:30%;"}
+
+
+[TOC]
 
 ---
 

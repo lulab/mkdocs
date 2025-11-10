@@ -6,13 +6,19 @@
 .md-typeset h1 {
 #	color: teal;
 	color: #2980b9;
-    font-family: Georgia, "Microsoft Yahei","Heiti", "Times New Roman", serif;
+      font-family: Georgia, "Microsoft Yahei","Heiti", "Times New Roman", serif;
 }
 .md-typeset h2 {
 	color: #2980b9;
 	font-weight: bold;
-    font-family: Georgia,"Microsoft Yahei","Heiti", "Times New Roman", serif;
+      font-family: Georgia,"Microsoft Yahei","Heiti", "Times New Roman", serif;
 }
+.md-typeset h3 {
+      font-family: Georgia,"Microsoft Yahei","Heiti", "Times New Roman", serif;
+	font-weight: bold;
+}
+
+
 .md-nav {
 	color: grey;
 }

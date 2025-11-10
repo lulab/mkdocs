@@ -1,4 +1,4 @@
-# Multi-Omics
+# Multi-Omics Data Analysis
 
 ## 1. Review
 
@@ -21,6 +21,7 @@
 
 ## 3. Method
 
+* ✅ [**2024 Nature Methods**](https://www.nature.com/articles/s41592-024-02429-w) - Benchmarking algorithms for single-cell multi-omics prediction and integration
 * ✨ _**2021 Bioinformatics -**_  Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data
 * _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
 * _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays

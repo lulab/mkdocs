@@ -64,6 +64,7 @@
 
 **Long**
 
+* **2025 Nature Communications** - Cell free RNA detection of pancreatic cancer in pre diagnostic high risk and symptomatic patients
 * ✅ **Targeted long cfRNA-seq:** [**2025&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
 * ✅[**2025 Nature Med**](https://www.nature.com/articles/s41591-025-03848-8) - Clinical utility of targeted RNA sequencing in cancer molecular diagnostics
 * ✅**[2025 Nature Biotechnology](https://doi.org/10.1038/s41587-025-02731-8)** - Modifications of microbiome-derived cell-free RNA in plasma discriminates colorectal cancer samples

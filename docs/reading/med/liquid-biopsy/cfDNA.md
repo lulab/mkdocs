@@ -20,6 +20,7 @@
 
 ### **cfDNA/mbDNA** 
 
+* **2025 Nature Medicine** - Early detection of multiple cancer types using multidimensional cell-free DNA fragmentomics
 * **2024 Science Translational Medicine** - Machine learning to detect the SINEs of cancer
 * **2023 GB** - The landscape of cell-free mitochondrial DNA in liquid biopsy for cancer detection
 * **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
@@ -71,3 +72,6 @@ see [cfRNA](cfRNA.md)
 
 * **2024 Nature Commn.** - Metabolomic machine learning predictor for diagnosis and prognosis of gastric cancer
 
+### Others
+
+* **2025 Cell Research** - DNA remnants in red blood cells enable early detection of cancer
