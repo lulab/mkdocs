@@ -1,6 +1,6 @@
 site_name: Lu Lab Docs
-#site_url: https://lulab.github.io/mkdocs
-site_url: http://lulab.life.tsinghua.edu.cn/docs
+site_url: https://lulab.github.io/mkdocs
+#site_url: http://lulab.life.tsinghua.edu.cn/docs
 theme:
   logo: img/Z-1.png
   name: material
@@ -19,7 +19,7 @@ theme:
     - Highlight
 extra_css: [extra.css] 
 extra: 
-  homepage: http://lulab.life.tsinghua.edu.cn
+  homepage: http://www.ncRNAlab.org
 markdown_extensions: 
   - tables
   - attr_list
@@ -66,7 +66,7 @@ plugins:
 repo_url: https://github.com/lulab
 repo_name: github/lulab
 nav:
-  - Home: http://lulab.life.tsinghua.edu.cn
+  - Home: http://www.ncRNAlab.org
   - Getting Started: 
     - Getting Started: index.md
     - 1.Lab Meetings: meeting/meeting.md
