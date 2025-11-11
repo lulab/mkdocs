@@ -80,7 +80,7 @@
 
 > * **Lu Lab @ Tsinghua University**
 > * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
-> * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
+> * Courses:  [courses.ncRNAlab.org](http://courses.ncRNAlab.org)
 > * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )&#x20;
 > * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org) 
 > 
