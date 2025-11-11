@@ -58,6 +58,9 @@ plugins:
         vertical-align: left
         border: 2px solid grey
         border-radius: 8px
+  - redirects:
+      redirect_maps:
+        'ncrnalab/index.md': 'http://www.ncrnalab.org'
 #  - encryptcontent:
 #      password_inventory:
 #        classified: setapassword

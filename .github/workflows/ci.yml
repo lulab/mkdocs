@@ -30,5 +30,6 @@ jobs:
                 mkdocs-glightbox \
                 mkdocs-video \
                 mkdocs-audio \
-                mkdocs-callouts
+                mkdocs-callouts \
+                mkdocs-redirects
       - run: mkdocs gh-deploy --force
