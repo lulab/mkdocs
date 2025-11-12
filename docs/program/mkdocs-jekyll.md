@@ -10,14 +10,14 @@
 > **Install mkdocs using pip** (need to repeat it for each user)
 > 
 > See detailed instructions in [**mkdocs-material official site**](https://squidfunk.github.io/mkdocs-material/)
- 
+
 ```bash
 # 1. Intall mkdocs for each user
 pip install mkdocs-material
 
 # 2. Install more plugins for each user
-pip install mkdocs-glightbox mkdocs-video mkdocs-audio mkdocs-callouts
-pip install mkdocs-encryptcontent-plugin
+pip install mkdocs-glightbox mkdocs-video mkdocs-audio mkdocs-callouts mkdocs-redirects
+# pip install mkdocs-encryptcontent-plugin
 
 # 3. Setup shortcuts in ~/.shortcuts for each user
 
