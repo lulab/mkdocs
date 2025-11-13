@@ -37,7 +37,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
-
+  - toc:
+      toc_depth: 3 # This will include headings up to level 3 (h1, h2, h3)
 
 plugins:
   - callouts
@@ -89,7 +90,7 @@ nav:
       - 2.Homebrew & Pip: program/homebrew.md
       - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md      
   - Literature Reading:
-    - Tips for paper reading: reading/reading.md
+    - Literature Reading: reading/index.md
     - Seq. Tech.:
       - Interaction-seq: reading/seq-tech/interaction-seq.md
       - Single-Cell-seq: reading/seq-tech/single-cell-seq-tech.md
