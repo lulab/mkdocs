@@ -47,6 +47,7 @@
 * **Type II-A. Novel AI Model**
 	* 2023 **Nature Methods** - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
 	* 2021 **NAR** - ImmReg: the regulon atlas of immune-related pathways across cancer types
+	* 2015 **Nature Biotech.** - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 * **Type II-B. Benmark**
 	* 2024 **Nature Methods**  - Benchmarking algorithms for single-cell multi-omics prediction and integration
 
