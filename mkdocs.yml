@@ -91,6 +91,7 @@ nav:
       - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md      
   - Literature Reading:
     - Literature Reading: reading/index.md
+    - Startup Readings: reading/startup.md
     - Seq. Tech.:
       - Interaction-seq: reading/seq-tech/interaction-seq.md
       - Single-Cell-seq: reading/seq-tech/single-cell-seq-tech.md
@@ -135,10 +136,6 @@ nav:
     - By Topic: pub/pub-topics.md
     - Software: pub/software.md
     - Tips for Writing: pub/writing.md
-  - Projects:
-    - Background: proj/background.md
-    - Research Projects: proj/proj.md
-    - Funding: proj/funding.md
   - Courses:
     - Courses: courses/index.md 
     - Bioinformatics: courses/bioinfo.md
