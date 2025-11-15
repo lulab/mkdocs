@@ -2,15 +2,15 @@
 
 > * [PDFs of Startup Reading](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup&mode=list)
 
-## Startup Readings for Each Subgroup
-
-
 [TOC]
 
 
-### Subgroup A1. [cfRNA] & RNA structure
 
-> (生物和计算背景）（合作： Hospitals, Structure lab) 
+
+
+## A1. RNAfinder
+
+> (适合生物和计算背景的同学）
 > 
 > **Novelty**: TE-RNA, mbRNA, dsRNA
 
@@ -33,9 +33,30 @@
 
 ---
 
-### Subgroup A2-a. [Interactome — on-target] of ncRNAs
+## A2. RNAfinder - Applications
 
-> (生物和计算背景 ）（合作： Biology lab） 
+### A2.1 [Medicine] Precision Medicine
+
+> (适合医学和生物背景的同学）（合作： Hospitals） 
+
+* Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood. **Cell Reports Medicine** 2023 [Lu Lab Paper]
+* dsRNAome Manuscript [Lu Lab Paper]
+* More: Immune Diseases **Cell** 2021; SLE **Cell** 2022; modENCODE **Science** 2010
+
+---
+
+### A2.2 [Ribozyme] Structure Prediction & Ribozyme Design
+
+> (适合生物和计算背景的同学）（合作： Structure lab) 
+
+* 2024 **Nature Methods** - [RfamGen]Deep generative design of RNA family sequences
+* 2024 **Nature machine intelligence** - A 5′ UTR language model for decoding untranslated regions of mRNA and function predictions
+
+---
+
+## B1. RNAtarget
+
+> (适合生物和计算背景的同学）（合作： Biology lab） 
 > 
 > **Novelty**: Novel RNA-centered  (TE-RNA, mbRNA, sRNA)
 
@@ -50,9 +71,16 @@
 * **Type II-B. Benmark**
 	* 2024 **Nature Methods**  - Benchmarking algorithms for single-cell multi-omics prediction and integration
 
+---
 
+## B2. RNAtarget - Applications
 
-### Subgroup A2-b. [Interactome – off-target] OligoFormer + Seq 
+### B2.1 siRNA Drug Design
+
+> (适合生物和计算背景的同学）
+> 
+> (合作： Biology lab）
+
 
 * High-throughput Seq Data:  **2024 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
 * AI Model: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
@@ -63,23 +91,13 @@
 >
 > * **2024 Nature Biotechnology** - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
 
-
 ---
 
+### B2.2 Small-molecule Drug Design
 
-### Subgroup B1. [MultiOmics] for Precision Medicine 
-
-> (医学和生物背景 ）（合作： **Hospitals**） 
-
-* Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood. **Cell Reports Medicine** 2023 [Lu Lab Paper]
-* dsRNAome Manuscript [Lu Lab Paper]
-* More: Immune Diseases **Cell** 2021; SLE **Cell** 2022; modENCODE **Science** 2010
-
-
-
-### Subgroup B2.  [Drug Design] Targeting RNAs 
-
-> (计算和生物背景）（合作： **Drug Companies**, Computation Labs, Chemistry Labs)
+> (适合计算和生物背景的同学）
+> 
+> (合作： **Drug Companies**, Computation Labs, Chemistry Labs)
 
 * Generation of 3D molecules in pockets via a language model. **Nature Machine Intelligence,** **2024**
 * *RNAsmol*: RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** **2025** [Lu Lab Paper]
