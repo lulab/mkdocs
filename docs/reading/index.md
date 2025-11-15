@@ -14,11 +14,11 @@ hide:
 
 ---
 
-#### Tips for Literature Search
+### Tips for Literature Search
 
 **How to automatically receive related literature update every week?**
 
-1. Using [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed)
+#### 1. Using [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed)
 
 * (1) Register for an NCBI account
 * (2) Create a search rules, for example:
@@ -27,11 +27,11 @@ hide:
 
 * (3) Search in Pubmed Search box and click 'Creat alert' button to creat search notifications.
 
-2. Using [Scopus](https://www.scopus.com/)
+#### 2. Using [Scopus](https://www.scopus.com/)
 
 * (1) Register for an Scopus account
 * (2) User Center—My Scopus—Alerts to creat search notifications.
 
-3. Google Scholar Searching Tips
+#### 3. Google Scholar Searching Tips
 
 [http://www.educatorstechnology.com/2013/04/9-tips-every-teacher-should-know-about.html](http://www.educatorstechnology.com/2013/04/9-tips-every-teacher-should-know-about.html)
