@@ -9,7 +9,7 @@
 
 > (适合生物和计算背景的同学）
 > 
-> **Novelty**: TE-RNA, mbRNA, dsRNA
+> **Novelty**: TE-RNA, mbRNA, dsRNA, cfRNA
 
 * **TE-cfRNA** 
     * 2023 **Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer 
@@ -55,18 +55,20 @@
 
 > (适合生物和计算背景的同学）（合作： Biology lab） 
 > 
-> **Novelty**: Novel RNA-centered  (TE-RNA, mbRNA, sRNA)
+> **Novelty**: Novel RNA-centered  (TE-RNA, mbRNA, sRNA; DT2)
 
 * **Type I. Novel Seq-tech**
-	* VASA-seq (DT2) **NBT** 2022
+	* VASA-seq **NBT** 2022 （DT2 - [Lu Lab]）
 	* MUSIC-seq **Nature** 2024
+	* UDA-seq **Nature Methods** 2025
 	* More: RIC-seq **Nature** 2020/2023; GRID-seq **NBT** 2017, etc
 * **Type II-A. Novel AI Model**
 	* 2023 **Nature Methods** - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
 	* 2021 **NAR** - ImmReg: the regulon atlas of immune-related pathways across cancer types
 	* 2015 **Nature Biotech.** - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
-* **Type II-B. Benmark**
+* **Type II-B. Benchmark & Database**
 	* 2024 **Nature Methods**  - Benchmarking algorithms for single-cell multi-omics prediction and integration
+	* POSTAR3 - **NAR** 2022  [Lu Lab Paper]
 
 ---
 
@@ -76,9 +78,10 @@
 
 > (适合生物和计算背景的同学）
 > 
-> (合作： Biology lab）
+> (合作： Drug Companies）
 
 
+* UDA-seq **Nature Methods** 2025
 * High-throughput Seq Data:  **2024 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
 * AI Model: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
 
