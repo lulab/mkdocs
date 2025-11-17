@@ -62,7 +62,7 @@ plugins:
   - redirects:
       redirect_maps:
         'ncrnalab/index.md': 'http://www.ncrnalab.org/home'
-        'ncrnalab/software.md': 'http://www.ncrnalab.org/software'
+        'ncrnalab/software/index.md': 'http://www.ncrnalab.org/software'
 #  - encryptcontent:
 #      password_inventory:
 #        classified: setapassword
