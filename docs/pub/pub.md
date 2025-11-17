@@ -5,6 +5,8 @@
 > [代表性文章中文解读](https://lulab.life.tsinghua.edu.cn/ncrnalab/news/#news)
 >
 > [专利和著作权](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
+>
+> [软件和模型](/software)
 
 ## 2025
 

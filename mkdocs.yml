@@ -134,7 +134,6 @@ nav:
   - Publications: 
     - By Year: pub/pub.md
     - By Topic: pub/pub-topics.md
-    - Software: pub/software.md
     - Tips for Writing: pub/writing.md
   - Courses:
     - Courses: courses/index.md 

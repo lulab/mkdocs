@@ -53,7 +53,7 @@
 
 ---
 
-## B1. RNAtarget
+## B1. RNAtalk
 
 > (适合生物和计算背景的同学）（合作： Biology lab） 
 > 
@@ -74,7 +74,7 @@
 
 ---
 
-## B2. RNAtarget - Applications
+## B2. RNAtalk - Applications
 
 ### B2.1 siRNA Drug Design
 
