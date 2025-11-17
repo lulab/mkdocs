@@ -22,7 +22,7 @@ hide:
 
 ## A. [RNA-Finder] Bioinfo-Driven Precision Medicine
 
-### A1. cfRNAfinder: Cell-free RNA Biomarker
+### cfRNAfinder: Cell-free RNA Biomarker
 
 - Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential. **Genome Biology** 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors)  Github: https://github.com/lulab/cfPeak
 - Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles **Clinical and Translational Medicine** 14:e1760 (<sup>1</sup>contributed equally, \*co-corresponding authors)
@@ -37,7 +37,7 @@ hide:
 - Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu\*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma. **Clinical Chemistry** 65(7):905-915  (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 8.3) (Patent Protected)
 - Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, …, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu\*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma.**Nature Communications** 8, 14421 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 17.69)
 
-### A2. ncRNAfinder: Discovering novel noncoding RNAs 
+### ncRNAfinder: Discovering novel noncoding RNAs 
 
 - Yu-Xiang Chen1, Zhi-yu Xu1, Xueliang Ge, Suparna Sanyal, **Zhi John Lu\*** and Babak Javid* (2020) Selective translation by alternative bacterial ribosomes. **PNAS** 117(32):19487-19496 (1contributed equally, *co-corresponding authors) (IF: 12.78)
 - \[**Algorithm V3**\] Zhiyu Xu1, Long Hu1, Binbin Shi, SiSi Geng, Longchen Xu, Dong Wang* & **Zhi John Lu\*** (2018) Ribosome elongating footprints denoised by wavelet transform comprehensively characterize dynamic cellular translation events. **Nucleic Acids Research** 46 (18), e109-e109 (IF: 19.16) Github: https://github.com/lulab/Ribowave
@@ -51,7 +51,7 @@ hide:
 
 
 
-### A3. RNA Structure Prediction
+### RNAstructure: Secondary Structure Prediction
 
 - **[Server]** Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research** 44 (W1): W294-W301 (<sup>1</sup>contributed equally) (IF: 19.16)
 - **[Algorithm]** Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **Nucleic Acids Research** 43(15): 7247-59. (<sup>1</sup>contributed equally) (IF: 19.16) Github: https://github.com/lulab/RME
@@ -61,7 +61,7 @@ hide:
 
 ## B. [RNA-Talk] AI-Driven RNA Modeling & Drug Design
 
-### B1. RNA-RNA
+### RNA-RNA
 
 #### RNA-siRNA
 
@@ -72,14 +72,14 @@ hide:
 - **[Biophysical Model]** **Lu ZJ** and Mathews DH (2008) Fundamental differences in the equilibrium considerations for siRNA and antisense oligodeoxynucleotide design. **Nucleic Acids Research** 36:3738-3745. (IF: 19.16)
 
 
-### B2. RNA-Ligand 
+### RNA-Ligand 
 
 - Hongli Ma, Letian Gao, Yunfan Jin, Jianwei Ma, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\* and **Zhi John Lu**\*. (2025) RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** 10.1038/s43588-025-00820-x (\*co-corresponding authors)
 - Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) A comprehensive evaluation of connectivity methods for L1000 data. **Briefings in Bioinformatics** bbz129 (<sup>1</sup>contributed equally) (IF: 11.62)
 - Tan X, Hu L<sup>2</sup>, Luquette LJ, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**<sup>2</sup>, Park PJ & Elledge SJ. (2012) Systematic Identification of Synergistic Drug Pairs Targeting HIV. **Nature Biotech.** 30:1125-1130 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 54.36)
 
 
-### B3. RNA-Protein
+### RNA-Protein
 
 - **[Database V3]** Weihao Zhao<sup>1</sup>, Shang Zhang<sup>1</sup>, …, Yucheng T Yang*, **Zhi John Lu\*** (2022) POSTAR3: an updated platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins. **Nucleic Acids Research** 50(D1):D287-D294 (IF: 19.16) Website: http://POSTAR3.ncRNAlab.org
 - Rui Xiao<sup>1</sup>, Jia-Yu Chen<sup>1</sup>, Zhengyu Liang<sup>1</sup>, Daji Luo, Geng Chen, **Zhi John Lu**, …, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu (2019) Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription. **Cell** 178, 107–121
