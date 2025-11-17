@@ -37,7 +37,17 @@ hide:
 - Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu\*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma. **Clinical Chemistry** 65(7):905-915  (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 8.3) (Patent Protected)
 - Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, …, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu\*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma.**Nature Communications** 8, 14421 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 17.69)
 
-### ncRNAfinder: Discovering novel noncoding RNAs 
+### ncRNAfinder: Discovering Novel Noncoding RNAs 
+
+#### dsRNAfinder: Secondary Structure Prediction and Motif finding
+
+- **[Server]** Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research** 44 (W1): W294-W301 (<sup>1</sup>contributed equally) (IF: 19.16)
+- **[Algorithm]** Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **Nucleic Acids Research** 43(15): 7247-59. (<sup>1</sup>contributed equally) (IF: 19.16) Github: https://github.com/lulab/RME
+- **\[Algorithm\]** **Lu ZJ**, Gloor JW and Mathews DH (2009) Improved RNA secondary structure prediction by maximizing expected pair accuracy. **RNA** 15: 1805-1813. (IF: 4.9) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
+- **[Biophysical Model]** **Lu ZJ**, Turner DH and Mathews DH (2006) A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation. **Nucleic Acids Research** 34:4912-4924. (IF: 19.16)
+
+
+#### Noncoding RNA Identification
 
 - Yu-Xiang Chen1, Zhi-yu Xu1, Xueliang Ge, Suparna Sanyal, **Zhi John Lu\*** and Babak Javid* (2020) Selective translation by alternative bacterial ribosomes. **PNAS** 117(32):19487-19496 (1contributed equally, *co-corresponding authors) (IF: 12.78)
 - \[**Algorithm V3**\] Zhiyu Xu1, Long Hu1, Binbin Shi, SiSi Geng, Longchen Xu, Dong Wang* & **Zhi John Lu\*** (2018) Ribosome elongating footprints denoised by wavelet transform comprehensively characterize dynamic cellular translation events. **Nucleic Acids Research** 46 (18), e109-e109 (IF: 19.16) Github: https://github.com/lulab/Ribowave
@@ -50,13 +60,6 @@ hide:
 - **[Algorithm V0]** Gerstein MB<sup>†,</sup>\*, **Lu ZJ<sup>†</sup>**, Van Nostrand EL<sup>†</sup>, Cheng C<sup>†</sup>, Arshinoff BI<sup>†</sup>, et al. (2010) Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project.  **Science** 330 (6012): 1775-1787  (<sup>†</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
-
-### RNAstructure: Secondary Structure Prediction
-
-- **[Server]** Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research** 44 (W1): W294-W301 (<sup>1</sup>contributed equally) (IF: 19.16)
-- **[Algorithm]** Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **Nucleic Acids Research** 43(15): 7247-59. (<sup>1</sup>contributed equally) (IF: 19.16) Github: https://github.com/lulab/RME
-- **\[Algorithm\]** **Lu ZJ**, Gloor JW and Mathews DH (2009) Improved RNA secondary structure prediction by maximizing expected pair accuracy. **RNA** 15: 1805-1813. (IF: 4.9) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
-- **[Biophysical Model]** **Lu ZJ**, Turner DH and Mathews DH (2006) A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation. **Nucleic Acids Research** 34:4912-4924. (IF: 19.16)
 
 
 ## B. [RNA-Talk] AI-Driven RNA Modeling & Drug Design
