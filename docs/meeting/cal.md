@@ -1,20 +1,19 @@
-# Lab Calendar
+# Lab Calendars
 
-## Lab Calendar
+>[!caution]
+> Visitors from China need **VPN** to visit the following calendars hosted at Google.
 
-* **Lu Lab Calendar**
-  * html: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html)
-  * ics: https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics
-* **Seminar Calendar**
-  * html: [https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html)
-  * ics: https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics
+* **Lu Lab Calendar** hosted at Google Calendar
+    * html: <https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai&mode=week>
+    * ics: https://calendar.google.com/calendar/ical/rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com/public/basic.ics
+* **Seminar Calendar** hosted at Google Calendar
+    * html: <https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai&mode=week>
+    * ics: https://calendar.google.com/calendar/ical/hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com/public/basic.ics
 
-> You can copy the above links (**\*.ics: ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer. Apps:
->
-> * Windows APP: Outlook
-> * MAC APP: Outlook, Calendar
-> * iPhone APP: Outlook, Calendar
-> * Android APP: Outlook, etc
+> You can copy the above links (**\*.ics: ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer. Windows APP: Outlook; MAC APP: Calendar; iPhone APP: Calendar, Outlook; Android APP: Google Calendar, Outlook.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FShanghai&mode=WEEK&src=cmhmcTlkNXNyNDZscWpwZzN2ZDFuY2Jvc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=aHJhYmlxNW9rZXVwZzF0Zm5wYTdnOXFxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285f4&color=%238e24aa" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ## Holiday Calendars
 
