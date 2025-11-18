@@ -16,8 +16,8 @@
 
 #### Learning
 
-* **Course**: [Courses @Tsinghua](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/)  &  [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
-* **Read**: [Tips for Literature Reading](reading/reading.md)
+* **Course**: [Courses @Tsinghua](courses/)  &  [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
+* **Read**: [Tips for Literature Reading](reading/index.md)
 * **Presentation**: [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
 > :material-frequently-asked-questions: [正式参与生物信息科研课题之前该做哪些准备？](faq/faq-2.md#pre)（包括预修课推荐等）
