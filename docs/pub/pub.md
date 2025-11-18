@@ -6,7 +6,7 @@
 >
 > [专利和著作权](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
 >
-> [软件和模型](/ncrnalab/software)
+> [Software & Models](/ncrnalab/software)
 
 ## 2025
 
