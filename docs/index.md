@@ -64,7 +64,7 @@
 	* 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
 	* Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
 	* [Tips for manuscript writing](./pub/writing.md)
-* [Software](./pub/software.md)
+* [Software](/ncrnalab/software)
 * [Patent](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
 
 !!!quote ""
