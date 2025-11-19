@@ -1,7 +1,9 @@
----
-redirect_to: "http://www.ncrnalab.org"
----
+# Redirect to homepage
 
-
-
-The above won't work in mkdocs. Need to change redirects in mkdos.yml file.
+```
+# Add these to mkdocs.yml:
+- redirects:
+      redirect_maps:
+        'ncrnalab/index.md': 'http://www.ncrnalab.org/home'
+        'ncrnalab/software/index.md': 'http://www.ncrnalab.org/software'
+```
