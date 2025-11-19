@@ -1,4 +1,4 @@
-# RNA-Ligand
+# RNA-Ligand: small molecule drug design
 
 !!!note "Note"
     * **Autoregressive Approach:**

@@ -76,7 +76,7 @@
 
 ## B2. RNAtalk - Applications
 
-### B2.1 siRNA Drug Design
+### B2.1 [RNA-RNA] siRNA Drug Design
 
 > (适合生物和计算背景的同学）
 > 
@@ -95,7 +95,7 @@
 
 ---
 
-### B2.2 Small-molecule Drug Design
+### B2.2 [RNA-Ligand] Small-molecule Drug Design
 
 > (适合计算和生物背景的同学）
 > 
@@ -103,5 +103,4 @@
 
 * Generation of 3D molecules in pockets via a language model. **Nature Machine Intelligence,** **2024**
 * *RNAsmol*: RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** **2025** [Lu Lab Paper]
-
 
