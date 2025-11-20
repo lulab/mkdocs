@@ -126,8 +126,8 @@ nav:
         - Seq - Interaction: reading/B.RNAtalk/RNA-RNA/Seq - Interaction.md
         - Seq - Single Cell: reading/B.RNAtalk/RNA-RNA/Seq - Single Cell.md
         - siRNA Drug Design: reading/B.RNAtalk/RNA-RNA/siRNA Drug Design.md
-      - RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
       - RNA-Ligand: reading/B.RNAtalk/RNA-Ligand//RNA-Ligand.md
+      - RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
   - Publications: 
     - By Year: pub/pub.md
     - By Topic: pub/pub-topics.md

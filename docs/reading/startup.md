@@ -67,10 +67,9 @@
 * **Type II-A. Novel AI Model**
 	* 2023 **Nature Methods** - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
 	* 2021 **NAR** - ImmReg: the regulon atlas of immune-related pathways across cancer types
-	* 2015 **Nature Biotech.** - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 * **Type II-B. Benchmark & Database**
 	* 2024 **Nature Methods**  - Benchmarking algorithms for single-cell multi-omics prediction and integration
-	* POSTAR3 - **NAR** 2022  [Lu Lab Paper]
+
 
 ---
 
@@ -104,3 +103,10 @@
 * Generation of 3D molecules in pockets via a language model. **Nature Machine Intelligence,** **2024**
 * *RNAsmol*: RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** **2025** [Lu Lab Paper]
 
+### B2.3 [RNA-Protein] RBP & Post-transcriptional Regulation
+
+> (适合生物和计算背景的同学）
+
+* 2015 **Nature Biotech.** - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* POSTAR3 - **NAR** 2022  [Lu Lab Paper]
+* RBPgroup - **Genome Biology** 2017 [Lu Lab Paper]
