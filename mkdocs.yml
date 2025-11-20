@@ -84,6 +84,7 @@ nav:
       - V.办公硬件和软件: faq/faq-5.md
       - VI.其他问题: faq/faq-6.md
     - Intranet: 
+      - Overview: intranet/index.md
       - 1.Network: intranet/network.md
       - 2.Facilities & Instructions: intranet/facilities.md
     - Programming: 

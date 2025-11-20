@@ -29,25 +29,11 @@
 
 ## **II. Research in Lu Lab**
 
-> Files @[清华云盘](https://cloud.tsinghua.edu.cn) 
->
-> *  **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
->
-> *  **Lu Lab - Photos** ...
-
-#### **Dry-lab**
-
-* Hardware, Software & Instructions @清华云 (private) : Lu Lab Shared-R/0.Lab Guide/1.Drylab Instructions, Experience Sharing, ... 
-
-#### **Wet-lab**
-
-* [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab_safety)
-* [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
-* Instructions, Protocols & Samples @清华云 (private): Lu Lab Shared-R/0.Lab Guide/2. Wetlab Instructions, Experience Sharing, ... 
-
-#### **Data**
-
-* Instructions & Metadata @清华云 (private): Lu Lab - Shared-R/0.Lab Guide/3. Data Instructions
+* **Files** @ [清华云盘](https://cloud.tsinghua.edu.cn) 
+    *  Lu Lab - Shared (R and RW) (including Lab Guide,  Lab Logistics,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
+    *  Lu Lab - Photos ...
+* **Instructions** of Dry Lab & Wet Lab @ [**Intranet**](intranet/index.md)
+* **Meta-Data** @ [WPS](https://365.kdocs.cn/tags/star)
 
 
 !!!quote ""
@@ -56,9 +42,6 @@
 
 
 ## III. Publish in Lu Lab
-
-> 
-
 
 * [Paper](./pub/pub.md)
 	* 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
