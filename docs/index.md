@@ -4,7 +4,7 @@
 
 #### Welcome
 
-- :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
+- :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/d/1e07c4f58c5e42e2832c/)
 - :material-calendar-clock:  [Lab Meetings](meeting/meeting.md)  &  [Lab Calendar](meeting/cal.md)
 - :material-frequently-asked-questions:  [FAQ](faq/faq-1.md)
 
