@@ -87,10 +87,10 @@ nav:
       - Overview: intranet/index.md
       - 1.Network: intranet/network.md
       - 2.Facilities & Instructions: intranet/facilities.md
-    - Programming: 
-      - 1.Mac Settings: program/macos.md
-      - 2.Homebrew & Pip: program/homebrew.md
-      - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md      
+  - Programming: 
+    - 1.Mac Settings: program/macos.md
+    - 2.Homebrew & Pip: program/homebrew.md
+    - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md      
   - Literature Reading:
     - Literature Reading: reading/index.md
     - <b>Startup Readings</b>: reading/startup.md
