@@ -30,9 +30,9 @@
 ## **II. Research in Lu Lab**
 
 * **Files** @ [清华云盘](https://cloud.tsinghua.edu.cn) 
-    *  Lu Lab - Shared (R and RW) (including Lab Guide,  Lab Logistics,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
+    *  Lu Lab - Shared (R and RW) (including Lab Logistics,  Lab Introduction, Manuscript, Thesis, ...)
     *  Lu Lab - Photos ...
-* **Instructions** of Dry Lab & Wet Lab @ [**Intranet**](intranet/index.md)
+* **Instructions** of Dry Lab & Wet Lab @ [**Intranet Wiki**](intranet/index.md)
 * **Meta-Data** @ [WPS](https://365.kdocs.cn/tags/star)
 
 

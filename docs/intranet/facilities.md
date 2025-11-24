@@ -4,18 +4,12 @@
 ## Wet-lab Facilities & Instructions
 
 
-* [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab_safety)
-* [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
-
-
-Instructions, Protocols & Samples @清华云 (private): Lu Lab Shared-R/0.Lab Guide/2. Wetlab Instructions, Experience Sharing, ... 
-
 > [!important]
 >
-> 具体仪器和实验指南见【清华云】(A wiki version is coming soon...):
+> See details in **Lu Lab Internal Wiki** @ WPS (please ask Lab Admin to join in.)
 >
-> *  Lu Lab - Shared-R/0.Lab Guide/Intranet Meeting - Checking List.xlsx （2. Check Wetlab Instructions)
-> *  Lu Lab - Shared-R/0.Lab Guide/2. Wetlab Instructions/
+> *  Lu Lab Wiki/Lab Docs/Intranet Meeting - Checking List.xlsx （2. Check Wetlab Instructions)
+> *  Lu Lab Wiki/Wetlab Instructions/
 
 
 
@@ -34,19 +28,17 @@ Instructions, Protocols & Samples @清华云 (private): Lu Lab Shared-R/0.Lab Gu
 	- 贵州计算平台
 
 
-Hardware, Software & Instructions @清华云 (private) : Lu Lab Shared-R/0.Lab Guide/1.Drylab Instructions, Experience Sharing, ... 
+> 如果需要使用以上各类计算平台的，可以申请一下账号和权限，注意说明课题内容和硬件存储等需求，email给PI并抄送给计算管理员（国豪）和实验室管理员（慧一）。
+>
+>  本科生可以通过同课题的主导研究生来发email申请。
+
 
 > [!important]
 >
-> 具体计算配置和各机器/集群负责人见【清华云】(A wiki version is coming soon...):
+> See details in **Lu Lab Internal Wiki** @ WPS (please ask Lab Admin to join in.)
 >
-> *  Lu Lab - Shared-R/0.Lab Guide/Intranet Meeting - Checking List.xlsx （1. Check Drylab Instructions)
-> *  Lu Lab - Shared-R/0.Lab Guide/1. Drylab Instructions
-
-
-> 如果需要使用的，可以申请一下账号和权限，注意说明课题内容和硬件存储等需求，email给PI并抄送给计算管理员（国豪）和实验室管理员（慧一）。
->
->  本科生可以通过同课题的主导研究生来发email申请。
+> *  Lu Lab Wiki/Lab Docs/Intranet Meeting - Checking List.xlsx （1. Check Drylab Instructions)
+> *  Lu Lab Wiki/Drylab Instructions
 
 
 
