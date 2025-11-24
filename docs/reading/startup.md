@@ -17,7 +17,7 @@
     * 2023 **Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer 
     * 2025 **Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
     * 2025 bioRXiv - Comprehensive Mapping of Human dsRNAome Reveals Conservation, Neuronal Enrichment, and Intermolecular Interactions
-    * [More Readings about Liquid Biopsy](med/liquid-biopsy/index.md)
+    * [More Readings about Liquid Biopsy](../A.RNAfinder/1.1%20cfRNAfinder/)
 
 * **MB-cfRNA (Microbial cfRNA)** 
     * 2021 **Genome Biology** - Comparative genomics identifies **thousands of candidate structured RNAs** in human microbiomes
