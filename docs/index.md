@@ -29,12 +29,15 @@
 
 ## **II. Research in Lu Lab**
 
-* **Files** @ [清华云盘](https://cloud.tsinghua.edu.cn) 
-    *  Lu Lab - Shared (R and RW) (including Lab Logistics,  Lab Introduction, Manuscript, Thesis, ...)
-    *  Lu Lab - Photos ...
-* **Instructions** of Dry Lab & Wet Lab @ [**Intranet Wiki**](intranet/index.md)
-* **Meta-Data** @ [WPS](https://365.kdocs.cn/tags/star)
-
+* [**Intranet Wiki**](intranet/index.md)
+    * Instructions of Dry Lab & Wet Lab
+    * Lab Internal Docs
+    * Lab Metadata
+    * ...
+* **Large Files** @ 清华云盘
+    *  Lu Lab - Shared (R and RW) 
+    *  Lu Lab - Photos
+    *  ...
 
 !!!quote ""
     * “勤而善悟” ;  “天道酬勤” -- 《周易》
