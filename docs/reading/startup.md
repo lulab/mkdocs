@@ -13,22 +13,27 @@
 > 
 > **Novelty**: TE-RNA, mbRNA, dsRNA, cfRNA
 
-* **TE-cfRNA** 
-    * 2023 **Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer 
-    * 2025 **Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
-    * 2025 bioRXiv - Comprehensive Mapping of Human dsRNAome Reveals Conservation, Neuronal Enrichment, and Intermolecular Interactions
+* **cfRNAfinder** 
+    * [Representative cfRNA Studies](../A.RNAfinder/1.1%20cfRNAfinder/2.%20cfRNA/#i-representative-cfrna-studies)
     * [More Readings about Liquid Biopsy](../A.RNAfinder/1.1%20cfRNAfinder/)
-
+* **TE-cfRNA** 
+    * 2025 bioRXiv - Comprehensive Mapping of Human dsRNAome Reveals Conservation, Neuronal Enrichment, and Intermolecular Interactions
+    * 2023 **Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer 
 * **MB-cfRNA (Microbial cfRNA)** 
-    * 2021 **Genome Biology** - Comparative genomics identifies **thousands of candidate structured RNAs** in human microbiomes
-    * 2024 **Nature Biotechnology -** RIP-PEN-seq identifies **a class of kink-turn RNAs** as splicing regulators
-    * 2022 **eLife** - Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes  [Lu Lab Paper]
     * 2025 **Nature Genetics** - Blood DNA virome associates with autoimmune diseases and COVID-19 
-
+    * 2022 **eLife** - Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes  [Lu Lab Paper]
+* **MB-RNA Struture** 
+    * 2021 **Genome Biology** - Comparative genomics identifies **thousands of candidate structured RNAs** in human microbiomes
+    * 2025 **Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
+    * 2024 **Nature Biotechnology -** RIP-PEN-seq identifies **a class of kink-turn RNAs** as splicing regulators
+* **cf-Rfam Database**
+    * cfOmics
+    * Rfam
 * **New** **AI** **model for RNA Code (motif & structure)** 
     * 2024 ***Nature Machine Intelligence*** - An interpretable RNA foundation model for exploring functional RNA motifs in plants
     * 2021 **Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
     * More: [dsRNA code](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)
+
 
 ---
 

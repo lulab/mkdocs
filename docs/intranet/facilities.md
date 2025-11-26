@@ -6,7 +6,7 @@
 
 > [!important]
 >
-> See details in **Lu Lab Internal Wiki** @ WPS (please ask Lab Admin to join in.)
+> See details in **[Lu Lab Internal Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe)** @ WPS (please ask Lab Admin to join in.)
 >
 > *  Lu Lab Wiki/Lab Docs/Intranet Meeting - Checking List.xlsx （2. Check Wetlab Instructions)
 > *  Lu Lab Wiki/Wetlab Instructions/
@@ -35,7 +35,7 @@
 
 > [!important]
 >
-> See details in **Lu Lab Internal Wiki** @ WPS (please ask Lab Admin to join in.)
+> See details in **[Lu Lab Internal Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe)** @ WPS (please ask Lab Admin to join in.)
 >
 > *  Lu Lab Wiki/Lab Docs/Intranet Meeting - Checking List.xlsx （1. Check Drylab Instructions)
 > *  Lu Lab Wiki/Drylab Instructions

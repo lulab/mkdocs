@@ -5,8 +5,7 @@ hide:
 
 # Literature Reading
 
-> * [PDFs of  Paper Reading Sharing](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/) ([**Recommended Reading List**](https://365.kdocs.cn/l/cl71Q0YisgIh))
-> * [PPTs of Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
+> * [**Recommended Reading List**](https://365.kdocs.cn/l/cl71Q0YisgIh)
 > * [PDFs of Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications&mode=list)
 
 ## [Startup Readings](./startup.md)

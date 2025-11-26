@@ -29,12 +29,12 @@
 
 ## **II. Research in Lu Lab**
 
-* [**Intranet Wiki**](intranet/index.md)
+* [**Intranet Wiki**](intranet/index.md) @ 【WPS金山云文档】
     * Instructions of Dry Lab & Wet Lab
     * Lab Internal Docs
     * Lab Metadata
     * ...
-* **Large Files** @ 清华云盘
+* **Large Files** @ 【清华云盘】
     *  Lu Lab - Shared (R and RW) 
     *  Lu Lab - Photos
     *  ...
