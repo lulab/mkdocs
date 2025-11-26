@@ -8,8 +8,7 @@
 > Weekly meeting for all
 
 * **Group Meeting** 
-    * [**Recommended Reading List**](https://365.kdocs.cn/l/cl71Q0YisgIh)
-    * see meeting schedule and PPTs of group meetings in [Lu Lab Internal Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe) @WPS金山云文档
+    * see meeting schedule and PPTs of group meetings in [Lu Lab Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe) @WPS金山云文档
 
 
 ## Subgroup Meetings

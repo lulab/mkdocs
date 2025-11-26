@@ -4,7 +4,7 @@
 
 > [!tips]
 >
-> Please ask Lab Admin to join in **[Lu Lab Internal Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe)** @WPS. 
+> Please ask Lab Admin to join in **[Lu Lab Wiki](https://365.kdocs.cn/wiki/l/0sCnwfxe)** @WPS. 
 
 
 **Brief Introduction**:

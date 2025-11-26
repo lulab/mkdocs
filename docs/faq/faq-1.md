@@ -1,7 +1,7 @@
 # FAQ - I. 科研方法
 
 !!! note "Tips"
-     - [**研究生生存指南**](../survival-guide)[**A grad school survival guide**](../survival-guide#a-grad-school-survival-guide)
+     - [**研究生生存指南**](../survival-guide)  \|  [**A grad school survival guide**](../survival-guide#a-grad-school-survival-guide)
 
     - Want to get great at something? **Get a coach !**[TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
 
