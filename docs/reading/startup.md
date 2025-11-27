@@ -28,7 +28,7 @@
     * 2024 **Nature Biotechnology -** RIP-PEN-seq identifies **a class of kink-turn RNAs** as splicing regulators
 * **cf-Rfam Database**
     * [cfOmics](https://cfOmics.ncRNAlab.org)
-    * [Rfam](https://rfam.org/)
+    * [Rfam 15.0](https://rfam.org/)
     * [exoRBase 3.0](http://www.exorbase.org/)
 * **New** **AI** **model for RNA Code (motif & structure)** 
     * 2024 ***Nature Machine Intelligence*** - An interpretable RNA foundation model for exploring functional RNA motifs in plants
