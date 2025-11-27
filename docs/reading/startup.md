@@ -27,8 +27,9 @@
     * 2025 **Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
     * 2024 **Nature Biotechnology -** RIP-PEN-seq identifies **a class of kink-turn RNAs** as splicing regulators
 * **cf-Rfam Database**
-    * cfOmics
-    * Rfam
+    * [cfOmics](https://cfOmics.ncRNAlab.org)
+    * [Rfam](https://rfam.org/)
+    * [exoRBase 3.0](http://www.exorbase.org/)
 * **New** **AI** **model for RNA Code (motif & structure)** 
     * 2024 ***Nature Machine Intelligence*** - An interpretable RNA foundation model for exploring functional RNA motifs in plants
     * 2021 **Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
