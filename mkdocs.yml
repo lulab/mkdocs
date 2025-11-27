@@ -74,8 +74,10 @@ nav:
   - Home: /ncrnalab
   - Getting Started: 
     - Getting Started: index.md
-    - 1.Lab Meetings: meeting/meeting.md
-    - 2.Lab Calendars: meeting/cal.md
+    - Lab Meetings: meeting/meeting.md
+    - Lab Calendars: meeting/cal.md
+    - Intranet: 
+      - overview: intranet/index.md
     - FAQ: 
       - I.科研方法: faq/faq-1.md
       - II.科研实践: faq/faq-2.md
@@ -83,10 +85,6 @@ nav:
       - IV.生活和财务: faq/faq-4.md
       - V.办公硬件和软件: faq/faq-5.md
       - VI.其他问题: faq/faq-6.md
-    - Intranet: 
-      - Overview: intranet/index.md
-      - 1.Network: intranet/network.md
-      - 2.Facilities & Instructions: intranet/facilities.md
   - Programming: 
     - 1.Mac Settings: program/macos.md
     - 2.Homebrew & Pip: program/homebrew.md
