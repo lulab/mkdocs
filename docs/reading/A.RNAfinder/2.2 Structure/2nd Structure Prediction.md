@@ -19,6 +19,8 @@
 
 ### 2. Recent Research Articles and Reviews
 
+* ✅ 2025	**[Nature Communications](https://doi.org/10.1038/s41467-025-60872-5)** - RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks
+* 2025	**[Genome Biology](https://doi.org/10.1186/s13059-025-03853-7)**	HydraRNA: a hybrid architecture based full-length RNA language model	
 * **2025 Nature Communications** - Deep generalizable prediction of RNA secondary structure via base pair motif energy
 * \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
 * \[review] **2022 PNAS** - Thoughts on how to think (and talk) about RNA structure
