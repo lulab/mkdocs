@@ -86,10 +86,13 @@ nav:
       - V.办公硬件和软件: faq/faq-5.md
       - VI.其他问题: faq/faq-6.md
   - Programming: 
-    - 1.Mac Settings: program/macos.md
-    - 2.Homebrew & Pip: program/homebrew.md
-    - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md  
-    - 4.Conda in Linux: program/conda.md    
+    - Linux:
+      - 1.Conda in Linux: program/conda.md    
+      - 2.Tips in Linux: program/tips.md
+    - MacOS:
+      - 1.Mac Settings: program/macos.md
+      - 2.Homebrew & Pip: program/homebrew.md
+      - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md  
   - Literature Reading:
     - Literature Reading: reading/index.md
     - <b>Startup Readings</b>: reading/startup.md
