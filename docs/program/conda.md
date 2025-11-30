@@ -18,11 +18,18 @@ Miniconda 是一个 Anaconda 的轻量级替代，默认只包含了 python 和 
 
 ```bash
 # step 1. download the installation script
-wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
+wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py310_23.11.0-2-Linux-x86_64.sh
 
 # step 2. install
-bash Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-py310_23.11.0-2-Linux-x86_64.sh
 ```
+
+>[!warning]
+>
+> Do not install version higher than **py310_23.11.0** in `cnode`, which is not compatible.
+>
+> `wget` seems not working in `cnode` for mirrors.tuna.tsinghua.edu.cn, I downloaded the sh file in `lulab_cluster`, then copied it to `cnode`.
+
 
 ## 2. Example of pip install: mkdocs
 

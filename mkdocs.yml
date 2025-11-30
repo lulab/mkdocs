@@ -76,8 +76,6 @@ nav:
     - Getting Started: index.md
     - Lab Meetings: meeting/meeting.md
     - Lab Calendars: meeting/cal.md
-    - Intranet: 
-      - overview: intranet/index.md
     - FAQ: 
       - I.科研方法: faq/faq-1.md
       - II.科研实践: faq/faq-2.md
@@ -85,6 +83,7 @@ nav:
       - IV.生活和财务: faq/faq-4.md
       - V.办公硬件和软件: faq/faq-5.md
       - VI.其他问题: faq/faq-6.md
+  - Intranet: intranet/index.md
   - Programming: 
     - Linux:
       - 1.Conda in Linux: program/conda.md    
