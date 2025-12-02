@@ -7,4 +7,5 @@ We can work on a remote computer/cluster using a VS Code Extension: [Remote Deve
 * Backup scripts by using git in VS Code
 
 > 注意： 国内链接 Github 可能不太稳定，可以尝试国内的替代产品，如：Gitee 高校版 (开源中国推出的基于 Git 的代码托管和协作开发平台)
+> Tips: 一般的git命令用VS Code都还连接比较顺畅，有时最后一步的同步时会被墙，可以试试直接在服务器上完成“git push origin"的最后一步。
 
