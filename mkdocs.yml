@@ -86,8 +86,9 @@ nav:
   - Intranet: intranet/index.md
   - Programming: 
     - Linux:
-      - 1.Conda in Linux: program/conda.md    
-      - 2.Tips in Linux: program/tips.md
+      - 1.VS Code Remote: program/vscode.md    
+      - 2.Conda in Linux: program/conda.md    
+      - 3.Tips in Linux: program/tips.md
     - MacOS:
       - 1.Mac Settings: program/macos.md
       - 2.Homebrew & Pip: program/homebrew.md
