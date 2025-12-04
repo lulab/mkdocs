@@ -1,6 +1,4 @@
 site_name: Lu Lab Docs
-# site_url: https://lulab.github.io/mkdocs
-# site_url: http://lulab.life.tsinghua.edu.cn
 theme:
   logo: img/Z-1.png
   name: material
@@ -19,7 +17,7 @@ theme:
     - Highlight
 extra_css: [extra.css] 
 extra: 
-  homepage: /ncrnalab
+  homepage: /home
 markdown_extensions: 
   - tables
   - attr_list
@@ -61,8 +59,7 @@ plugins:
         border-radius: 8px
   - redirects:
       redirect_maps:
-        'ncrnalab/index.md': 'http://www.ncrnalab.org/home'
-        'ncrnalab/software/index.md': 'http://www.ncrnalab.org/software'
+        'home/index.md': 'http://www.ncrnalab.org/home'
 #  - encryptcontent:
 #      password_inventory:
 #        classified: setapassword
@@ -71,7 +68,7 @@ plugins:
 repo_url: https://github.com/lulab
 repo_name: github/lulab
 nav:
-  - Home: /ncrnalab
+  - Home: /home
   - Getting Started: 
     - Getting Started: index.md
     - Lab Meetings: meeting/meeting.md
@@ -95,6 +92,7 @@ nav:
       - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md  
   - Literature Reading:
     - Literature Reading: reading/index.md
+    - <b>Tips for Writing</b>: reading/writing.md
     - <b>Startup Readings</b>: reading/startup.md
     - A.RNAfinder:
       - 1.1 cfRNAfinder: 
@@ -130,12 +128,5 @@ nav:
         - siRNA Drug Design: reading/B.RNAtalk/RNA-RNA/siRNA Drug Design.md
       - RNA-Ligand: reading/B.RNAtalk/RNA-Ligand//RNA-Ligand.md
       - RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
-  - Publications: 
-    - By Year: pub/pub.md
-    - By Topic: pub/pub-topics.md
-    - Tips for Writing: pub/writing.md
-  - Courses:
-    - Courses: courses/index.md 
-    - Bioinformatics: courses/bioinfo.md
-    - AI for Biomedicine: courses/ai.md
-    - Genomics - PTN: courses/genomics.md
+
+
