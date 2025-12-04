@@ -5,7 +5,7 @@
 #### Welcome
 
 - :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/d/1e07c4f58c5e42e2832c/)
-- :material-calendar-clock:  [Lab Meetings](meeting/meeting.md)  &  [Lab Calendar](meeting/cal.md)
+- :material-calendar-clock:  [Lab Meetings](intranet/meeting.md)  &  [Lab Calendar](intranet/cal.md)
 - :material-frequently-asked-questions:  [FAQ](faq/faq-1.md)
 
 > :octicons-info-16:  [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
@@ -46,12 +46,12 @@
 
 ## III. Publish in Lu Lab
 
-* [Paper](./pub/pub.md)
+* [Paper](publications/pub.md)
 	* 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
 	* Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
-	* [Tips for manuscript writing](./pub/writing.md)
-* [Software](/ncrnalab/software)
-* [Patent](https://lulab.life.tsinghua.edu.cn/ncrnalab/open/IP.html)
+	* [Tips for manuscript writing](publications/writing.md)
+* [Software](/home/software)
+* [Patent](publications/IP.md)
 
 !!!quote ""
     * "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison

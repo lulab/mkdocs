@@ -1,4 +1,4 @@
-site_name: Lu Lab Docs
+site_name: Welcome to Lu Lab @ Tsinghua
 theme:
   logo: img/Z-1.png
   name: material
@@ -60,6 +60,7 @@ plugins:
   - redirects:
       redirect_maps:
         'home/index.md': 'http://www.ncrnalab.org/home'
+        'home/software/index.md': 'http://www.ncrnalab.org/home/software'
 #  - encryptcontent:
 #      password_inventory:
 #        classified: setapassword
@@ -69,30 +70,27 @@ repo_url: https://github.com/lulab
 repo_name: github/lulab
 nav:
   - Home: /home
-  - Getting Started: 
-    - Getting Started: index.md
-    - Lab Meetings: meeting/meeting.md
-    - Lab Calendars: meeting/cal.md
-    - FAQ: 
-      - I.科研方法: faq/faq-1.md
-      - II.科研实践: faq/faq-2.md
-      - III.实验室规范: faq/faq-3.md
-      - IV.生活和财务: faq/faq-4.md
-      - V.办公硬件和软件: faq/faq-5.md
-      - VI.其他问题: faq/faq-6.md
-  - Intranet: intranet/index.md
-  - Programming: 
-    - Linux:
-      - 1.VS Code Remote: program/vscode.md    
-      - 2.Conda in Linux: program/conda.md    
-      - 3.Tips in Linux: program/tips.md
-    - MacOS:
-      - 1.Mac Settings: program/macos.md
-      - 2.Homebrew & Pip: program/homebrew.md
-      - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md  
+  - Projects: 
+    - 科研课题: projects/proj.md
+    - Research Projects: projects/proj-en.md
+  - Courses:
+    - Courses: courses/index.md 
+    - Bioinformatics: courses/bioinfo.md
+    - AI for Biomedicine: courses/ai.md
+    - Genomics - PTN: courses/genomics.md
+  - Publications: 
+    - By Year: publications/pub.md
+    - By Topic: publications/pub-topics.md
+    - <b>Tips for Writing</b>: publications/writing.md
+    - Patent: publications/IP.md
+    - News: publications/news.md
+  - People: 
+    - People: people/index.md
+    - Academic Tree: people/academic.md
+    - Join Us: people/join-us.md
+    - Collaborations: people/open.md
   - Literature Reading:
     - Literature Reading: reading/index.md
-    - <b>Tips for Writing</b>: reading/writing.md
     - <b>Startup Readings</b>: reading/startup.md
     - A.RNAfinder:
       - 1.1 cfRNAfinder: 
@@ -128,5 +126,25 @@ nav:
         - siRNA Drug Design: reading/B.RNAtalk/RNA-RNA/siRNA Drug Design.md
       - RNA-Ligand: reading/B.RNAtalk/RNA-Ligand//RNA-Ligand.md
       - RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
-
+  - Intranet Docs: 
+    - Getting Started: index.md
+    - Intranet: intranet/index.md
+    - Lab Meetings: intranet/meeting.md
+    - Lab Calendars: intranet/cal.md
+    - FAQ: 
+      - I.科研方法: faq/faq-1.md
+      - II.科研实践: faq/faq-2.md
+      - III.实验室规范: faq/faq-3.md
+      - IV.生活和财务: faq/faq-4.md
+      - V.办公硬件和软件: faq/faq-5.md
+      - VI.其他问题: faq/faq-6.md
+    - Programming: 
+      - Linux:
+        - 1.VS Code Remote: program/vscode.md    
+        - 2.Conda in Linux: program/conda.md    
+        - 3.Tips in Linux: program/tips.md
+      - MacOS:
+        - 1.Mac Settings: program/macos.md
+        - 2.Homebrew & Pip: program/homebrew.md
+        - 3.MkDocs & Jekyll: program/mkdocs-jekyll.md  
 
