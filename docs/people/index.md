@@ -4,7 +4,7 @@
 
 >[!important]
 >
-><p align="middle"><span style="font-weight: bold; font-size: 18pt;">"少年应有鸿鹄志，当骑骏马踏平川"</span></p>
+><p align="middle"><span style="font-weight: bold; font-size: 16pt;">少年应有鸿鹄志 当骑骏马踏平川</span></p>
 >
 > <div align="middle"><a href="https://365.kdocs.cn/l/crmAWAhGmoRE"><font color="#d32905"><big>Honored Students @ Lu Lab</big><br></font></a></div>
 
