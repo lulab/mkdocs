@@ -6,7 +6,7 @@ hide:
 # Publications  <small>*by Topic*</small>
 
 
-> [代表性文章中文解读](news.md)
+> [代表性文章中文解读](news.md#news)
 >
 > [专利和著作权](IP.md)
 >

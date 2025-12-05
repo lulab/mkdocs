@@ -1,9 +1,4 @@
----
-layout: default
-title: 专利和著作权
-description: 清华大学・鲁志实验室
----
-
+# 鲁志实验室 - 专利和著作权
 
 
 ## 检测方向相关专利和软件著作权
@@ -17,13 +12,6 @@ description: 清华大学・鲁志实验室
 7. 多组学 AI整合方法 **PathFormer** (**软件著作权号：2023SR0985659**) (*Bioinformatics* 2024a)
 8. 一种细胞游离RNA（cfRNA）峰区识别的AI软件 **cfPeak** （**软件著作权号：2025SR1268709**）（*Genome Biology* 2025）
 
-
-<div align="middle">
-<img src="image/patent.jpg" alt="主要专利" style="zoom:30%;" />
-</div>
-<br/>
-
-<div style="page-break-after: always;"></div>
 
 
 

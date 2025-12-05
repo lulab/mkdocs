@@ -1,6 +1,5 @@
----
-title: News 
----
+# News in Lu Lab
+
 
 * **2025.6**. Hongli Ma et al. published RNAsmol paper in **Nature Computational Science**. *Congratulations* ! 
 
