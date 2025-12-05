@@ -59,8 +59,9 @@ plugins:
         border-radius: 8px
   - redirects:
       redirect_maps:
-        'home/index.md': 'http://www.ncrnalab.org/home'
-        'home/software/index.md': 'http://www.ncrnalab.org/home/software'
+        'home/index.md': 'https://www.ncrnalab.org/home'
+        'home/software/index.md': 'https://www.ncrnalab.org/home/software'
+        'home/ai/index.md': 'https://www.ncrnalab.org/home/ai'
 #  - encryptcontent:
 #      password_inventory:
 #        classified: setapassword
