@@ -1,3 +1,7 @@
+---
+title: Research Projects @ Lu Lab
+---
+
 # Research Projects @ Lu Lab
 
 \[ **English**  \|[中文](proj.md) \]
