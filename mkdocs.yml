@@ -10,6 +10,7 @@ theme:
     - navigation.top
     - navigation.indexes 
     - navigation.sections
+    - navigation.expand
   markdown_extensions:
     - admonition
     - footnotes
@@ -74,6 +75,7 @@ nav:
   - Projects: 
     - 科研课题: projects/proj.md
     - Research Projects: projects/proj-en.md
+    - Funding: projects/funding.md
   - Courses:
     - Courses: courses/index.md 
     - Bioinformatics: courses/bioinfo.md

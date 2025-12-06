@@ -1,17 +1,12 @@
----
-layout: default
-title: Research Projects @ Lu Lab
-description: Projects @ Lu Lab
----
-
 # Research Projects @ Lu Lab
+
+\[ **English**  \|[中文](proj.md) \]
+
+---
 
 [TOC]
 
 ---
-
-\[ **English**  \|[中文](proj.md) \]
-
 
 ## Goals 
 
@@ -183,18 +178,4 @@ We apply the above methods to precision medicine, focusing on two types of disea
   <br>
   <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
 </div>
-
-
----
-
-
-## Funding
-
-* 2024-2027     Precision diagnosis and treatment and innovative therapy research for refractory autoimmune diseases (AIDs), co-PI, National Key Research and Development Program of China
-* 2024-2027     Development of high-throughput analysis  technology of non-coding RNA and its  clinical applicationd, key member, National Key Research and Development Program of China
-* 2024-2027     Bioinformatics study of noncoding RNA omics in precision diagnosis and treatment of autoimmune diseases, PI, National Natural Science Foundation of China
-* 2024-2026     AI-driven drug design targeting RNAs, PI, National Natural Science Foundation of China
-* 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
-* 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
-* 2024-2027     cfRNA-based multi-omics application research in lung cancer screening, PI,  Hefei Comprehensive National Science Center General Health Research Institute "Global Selection" Project 
   
