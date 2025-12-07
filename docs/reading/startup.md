@@ -90,29 +90,40 @@
 
 * **OligoFormer**: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
 
-#### (1) Off-targt
-* UDA-seq **Nature Methods** 2025
-* High-throughput Seq Data:  **2024 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
+#### (Tech. A)  DT2 based scRNA-seq --> Big Data Generalization Platform
+
+* High-throughput Seq Data:  2024 Nature Biotechnology - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
+* UDA-seq: Nature Methods 2025
 * 2012 PNAS - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
 
-#### (2) Efficacy & Aptamer
+
+#### (Tech. B) Transcriptional Profile
 
 * 2021 Nature biotechnology - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning 
 * 2020 BIB - Comprehensive evaluation of connectivity methods for L1000 data [Lu Lab Paper]
-* 2010 Nature Review \| Drug Discovery - Aptamers as therapeutics
 
-#### (3) Drug Synergy
+
+#### (Tech. C) Fusing Enzymes: AGO2+ADAR2
+
+* 2023 Nature Biotech. - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
+
+
+#### (App 1) Transcriptional Profile -->  RNA Drug Synergy
 
 * 2025 Nature Communications - Building a unified model for drug synergy analysis powered by large language models
 * 2012 Nature Biotech - Systematic Identification of Synergistic Drug Pairs Targeting HIV [Lu Lab Paper]
 
-#### Others
+#### (App 2) Transcriptional Profile --> Screen novel RNA drugs
 
-> **More Readings about Guide RNAs:**
->
-> * **2025 Nature Biotechnology** - Improved RNA base editing with guide RNAs mimicking highly edited endogenous ADAR substrates
->
-> * **2024 Nature Biotechnology** - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
+* 2010 Nature Review \| Drug Discovery - **Aptamers** as therapeutics
+* 2025 Nature Biotechnology - Improved **RNA base editing** with guide RNAs mimicking highly edited endogenous ADAR substrates
+
+#### (App 3) Fusing Enzymes --> Off-target Site
+
+* 2024 Nature Biotechnology - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
+
+
+
 
 ---
 
