@@ -88,10 +88,25 @@
 > 
 > (合作： Drug Companies）
 
+* **OligoFormer**: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
 
+#### (1) Off-targt
 * UDA-seq **Nature Methods** 2025
 * High-throughput Seq Data:  **2024 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
-* AI Model: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
+* 2012 PNAS - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
+
+#### (2) Efficacy & Aptamer
+
+* 2021 Nature biotechnology - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning 
+* 2020 BIB - Comprehensive evaluation of connectivity methods for L1000 data [Lu Lab Paper]
+* 2010 Nature Review \| Drug Discovery - Aptamers as therapeutics
+
+#### (3) Drug Synergy
+
+* 2025 Nature Communications - Building a unified model for drug synergy analysis powered by large language models
+* 2012 Nature Biotech - Systematic Identification of Synergistic Drug Pairs Targeting HIV [Lu Lab Paper]
+
+#### Others
 
 > **More Readings about Guide RNAs:**
 >
