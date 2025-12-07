@@ -90,7 +90,7 @@
 
 * **OligoFormer**: **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
 
-#### (Tech. A)  DT2 based scRNA-seq --> Big Data Generalization Platform
+#### (Tech. A) scDT2 Screen Platform --> Big Data Generalization Platform
 
 * High-throughput Seq Data:  2024 Nature Biotechnology - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
 * UDA-seq: Nature Methods 2025
