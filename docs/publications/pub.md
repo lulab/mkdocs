@@ -20,6 +20,20 @@
 
   [View Detail](https://doi.org/10.1186/s13059-025-03590-x)
 
+* Zhendong Lu, Pengfei Bao, Taiwei Wang, Kairui Hu, Lina Zhang, Ling Yi, Yuanming Pan, Weiying Li, **Zhi John Lu**\*, Jinghui Wang\* & Junzhong Ruan\* (2025) **Multi-omics data-based modeling reveals tumorigenesis- and prognosis-associated genes with clinical potential in lung adenocarcinoma** *BMC Cancer* 25, 1743 
+
+  [View Detail](https://doi.org/10.1186/s12885-025-14943-x)
+
+* Yumin Zhu, Fengping Wu, Kangping Liu, Shaozhen Xing, Chun Ning, Meng Ning, Heyue Jin, Yun Shao, Zhenye Zhu, Hongke Wang, Binbin Shi, Yajin Mo, Xinping Tian, Mengtao Li, Jiuliang Zhao\*, **Zhi John Lu**\*, Ning Gu\*
+(2025) **Proceedings of cell-free noncoding RNA biomarker studies in liquid biopsy** *Rheumatology and Immunology Research* 6(3):149–158
+
+  [View Detail](https://doi.org/10.1515/rir-2025-0018)
+
+* Qiangsheng Yu, Jie Wu, Yunfan Jin, Tianxue Song, Wenrui Wang, Yuejuan Zeng, Huang Huang, Haiteng Deng, Wei Wang, Jianghui Xie, **Zhi John Lu**, Xiaofeng Fang, Susheng Song\* & Tiancong Qi\* (2025) **Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.** *Nature Plants* doi: 10.1038/s41477-025-02154-y
+
+  [View Detail](https://doi.org/10.1038/s41477-025-02154-y)
+
+
 > —————————————————75————————————————————
 
 ## 2024
