@@ -16,20 +16,20 @@
   [View Detail](https://www.nature.com/articles/s43588-025-00820-x)  \|  [Free Full-text](https://rdcu.be/etaiM)  (view-only)
 
 
-* Pengfei Bao <sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
   [View Detail](https://doi.org/10.1186/s13059-025-03590-x)
 
-* Zhendong Lu, Pengfei Bao, Taiwei Wang, Kairui Hu, Lina Zhang, Ling Yi, Yuanming Pan, Weiying Li, **Zhi John Lu**\*, Jinghui Wang\* & Junzhong Ruan\* (2025) **Multi-omics data-based modeling reveals tumorigenesis- and prognosis-associated genes with clinical potential in lung adenocarcinoma** *BMC Cancer* 25, 1743 
+* Zhendong Lu<sup>1</sup>, Pengfei Bao<sup>1</sup>, Taiwei Wang, Kairui Hu, Lina Zhang, Ling Yi, Yuanming Pan, Weiying Li, **Zhi John Lu**\*, Jinghui Wang\* & Junzhong Ruan\* (2025) **Multi-omics data-based modeling reveals tumorigenesis- and prognosis-associated genes with clinical potential in lung adenocarcinoma** *BMC Cancer* 25, 1743 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
   [View Detail](https://doi.org/10.1186/s12885-025-14943-x)
 
 * Yumin Zhu, Fengping Wu, Kangping Liu, Shaozhen Xing, Chun Ning, Meng Ning, Heyue Jin, Yun Shao, Zhenye Zhu, Hongke Wang, Binbin Shi, Yajin Mo, Xinping Tian, Mengtao Li, Jiuliang Zhao\*, **Zhi John Lu**\*, Ning Gu\*
-(2025) **Proceedings of cell-free noncoding RNA biomarker studies in liquid biopsy** *Rheumatology and Immunology Research* 6(3):149–158
+(2025) **Proceedings of cell-free noncoding RNA biomarker studies in liquid biopsy** *Rheumatology and Immunology Research* 6(3):149–158 (\*co-corresponding authors)
 
   [View Detail](https://doi.org/10.1515/rir-2025-0018)
 
-* Qiangsheng Yu, Jie Wu, Yunfan Jin, Tianxue Song, Wenrui Wang, Yuejuan Zeng, Huang Huang, Haiteng Deng, Wei Wang, Jianghui Xie, **Zhi John Lu**, Xiaofeng Fang, Susheng Song\* & Tiancong Qi\* (2025) **Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.** *Nature Plants* doi: 10.1038/s41477-025-02154-y
+* Qiangsheng Yu, Jie Wu, Yunfan Jin, Tianxue Song, Wenrui Wang, Yuejuan Zeng, Huang Huang, Haiteng Deng, Wei Wang, Jianghui Xie, **Zhi John Lu**, Xiaofeng Fang, Susheng Song\* & Tiancong Qi\* (2025) **Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.** *Nature Plants* doi: 10.1038/s41477-025-02154-y (\*co-corresponding authors)
 
   [View Detail](https://doi.org/10.1038/s41477-025-02154-y)
 
