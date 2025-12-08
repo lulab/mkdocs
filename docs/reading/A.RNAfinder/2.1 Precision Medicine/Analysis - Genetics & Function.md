@@ -8,6 +8,7 @@
 * **2024 Nature Communications** - Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes
 * **2022 Nature genetics** - Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data
 * **2022 Cancer Discovery** - Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk Alleles Somatic Mutations and 3D Genomic Architecture
+* ✅ **2020	Nature protocols** - Tutorial: a guide to performing polygenic risk score analyses
 * **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
 
 ### 2. RNA & Function Analysis
