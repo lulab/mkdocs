@@ -13,11 +13,16 @@ title: 清华大学・鲁志实验室 寻求合作
 鲁志实验室（ [实验室主页](https://www.ncRNAlab.org) ）下属于清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。实验室依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
 
 我们实验室致力于发展**生物信息学技术**，并探索其在**癌症、自身免疫等复杂疾病**的**精准诊疗**上的具体应用。我们利用机器学习等**人工智能技术**，结合**非编码RNA (ncRNA)**为核心的**多组学**数据，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。
+
 “上工治未病”，我们的一个重要使命，是帮助人们更早期的发现和治疗疾病。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章~70篇，包括通讯作者文章30余篇(ESI高被引论文4篇)；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。
+实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士专注**“非编码RNA”相关的生物信息学**研究，在该领域深耕多年，发表相关 SCI文章70余篇(引用次数超过2万次)，其中通讯作者文章30余篇（ESI高被引论文4篇）。代表性工作是关于新型非编码RNA模型和算法的开发 (*Nucleic Acids Res. 2015a\*；2015b\*；2016\*; 2017a\*; 2017b\*; 2017c\*+; 2018\*; 2019\*+; 2022\*; 2024\*; Genome Biology 2017\*; PNAS 2020\*+; Bioinformatics 2024a\*;2024b\*; Nature Comp. Sci. 2025\**）及其在癌症和自身免疫疾病上的交叉合作与应用 (*Nature Commn. 2017\*, Cell Res. 2020\*+, e-Life 2022\*+, eBioMedicine 2023\*+, Cell Rep. Med. 2023\*, Clinical & Trans. Med. 2024\*, Genome Biology 2025\**) （\*最后，\*+：共同通讯文章）。
 
-**实验室围绕着非编码RNA(ncRNA)主要有两个研究方向: 1）AI驱动的核酸模型；2）生信驱动的精准医疗。** 详见 [Projects](../projects/proj.md) 。
+实验室围绕着非编码RNA(ncRNA)主要有两个研究方向: **1）AI驱动的核酸模型；2）生信驱动的精准医疗。** 详见 [Projects](../projects/proj.md) 。
+
+
+
+
 
 
 ## 代表性在研项目
@@ -51,15 +56,15 @@ title: 清华大学・鲁志实验室 寻求合作
 
 - **合作课题：针对癌症等复杂疾病的AI驱动的cfRNA检测技术** 
 - **招募机构：**
-  - **1. 医院、临检机构等**
-  - **2. 基因检测公司等**
-  - **3. 人工智能相关的实验室**
-  - **4. 检测和测序技术相关的实验室**
+    - **1. 医院、临检机构等**
+    - **2. 基因检测公司等**
+    - **3. 人工智能相关的实验室**
+    - **4. 检测和测序技术相关的实验室**
 - **合作方式**：
-  - 合作临床项目发现新靶标和新标志物
-  - 合作产业化项目开发和应用检测试剂盒
-  - 合作科研课题进行人工智能技术开发
-  - 合作科研课题进行检测和测序技术开发
+    - 合作临床项目发现新靶标和新标志物
+    - 合作产业化项目开发和应用检测试剂盒
+    - 合作科研课题进行人工智能技术开发
+    - 合作科研课题进行检测和测序技术开发
 - **发起组织：清华大学生命学院鲁志实验室** （Lab of *RNA Bioinformatics*）
 - **有效时间：长期**
 
@@ -73,7 +78,14 @@ title: 清华大学・鲁志实验室 寻求合作
 
 本项目将基于基因组学和生物信息学，通过开发体液RNA微量测序技术和机器学习方法，在体液中发现和鉴定与癌症发生发展相关的新型exRNA标志物，应用于国内高致死癌症的早期诊断和预后辅助治疗。exRNA指的是胞外RNA，又称cfRNA，包括多种类型：miRNA,Y RNA,circRNA,lncRNA等。RNA标志物与DNA和蛋白标志物相比，具有更好的敏感性、组织特异性和多样性，为更好的临床检验带来了新的期望。我们在新型非编码RNA和生物信息学研究方面积累了丰富经验，基于此，我们将在癌症病人体液（如血液）中发现和分析标志癌症发生发展的新型exRNA/cfRNA，并整合现有标志物构建多重标志物的智能模型，在大样本上进行验证，建立具有更高精准度和可重复性的无创检验方法。
 
-我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2015年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利号：201810607652X）、DETECTOR-seq (专利申请号：202210579444.X) (*elife* 2022, *Cell Rep. Med.* 2023, *Clinic. & Tranl. Med.* 2024)，以及基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利号:2018110094643；专利号：202010927225.7) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2021*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*；*Nucleic Acids Res.* 2022)，为癌症无创检测试剂的开发提供了有力的支持。
+我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如：
+
+* 我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的非编码RNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*）, 其中有不少具有很好的标志物特性。
+* 自2015年起，实验室开始大力发展针对体液无创检测技术的研究,为复杂疾病的无创检测试剂的开发提供了有力的支持：
+    * 克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利号：201810607652X）、DETECTOR-seq (专利申请号：202210579444.X) (*elife 2022, Cell Rep. Med. 2023, Clinic. & Tranl. Med. 2024*)；
+    * 开发了基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a; Genome Biology 2025*)；
+    * 发现了一些新的exRNA标志物（专利号:2018110094643；专利号：202010927225.7) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2021*)；
+    * 积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019；Nucleic Acids Res. 2022*)。
 
 ### 合作方式
 
@@ -82,21 +94,22 @@ title: 清华大学・鲁志实验室 寻求合作
 **合作发现和研究体液中的新型exRNA/cfRNA，共同发表科研文章**
 
 * **方法学开发**
-  * 共同开发针对多组学、多模态数据整合的人工智能模型
-  * 共同开发针对cfRNA（以及多组学）的高通量测序技术
-  
+    * 共同开发针对多组学、多模态数据整合的人工智能模型
+    * 共同开发针对cfRNA（以及多组学）的高通量测序技术
 * **I期. 新型标志物的“发现和探索”阶段**
-  * 贵单位构负责收集 **少量（30-50例血样）** 癌症病人和/或健康对照人群的血浆，妥善储存并运输；
-  * 我们负责进行预实验和分析，实验和分析费用由我们承担。
+    * 贵单位构负责收集 **少量（30-50例血样）** 癌症病人和/或健康对照人群的血浆，妥善储存并运输；
+    * 我们负责进行预实验和分析，实验和分析费用由我们承担。
 * **II期. 新型标志物的“鉴定和验证”阶段**
-  * 在前期预实验效果较好的前提下，还需要在 **大量样本（200-500例血样）** （最好部分血样能配套组织样本）中进行测序和验证；
-  * 实验和分析费用由双方共同承担，具体合作事宜面议。
+    * 在前期预实验效果较好的前提下，还需要在 **大量样本（200-500例血样）** （最好部分血样能配套组织样本）中进行测序和验证；
+    * 实验和分析费用由双方共同承担，具体合作事宜面议。
 
-<div style="page-break-after: always;"></div>
+
 > 样本收集与临床队列设计:
+
 <div align="middle">
-<img src="../img/flow.jpg" style="zoom: 40%;" />
+<img src="../../publications/img/flow.jpg" style="zoom: 40%;" />
 </div>
+
 
 
 
@@ -107,12 +120,12 @@ title: 清华大学・鲁志实验室 寻求合作
 **我们提供相关试剂盒和检测方法的开发和生产方案**
 
 * **III期. 新型标志物优化和试剂盒设计**
-  * 我们负责从**前期科研成果**和**自有的液体活检生物标志物数据库**（**注1**）中**根据贵单位需求**筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白，代谢物等不同分子类型，我们将综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等；
-  * 贵单位负责对筛选的标志物在**200-500例**癌症病人和健康对照人群的血浆样本中进行二次验证；
-  * 我们负责对验证数据进行再分析，采用机器学习等人工智能方法优化出诊断模型，设计相应试剂盒；
-  * 贵单位进行相应试剂盒生产和推广。
+    * 我们负责从**前期科研成果**和**自有的液体活检生物标志物数据库**（**注1**）中**根据贵单位需求**筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白，代谢物等不同分子类型，我们将综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等；
+    * 贵单位负责对筛选的标志物在**200-500例**癌症病人和健康对照人群的血浆样本中进行二次验证；
+    * 我们负责对验证数据进行再分析，采用机器学习等人工智能方法优化出诊断模型，设计相应试剂盒；
+    * 贵单位进行相应试剂盒生产和推广。
 * **IV期. 大规模临床报证和产业化阶段**
-  * 进行三类医疗器械证的注册、申报和推广，具体合作事宜面议，可以共同寻找其他投资和合作伙伴。
+    * 进行三类医疗器械证的注册、申报和推广，具体合作事宜面议，可以共同寻找其他投资和合作伙伴。
 
 > **注1：**
 >
@@ -147,32 +160,32 @@ title: 清华大学・鲁志实验室 寻求合作
 我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括*RNAfinder、RNAtarget、RNAstructurome、RNAmed*四个系列:
 
 * **a) *RNAfinder***
-  * [Ribowave](https://github.com/lulab/Ribowave):  用于核糖体测序数据（Ribo-seq）的分析，利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息 (*Nucleic Acids Research* 2018)。
-  * [COME](https://github.com/lulab/COME):  用于mRNA和lncRNA中蛋白编码潜能的分析 (*Nucleic Acids Research* 2017)。
-  * [RNAfeature](https://github.com/lulab/RNAfeature): 用于多个物种间非编码RNA保守性信息的分析 (*Nucleic Acids Research* 2015)。
+    * [Ribowave](https://github.com/lulab/Ribowave):  用于核糖体测序数据（Ribo-seq）的分析，利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息 (*Nucleic Acids Research* 2018)。
+    * [COME](https://github.com/lulab/COME):  用于mRNA和lncRNA中蛋白编码潜能的分析 (*Nucleic Acids Research* 2017)。
+    * [RNAfeature](https://github.com/lulab/RNAfeature): 用于多个物种间非编码RNA保守性信息的分析 (*Nucleic Acids Research* 2015)。
 * **b) *RNAtarget***
-  * [RBPgroup](https://github.com/lulab/RBPgroup): 利用NMF（非负矩阵分解）对各种CLIP-seq数据进行整合分析  (*Genome Biology*  2017)。
-  * [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个探究RNA转录后调控事件的数据库和分析平台，能提供多个物种间RNA-蛋白的相互作用、致病突变位点等信息 (*Nucleic Acids Research* 2017/2019/2022)。
-  * [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 一个集成了各种类型CLIP-seq数据的数据库，描述RNA结合蛋白和各种RNA调控网络的集成资源数据库 (*BMC Genomics* 2015)。
+    * [RBPgroup](https://github.com/lulab/RBPgroup): 利用NMF（非负矩阵分解）对各种CLIP-seq数据进行整合分析  (*Genome Biology*  2017)。
+    * [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个探究RNA转录后调控事件的数据库和分析平台，能提供多个物种间RNA-蛋白的相互作用、致病突变位点等信息 (*Nucleic Acids Research* 2017/2019/2022)。
+    * [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 一个集成了各种类型CLIP-seq数据的数据库，描述RNA结合蛋白和各种RNA调控网络的集成资源数据库 (*BMC Genomics* 2015)。
 * **c) *RNAstructurome***
-  * [RME/RNAex](https://github.com/lulab/RME):  一种RNA二级结构预测算法，同时提供了多种类型的RNA二级结构实验数据 (*Nucleic Acids Research* 2015/2016)。
+    * [RME/RNAex](https://github.com/lulab/RME):  一种RNA二级结构预测算法，同时提供了多种类型的RNA二级结构实验数据 (*Nucleic Acids Research* 2015/2016)。
 * **d) *RNAmed***
-  * [CCG](http://lulab.life.tsinghua.edu.cn/ccg): 用于探究肿瘤中蛋白编码基因和非编码RNA的一个资源数据库  (*Discovery Medicine*, 2016)。
-  * [exSeek](https://github.com/lulab/exSEEK): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
-  * [exMarker](http://lulab.life.tsinghua.edu.cn/exmarker/): 多类型生物标志物的整合数据库，也可以用来预测各种疾病患病可能性。
+    * [cfPeak](https://github.com/lulab/cfPeak): cfPeak is a CNN model finding fragmented cell-free RNAs for disease diagnoisis and prognosis.
+    * [exSeek](https://github.com/lulab/exSEEK): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
+    * [cfOmics](http://cfOMics.ncRNAlab.org): 多类型生物标志物的整合数据库，也可以用来预测各种疾病患病可能性。
 
 ### 合作方资质需求和已有合作单位
 
 具有收集癌症病人和/或健康对照人群体液和/或组织样品的资质 ，或具有试剂盒开发及推广经验和资质的机构及公司。
 
 * **已有合作单位:**
-  - **北京** 北京协和医院
-  - **北京** 北京大学第一医院
-  - **北京** 清华长庚医院
-  - **天津** 天津肿瘤医院
-  - **上海** 海军军医大学
-  - **成都** 华西医院
-  - 。。。
+    - **北京** 北京协和医院
+    - **北京** 北京大学第一医院
+    - **北京** 清华长庚医院
+    - **天津** 天津肿瘤医院
+    - **上海** 海军军医大学
+    - **成都** 华西医院
+    - 。。。
 
 <div style="page-break-after: always;"></div>
 
@@ -188,20 +201,20 @@ title: 清华大学・鲁志实验室 寻求合作
 
 - **合作课题：AI驱动的RNA药物设计在疾病治疗上的应用** 
 - **招募机构：**
-  - **1. 制药公司、新药研发公司等**
-  - **2. 人工智能相关的实验室**
-  - **3. 药学和结构研究相关的实验室**
-  - **4. CRO公司等**
+    - **1. 制药公司、新药研发公司等**
+    - **2. 人工智能相关的实验室**
+    - **3. 药学和结构研究相关的实验室**
+    - **4. CRO公司等**
 - **药物设计类型：**
-  - 利用和优化我们的 AI 方法 (***OligoFormer***) 筛选和设计针对**RNA序列**的小RNA (siRNA) 药物
-  - 利用和优化我们的 AI 方法 (***RNAsmol***) 筛选和设计针对**RNA结构**的小分子药物
-  - 利用和优化我们的计算方法 (***RBPgroup***)和数据库 (***POSTAR***) 筛选和设计针对**RNA结构**的蛋白药物
+    - 利用和优化我们的 AI 方法 (***OligoFormer***) 筛选和设计针对**RNA序列**的小RNA (siRNA) 药物
+    - 利用和优化我们的 AI 方法 (***RNAsmol***) 筛选和设计针对**RNA结构**的小分子药物
+    - 利用和优化我们的计算方法 (***RBPgroup***)和数据库 (***POSTAR***) 筛选和设计针对**RNA结构**的蛋白药物
 - **合作方式**：
-  - 科研课题：合作方提供人工智能技术，共同应用在RNA药物设计优化上
-  - 科研课题：合作方提供药学设计技术，共同应用在RNA药物设计优化上
-  - 科研课题：合作方针对我们预测出来的小分子或者小 RNA药物进行早期实验验证和优化
-  - 科研和产业化课题：合作方提供药筛平台进行药物筛选
-  - 产业化课题：合作方提供应用场景（例如针对特定疾病和组织提供递送siRNA的方法和手段） 
+    - 科研课题：合作方提供人工智能技术，共同应用在RNA药物设计优化上
+    - 科研课题：合作方提供药学设计技术，共同应用在RNA药物设计优化上
+    - 科研课题：合作方针对我们预测出来的小分子或者小 RNA药物进行早期实验验证和优化
+    - 科研和产业化课题：合作方提供药筛平台进行药物筛选
+    - 产业化课题：合作方提供应用场景（例如针对特定疾病和组织提供递送siRNA的方法和手段） 
 - **发起组织：清华大学生命学院鲁志实验室**（Lab of *RNA Bioinformatics*）
 - **有效时间：长期**
 
@@ -212,19 +225,22 @@ title: 清华大学・鲁志实验室 寻求合作
 ### 项目简介
 
 我们和该项目相关的前期科研基础有（<sup>1</sup>第一作者，\*最后通讯，\*<sup>+</sup>：共同通讯）： 
+
 * **1）RNA二级结构预测算法** (***RNAstructure***: Nucleic Acids Res. 2006<sup>1</sup>，RNA 2009<sup>1</sup>, Nucleic Acids Res. 2015\*，2016\* ）；
 * **2）RNA-oligo/siRNA预测** (***OligoWalk***: Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>; ***OligoFormer***: *Bioinformatics*  2024b\*）**和shRNA 设计** (PNAS 2012)；
 * **3）RNA-蛋白结合预测** (***POSTAR***: Nuc. Acids. Res. 2017\*, 2019\*<sup>+</sup>, 2022\*；***RBPgroup***: Genome Biology 2017\*, Cell 2019 )；
 * **4）RNA-小分子结合预测**
-  * 靶标病毒的小分子药物筛选（Nature Biotech. 2012）;
-  * 小分子表型筛选计算方法（Brief. in Bioinformatics 2019\*<sup>+</sup>);
-  * 靶标RNA的小分子药物AI设计（***RNAsmol***: [preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 2024\*)。
+    * 靶标病毒的小分子药物筛选（Nature Biotech. 2012）;
+    * 小分子表型筛选计算方法（Brief. in Bioinformatics 2019\*<sup>+</sup>);
+    * 靶标RNA的小分子药物AI设计（***RNAsmol*** Nature Comp. Sci. 2025\*)。
+
+
+RNA-targeting drug discovery is undergoing an unprecedented revolution. Despite recent advances in this field, developing data-driven deep learning models remains challenging due to the limited availability of validated RNA-small molecule interactions and the scarcity of known RNA structures. In this context, we introduce **RNAsmol**, a novel sequence-based deep learning framework that incorporates data perturbation with augmentation, graph-based molecular feature representation and attention-based feature fusion modules to predict RNA-small molecule interactions. RNAsmol employs perturbation strategies to balance the bias between true negative and unknown interaction space thereby elucidating the intrinsic binding patterns between RNA and small molecules. The resulting model demonstrates accurate predictions of the binding between RNA and small molecules, outperforming other methods with average improvements of ∼8% (AUROC) in 10-fold cross-validation, ∼16% (AUROC) in cold evaluation (on unseen datasets), and ∼30% (ranking score) in decoy evaluation. Moreover, we use case studies to validate molecular binding hotspots in the prediction of RNAsmol, proving the model’s interpretability. In particular, we demonstrate that RNAsmol, without requiring structural input, can generate reliable predictions and be adapted to many RNA-targeting drug design scenarios. - ***Nature Comp. Sci.* 2025**
 
 
 
 **Motivation:** RNA interference (RNAi) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs (small interfering RNAs) is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we propose an accurate and robust prediction method, **OligoFormer**, for siRNA design. **Results:** OligoFormer comprises three different modules including thermodynamic calculation, RNA-FM module, and Oligo encoder. Oligo encoder is the core module based on the transformer encoder. Taking siRNA and mRNA sequences as input, OligoFormer can obtain thermodynamic parameters, RNA-FM embedding, and Oligo embedding through these three modules, respectively. We carefully benchmarked OligoFormer against six comparable methods on siRNA efficacy datasets. OligoFormer outperforms all the other methods, with an average improvement of 9% in AUC, 6.6% in PRC, 9.8% in F1 score, and 5.1% in PCC compared to the best method among them in our inter-dataset validation. We also provide a comprehensive pipeline with prediction of siRNA efficacy and off-target effects using PITA score and TargetScan score. The ablation study shows RNA-FM module and thermodynamic parameters improved the performance and accelerated convergence of OligoFormer. The saliency maps by gradient backpropagation and base preference maps show certain base preferences in initial and terminal region of siRNAs. **Availability and implementation:**The source code of OligoFormer is freely available on GitHub at: https://github.com/lulab/OligoFormer. Docker image of OligoFormer is freely available on the docker hub at https://hub.docker.com/r/yilanbai/oligoformer. - ***Bioinformatics* 2024**
 
-RNA-targeting drug discovery is undergoing an unprecedented revolution. Despite recent advances in this field, developing data-driven deep learning models remains challenging due to the limited availability of validated RNA-small molecule interactions and the scarcity of known RNA structures. In this context, we introduce **RNAsmol**, a novel sequence-based deep learning framework that incorporates data perturbation with augmentation, graph-based molecular feature representation and attention-based feature fusion modules to predict RNA-small molecule interactions. RNAsmol employs perturbation strategies to balance the bias between true negative and unknown interaction space thereby elucidating the intrinsic binding patterns between RNA and small molecules. The resulting model demonstrates accurate predictions of the binding between RNA and small molecules, outperforming other methods with average improvements of ∼8% (AUROC) in 10-fold cross-validation, ∼16% (AUROC) in cold evaluation (on unseen datasets), and ∼30% (ranking score) in decoy evaluation. Moreover, we use case studies to validate molecular binding hotspots in the prediction of RNAsmol, proving the model’s interpretability. In particular, we demonstrate that RNAsmol, without requiring structural input, can generate reliable predictions and be adapted to many RNA-targeting drug design scenarios. - ***preprint* 2024**
 
 
 RNA-binding proteins (RBPs) play key roles in post- transcriptional regulation. Accurate identification of RBP binding sites in multiple cell lines and tissue types from diverse species is a fundamental en- deavor towards understanding the regulatory mech- anisms of RBPs under both physiological and patho- logical conditions. Our POSTAR annotation pro- cesses make use of publicly available large-scale CLIP-seq datasets and external functional genomic annotations to generate a comprehensive map of RBP binding sites and their association with other regulatory events as well as functional variants. Here, we present **POSTAR3**, an updated database with im- provements in data collection, annotation infrastruc- ture, and analysis that support the annotation of post-transcriptional regulation in multiple species in- cluding: we made a comprehensive update on the CLIP-seq and Ribo-seq datasets which cover more biological conditions, technologies, and species; we added RNA secondary structure profiling for RBP binding sites; we provided miRNA-mediated degra- dation events validated by degradome-seq; we included RBP binding sites at circRNA junction re- gions; we expanded the annotation of RBP binding sites, particularly using updated genomic variants and mutations associated with diseases. POSTAR3 is freely available at http://postar.ncrnalab.org.  - ***Nucleic Acids Res.* 2022**

@@ -8,7 +8,10 @@ hide:
 > * [**Recommended Reading List**](https://365.kdocs.cn/l/cl71Q0YisgIh)
 > * [PDFs of Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications&mode=list)
 
-## [Startup Readings](./startup.md)
+>[!important]
+>
+> <span style="font-weight: bold;  font-size: 16pt;">[-- Startup Readings --](./startup.md)</span>
+
 
 
 ---
