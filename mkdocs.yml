@@ -73,8 +73,8 @@ repo_name: github/lulab
 nav:
   - Home: /home
   - Projects: 
-    - 科研课题: projects/proj.md
-    - Research Projects: projects/proj-en.md
+    - Research Projects: projects/proj.md
+    - Background: projects/background.md
     - Funding: projects/funding.md
   - Courses:
     - Courses: courses/index.md 
