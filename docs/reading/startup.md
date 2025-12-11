@@ -121,7 +121,7 @@
 
 * MUSIC-seq: 2024 Nature - Single-cell multiplex chromatin and RNA interactions in ageing human brain
 
-#### (App 3) Tech. A + Tech. D  -->  RNA Drug Synergy
+#### (App 3) Tech. A + Tech. D (and C)  -->  RNA Drug Synergy
 
 * 2025 Nature Communications - Building a unified model for drug synergy analysis powered by large language models
 * 2012 Nature Biotech - Systematic Identification of Synergistic Drug Pairs Targeting HIV [Lu Lab Paper]
