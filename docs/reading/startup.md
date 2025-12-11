@@ -32,6 +32,7 @@
     * [Rfam 15.0](https://rfam.org/)
     * [exoRBase 3.0](http://www.exorbase.org/)
 * **New** **AI** **model for RNA Code (motif & structure)** 
+    * [Review] [**2025 Nature Reviews**](https://www.nature.com/articles/s41580-025-00857-w) - Decoding the interactions and functions of non-coding RNA with artificial intelligence
     * 2024 ***Nature Machine Intelligence*** - An interpretable RNA foundation model for exploring functional RNA motifs in plants
     * 2021 **Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
     * More: [dsRNA code](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)
@@ -96,31 +97,39 @@
 * UDA-seq: Nature Methods 2025
 * 2012 PNAS - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
 
+#### (Tech. B) Interaction-seq
 
-#### (Tech. B) Transcriptional Profile
-
-* 2021 Nature biotechnology - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning 
-* 2020 BIB - Comprehensive evaluation of connectivity methods for L1000 data [Lu Lab Paper]
+* MUSIC-seq: 2024 Nature - Single-cell multiplex chromatin and RNA interactions in ageing human brain
+* RIC-seq: 2020 Nature- RIC-seq for global in situ profiling of RNA–RNA spatial interactions
 
 
 #### (Tech. C) Fusing Enzymes: AGO2+ADAR2
 
 * 2023 Nature Biotech. - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
 
+#### (Tech. D) Transcriptional Profile
 
-#### (App 1) Transcriptional Profile -->  RNA Drug Synergy
+* 2021 Nature biotechnology - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning 
+* 2020 BIB - Comprehensive evaluation of connectivity methods for L1000 data [Lu Lab Paper]
+
+
+#### (App 1) Tech. A + Tech. B or C -->   Off-target Site
+
+* 2024 Nature Biotechnology - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
+
+#### (App 2) Tech. B  --> Interactome (on-target site)
+
+* MUSIC-seq: 2024 Nature - Single-cell multiplex chromatin and RNA interactions in ageing human brain
+
+#### (App 3) Tech. A + Tech. D  -->  RNA Drug Synergy
 
 * 2025 Nature Communications - Building a unified model for drug synergy analysis powered by large language models
 * 2012 Nature Biotech - Systematic Identification of Synergistic Drug Pairs Targeting HIV [Lu Lab Paper]
 
-#### (App 2) Transcriptional Profile --> Screen novel RNA drugs
+#### (App 4) Tech. A + Tech. D  --> Screen novel RNA drugs
 
 * 2010 Nature Review \| Drug Discovery - **Aptamers** as therapeutics
 * 2025 Nature Biotechnology - Improved **RNA base editing** with guide RNAs mimicking highly edited endogenous ADAR substrates
-
-#### (App 3) Fusing Enzymes --> Off-target Site
-
-* 2024 Nature Biotechnology - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
 
 
 

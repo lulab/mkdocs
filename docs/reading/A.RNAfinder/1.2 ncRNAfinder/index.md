@@ -8,7 +8,7 @@
 > * Ernie-RNA 
 > * structRFM
 
-
+* ✅ [Review] [**2025 Nature Reviews**](https://www.nature.com/articles/s41580-025-00857-w) - Decoding the interactions and functions of non-coding RNA with artificial intelligence
 
 * **2025	Nature Communications** - ERNIE-RNA: an RNA language model with structure-enhanced representations
 * **2025	Nature Communications** - RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks
