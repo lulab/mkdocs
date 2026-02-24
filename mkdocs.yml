@@ -98,8 +98,8 @@ nav:
       - Overview: reading/startup/index.md
       - AI for cfRNA: reading/startup/cfRNA.md
       - AI for mbRNA: reading/startup/mbRNA.md
-      - AI for sRNA: reading/startup/sRNA.md
       - AI for RNAtalk: reading/startup/RNAtalk.md
+      - AI for RNAi: reading/startup/RNAi.md
       - AI for RNAdrug: reading/startup/RNAdrug.md
     - Archive:
       - 1.1 ncRNAfinder: 

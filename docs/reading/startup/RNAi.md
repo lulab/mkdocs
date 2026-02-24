@@ -1,4 +1,4 @@
-# AI for sRNA Screen (Virtual Screen of AIVC)
+# AI for RNAi Screen (Therapy development in AIVC)
 
 ![](AIVC-screen.jpg){:style="width: 39%; "}
 
