@@ -149,7 +149,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 
 <div align="middle">
-<img src="../img/AIVC-Screen.jpg" style="zoom:30%;" />
+<img src="../img/AIVC-screen.jpg" style="zoom:30%;" />
 <br>
 <small>modified from "2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities"</small>
 </div>

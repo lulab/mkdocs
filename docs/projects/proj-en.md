@@ -147,15 +147,16 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 **_siRNA prediction._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
 
+**_sRNA screen for therapy development in AIVC._**  "One challenge in developing successful therapies is the difficulty in incorporating the full underlying genetic, molecular and cellular basis of disease during drug discovery and development. These context-specific underpinnings are not fully specified and often vary between human patients and model systems used in pre-clinical studies. By integrating biological data from various sources relevant to specific disease contexts, the **AIVC (AI Virtual Cell)** could generate an environment for testing different therapeutic interventions in silico and identify approaches for engineering cells to reverse disease phenotypes, while accounting for the effects of varying both treatments and patient profiles. By representing the overall disease phenotype specific to patient populations (rather than one specific biochemical target at a time), the AIVC can enable virtual phenotypic screens. Although in silico experiments may not always be fully accurate, by prioritizing virtual hits with higher chances of success, the AIVC can lower experimentation costs and accelerate the process." (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
 
-**_sRNA screen for therapy development in AIVC._** "One challenge in developing successful therapies is the difficulty in incorporating the full underlying genetic, molecular and cellular basis of disease during drug discovery and development. These context-specific underpinnings are not fully specified and often vary between human patients and model systems used in pre-clinical studies. By integrating biological data from various sources relevant to specific disease contexts, the **AI based virtual cell (AIVC)** could generate an environment for testing different therapeutic interventions in silico and identify approaches for engineering cells to reverse disease phenotypes, while accounting for the effects of varying both treatments and patient profiles. By representing the overall disease phenotype specific to patient populations (rather than one specific biochemical target at a time), the AIVC can enable virtual phenotypic screens. Although in silico experiments may not always be fully accurate, by prioritizing virtual hits with higher chances of success, the AIVC can lower experimentation costs and accelerate the process." (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
 
 
 <div align="middle">
-<img src="../img/AIVC-Screen.jpg" style="zoom:30%;" />
+<img src="../img/AIVC-screen.jpg" style="zoom:30%;" />
 <br>
 <small>modified from "2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities"</small>
 </div>
+
 
 
 
