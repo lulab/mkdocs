@@ -10,7 +10,7 @@ theme:
     - navigation.top
     - navigation.indexes 
     - navigation.sections
-    - navigation.expand
+#   - navigation.expand
   markdown_extensions:
     - admonition
     - footnotes
@@ -94,42 +94,47 @@ nav:
     - Collaborations: people/open.md
   - Literature Reading:
     - Literature Reading: reading/index.md
-    - <b>Startup Readings</b>: reading/startup.md
-    - A.RNAfinder:
-      - 1.1 cfRNAfinder: 
-        - Overview: reading/A.RNAfinder/1.1 cfRNAfinder/index.md  
-        - 1. cf-seq Tech: reading/A.RNAfinder/1.1 cfRNAfinder/1. cf-seq Tech.md
-        - 2. cfRNA: reading/A.RNAfinder/1.1 cfRNAfinder/2. cfRNA.md
-        - 3. cfRNA Analysis: reading/A.RNAfinder/1.1 cfRNAfinder/3. cfRNA Analysis.md
-        - 4. cfDNA+: reading/A.RNAfinder/1.1 cfRNAfinder/4. cfDNA+.md
-        - 5. Panel and Database: reading/A.RNAfinder/1.1 cfRNAfinder/5. Panel and Database.md
-      - 1.2 ncRNAfinder: 
+    - Startup Readings:
+      - Overview: reading/startup/index.md
+      - AI for cfRNA: reading/startup/cfRNA.md
+      - AI for mbRNA: reading/startup/mbRNA.md
+      - AI for sRNA: reading/startup/sRNA.md
+      - AI for RNAtalk: reading/startup/RNAtalk.md
+      - AI for RNAdrug: reading/startup/RNAdrug.md
+    - Archive:
+      - 1.1 ncRNAfinder: 
         - Overview: reading/A.RNAfinder/1.2 ncRNAfinder/index.md  
-        - 1. dsRNAfinder: reading/A.RNAfinder/1.2 ncRNAfinder/1. dsRNAfinder.md
-        - 2. mbRNAfinder: reading/A.RNAfinder/1.2 ncRNAfinder/2. mbRNAfinder.md 
-      - 2.1 Precision Medicine:
-        - 1. Immune RNA: reading/A.RNAfinder/2.1 Precision Medicine/1. Immune RNA.md
-        - 2. Cancer RNA: reading/A.RNAfinder/2.1 Precision Medicine/2. Cancer RNA.md
-        - 3. Immune Diseases: reading/A.RNAfinder/2.1 Precision Medicine/3. Immune Diseases.md
-        - 4. Cancer Immunotherapy: reading/A.RNAfinder/2.1 Precision Medicine/4. Cancer Immunotherapy.md
+        - 1) dsRNAfinder: reading/A.RNAfinder/1.2 ncRNAfinder/1. dsRNAfinder.md
+        - 2) mbRNAfinder: reading/A.RNAfinder/1.2 ncRNAfinder/2. mbRNAfinder.md 
+      - 1.2 cfRNAfinder: 
+        - Overview: reading/A.RNAfinder/1.1 cfRNAfinder/index.md  
+        - 1) cf-seq Tech: reading/A.RNAfinder/1.1 cfRNAfinder/1. cf-seq Tech.md
+        - 2) cfRNA: reading/A.RNAfinder/1.1 cfRNAfinder/2. cfRNA.md
+        - 3) cfRNA Analysis: reading/A.RNAfinder/1.1 cfRNAfinder/3. cfRNA Analysis.md
+        - 4) cfDNA+: reading/A.RNAfinder/1.1 cfRNAfinder/4. cfDNA+.md
+        - 5) Panel and Database: reading/A.RNAfinder/1.1 cfRNAfinder/5. Panel and Database.md
+      - 2 RNAtalk:
+        - Overview: reading/B.RNAtalk/index.md
+        - 1) RNA-siRNA: reading/B.RNAtalk/RNA-RNA/siRNA Drug Design.md
+        - 2) RNA-Ligand: reading/B.RNAtalk/RNA-Ligand//RNA-Ligand.md
+        - 3) RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
+        - Regulome: reading/B.RNAtalk/RNA-RNA/Analysis - Regulome.md
+        - Interaction-seq: reading/B.RNAtalk/RNA-RNA/Seq - Interaction.md
+        - Single Cell-seq: reading/B.RNAtalk/RNA-RNA/Seq - Single Cell.md
+      - 3 RNA Structure: 
+        - 2nd Structure Prediction: reading/A.RNAfinder/2.2 Structure/2nd Structure Prediction.md
+        - 3D Structure Prediction: reading/A.RNAfinder/2.2 Structure/3D Structure Prediction.md
+        - RNA & Protein Design: reading/A.RNAfinder/2.2 Structure/RNA & Protein Design.md
+      - 4 Precision Medicine:
+        - 1) Immune RNA: reading/A.RNAfinder/2.1 Precision Medicine/1. Immune RNA.md
+        - 2) Cancer RNA: reading/A.RNAfinder/2.1 Precision Medicine/2. Cancer RNA.md
+        - 3) Immune Diseases: reading/A.RNAfinder/2.1 Precision Medicine/3. Immune Diseases.md
+        - 4) Cancer Immunotherapy: reading/A.RNAfinder/2.1 Precision Medicine/4. Cancer Immunotherapy.md
         - Analysis - Genetics & Function: reading/A.RNAfinder/2.1 Precision Medicine/Analysis - Genetics & Function.md
         - Analysis - RNA Regulation: reading/A.RNAfinder/2.1 Precision Medicine/Analysis - RNA Regulation.md
         - Analysis - Single Cell: reading/A.RNAfinder/2.1 Precision Medicine/Analysis - Single Cell.md
         - Multi-modal Model: reading/A.RNAfinder/2.1 Precision Medicine/Multi-modal Model.md
         - Multiomics Analysis: reading/A.RNAfinder/2.1 Precision Medicine/Multiomics Analysis.md
-      - 2.2 Structure Design: 
-        - 2nd Structure Prediction: reading/A.RNAfinder/2.2 Structure/2nd Structure Prediction.md
-        - 3D Structure Prediction: reading/A.RNAfinder/2.2 Structure/3D Structure Prediction.md
-        - RNA & Protein Design: reading/A.RNAfinder/2.2 Structure/RNA & Protein Design.md
-    - B.RNAtalk: 
-      - RNA-RNA:
-        - Overview: reading/B.RNAtalk/RNA-RNA/index.md
-        - Analysis - Regulome: reading/B.RNAtalk/RNA-RNA/Analysis - Regulome.md
-        - Seq - Interaction: reading/B.RNAtalk/RNA-RNA/Seq - Interaction.md
-        - Seq - Single Cell: reading/B.RNAtalk/RNA-RNA/Seq - Single Cell.md
-        - siRNA Drug Design: reading/B.RNAtalk/RNA-RNA/siRNA Drug Design.md
-      - RNA-Ligand: reading/B.RNAtalk/RNA-Ligand//RNA-Ligand.md
-      - RNA-Protein: reading/B.RNAtalk/RNA-Protein/RNA-Protein.md
   - Intranet Docs: 
     - Getting Started: index.md
     - Intranet: intranet/index.md

@@ -27,7 +27,7 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from **Transposable Elements** of human genome, **Meta-transcriptome** of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
-***cell-free RNAs (cfRNAs).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
+***cell-free RNA (cfRNA).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
 > In clinical studies like liquid biopsy, **exRNA** (extra-cellular RNA) is also called **cfRNA** (cell free RNA). Many exRNAs are **noncoding RNAs** (**ncRNAs**), like miRNA, lncRNA, srpRNA, circRN, etc. 
 
@@ -37,6 +37,9 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 <br>
 <small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
 </div>
+
+
+***Microbial RNA (mbRNA).*** Research on microbial RNA has revealed that bacteria, viruses, and other microorganisms produce diverse RNA molecules that influence host health and disease. Small RNAs (sRNAs) in bacteria regulate virulence genes, stress responses, and antibiotic resistance, contributing to infections such as tuberculosis and sepsis. Viral RNAs, including microRNA-like molecules encoded by viruses such as Epstein–Barr virus, can modulate host immune pathways and promote oncogenesis in diseases like lymphoma. Advances in high-throughput sequencing (**Meta-genomics and Meta-transcriptomics**) have enabled the identification of microbial RNA signatures associated with conditions ranging from inflammatory bowel disease to cancer. Understanding these RNA-mediated mechanisms is guiding the development of RNA-based diagnostics, vaccines, and targeted antimicrobial therapies.
 
 
 
@@ -76,29 +79,11 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-***Multi-modal data integration.*** Multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from NGS data like cfRNA-seq.  For the multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps. For instance, we integrate these multi-modal data using new AI technologies like large language and deep learning models. 
-
-
-<div align="middle">
-<img src="../img/multiomics.webp" style="zoom:50%;" />
-<br>
-<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
-</div>
-
 
 ---
 
 
 #### A2.2 [**Ribozyme**] Structure Prediction & Ribozyme Design
-
-
-<div align="middle">
-  <img src="../img/rna-structure-prediction.webp" style="zoom:20%;" />
-  <br>
-  <small>Prediction of 2D and 3D structure of RNA</small>
-</div>
-
-
 
 **_RNA structure prediction._**  We develop structure prediction models and algorithms for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving RNA-based enzyme and vaccince design. For instance, mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
 
@@ -106,6 +91,11 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 **_RNA Design._**  The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as **new AI technologies** based on large language models) into biological data. We develop novel RNA models to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, these novel models will bring us a new era of **enzyme, vaccine and drug design**.
 
+<div align="middle">
+  <img src="../img/rna-structure-prediction.webp" style="zoom:20%;" />
+  <br>
+  <small>Prediction of 2D and 3D structure of RNA</small>
+</div>
 
 
 ---
@@ -126,15 +116,47 @@ We apply the above methods to precision medicine, focusing on two types of disea
 ***RNA-RNA interaction (trans-pair)*** (RNA targeting RNA) plays a crucial role in various biological processes, including gene regulation, RNA processing, and viral replication. Predicting RNA-RNA interactions involves identifying and characterizing the binding sites between two RNA molecules, which can provide insights into their functional relationships and regulatory mechanisms. It's important to note that predicting RNA-RNA interactions remains a challenging problem due to the complexity of RNA structures, the vast sequence space, and the limited availability of experimentally validated interaction data. Therefore, the accuracy of predictions can vary depending on the specific method used and the quality of input data. We develop and refine computational approaches for predicting RNA-RNA interactions, aiming to improve the understanding of RNA biology and facilitate the discovery of new therapeutic targets and RNA-based regulatory mechanisms.
 
 
+
+
+***Multi-modal data integration.*** Furthermore, multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from NGS data like cfRNA-seq.  For the multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps. For instance, we integrate these multi-modal data using new AI technologies like large language and deep learning models. 
+
+<div align="middle">
+<img src="../img/multiomics.webp" style="zoom:30%;" />
+<br>
+<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
+</div>
+
+
+***Virtual Cells & Digital Twins:***  Even further, we can build computational models that integrate multi-omics, imaging, and clinical data to simulate cellular and physiological behaviors in silico. Virtual cell models seek to capture gene regulation, signaling, metabolism, and cell–cell interactions, enabling hypothesis testing and mechanism discovery without exhaustive wet-lab experiments. Digital twins extend this concept to patient-specific models, allowing simulations of disease progression and treatment response for precision medicine. Virtual cells and digital twins are transforming drug discovery, biomarker identification, and personalized therapeutic decision-making.
+
+<div align="middle">
+<img src="../img/AIVC-DT.jpg" style="zoom:38%;" />
+<br>
+<small>2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities</small>
+</div>
+
+
+
 ---
 
 
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **siRNA** Drug Design
+#### B2.1 **sRNA** Screen & Prediction
 
-**_siRNA design._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
+**_siRNA prediction._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
+
+
+**_sRNA screen for therapy development in AIVC._** "One challenge in developing successful therapies is the difficulty in incorporating the full underlying genetic, molecular and cellular basis of disease during drug discovery and development. These context-specific underpinnings are not fully specified and often vary between human patients and model systems used in pre-clinical studies. By integrating biological data from various sources relevant to specific disease contexts, the **AI based virtual cell (AIVC)** could generate an environment for testing different therapeutic interventions in silico and identify approaches for engineering cells to reverse disease phenotypes, while accounting for the effects of varying both treatments and patient profiles. By representing the overall disease phenotype specific to patient populations (rather than one specific biochemical target at a time), the AIVC can enable virtual phenotypic screens. Although in silico experiments may not always be fully accurate, by prioritizing virtual hits with higher chances of success, the AIVC can lower experimentation costs and accelerate the process." (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
+
+
+<div align="middle">
+<img src="../img/AIVC-Screen.jpg" style="zoom:30%;" />
+<br>
+<small>modified from "2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities"</small>
+</div>
+
 
 
 #### B2.2 **Small-molecule** Drug Design

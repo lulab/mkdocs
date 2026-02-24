@@ -27,7 +27,7 @@ title: 清华大学・鲁志实验室 科研课题
 
 ***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
-***cell-free RNAs (cfRNAs):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
+***cell-free RNA (cfRNA):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
 > **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
 
@@ -36,6 +36,11 @@ title: 清华大学・鲁志实验室 科研课题
 <br>
 <small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
 </div>
+
+
+***Microbial RNA (mbRNA):*** 关于微生物RNA的研究表明，细菌、病毒及其他微生物会产生多种RNA分子，这些分子能够影响宿主的健康与疾病进程。细菌中的小RNA（sRNA）调控毒力基因、应激反应和抗生素耐药性，从而参与结核病和脓毒症等感染性疾病的发生。某些病毒编码的RNA（包括类似miRNA的分子），例如Epstein–Barr virus，可以调节宿主免疫通路，并在淋巴瘤等疾病中促进肿瘤发生。高通量测序技术的发展（**宏基因组和宏转录组**）使研究人员能够鉴定与炎症性肠病、癌症等疾病相关的微生物RNA特征。对这些RNA介导机制的深入理解，正推动RNA诊断方法、疫苗和靶向抗菌治疗策略的开发。
+
+
 
 
 ***double-stranded RNA (dsRNA):*** 著名的非编码RNA有miRNA/siRNA/piRNA这三类small RNA，他们是通过双链RNA（dsRNA）加工生成的不同RNA类型。双链RNA（double stranded RNA, dsRNA）是一种由两条互补RNA链组成的分子，RNA干扰的启动通常需要双链RNA（dsRNA），这些双链RNA可以是外源（如病毒）引入的，也可以是内源（如人类基因组里的重复序列）产生的。随着科研的进展，人们发现双链RNA（dsRNA）远不止上述3种。这些不同的dsRNAs在免疫系统中具有重要作用，尤其是在抗病毒和抗肿瘤免疫反应中。比如，srpRNA就通过癌症微环境的外泌体运输发挥细胞间的调控功能。
@@ -73,13 +78,6 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 </div>
 
 
-***Multi-modal data integration:***  我们可以由cfRNA-seq等高通量测序方法通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如 cfRNA-seq分析得到的多模态数据，以及multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具，例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
-
-<div align="middle">
-<img src="../img/multiomics.webp" style="zoom:50%;" />
-<br>
-<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
-</div>
 
 
 ---
@@ -87,18 +85,16 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 #### A2.2 [**Ribozyme**] Structure Prediction & Ribozyme Design
 
+**_RNA structure prediction:_** 我们开发针对 RNA结构的预测模型和算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
+
+
+**_RNA Design:_**  不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的**酶设计、疫苗设计和药物设计**的新时代。
 
 <div align="middle">
   <img src="../img/rna-structure-prediction.webp" style="zoom:20%;" />
   <br>
   <small>Prediction of 2D and 3D structure of RNA</small>
 </div>
-
-**_RNA structure prediction:_** 我们开发针对 RNA结构的预测模型和算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
-
-
-**_RNA Design:_**  不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的**酶设计、疫苗设计和药物设计**的新时代。
-
 
 
 ---
@@ -118,6 +114,24 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 ***RNA-RNA interaction (trans-pair)*** : RNA靶向RNA在各种生物过程中发挥着至关重要的作用，包括基因调控、RNA加工和病毒复制。 预测 RNA-RNA 相互作用涉及识别和表征两个 RNA 分子之间的结合位点，这可以深入了解它们的功能关系和调控机制。 值得注意的是，由于 RNA 结构的复杂性、巨大的序列空间以及经过实验验证的相互作用数据的有限性，预测 RNA-RNA 相互作用仍然是一个具有挑战性的问题。 因此，预测的准确性可能会根据所使用的具体方法和输入数据的质量而有所不同。 我们开发和完善用于预测 RNA-RNA 相互作用的计算方法，旨在提高对 RNA 生物学的理解，并促进新的治疗靶点和基于 RNA 的调控机制的发现。
 
+***Multi-modal data integration:***  更进一步，我们可以通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具，例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
+
+<div align="middle">
+<img src="../img/multiomics.webp" style="zoom:30%;" />
+<br>
+<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
+</div>
+
+
+***Virtual Cells & Digital Twins:***  再进一步，我们可以构建整合多组学、影像学和临床数据的计算模型，在计算机中模拟细胞及人体生理行为。虚拟细胞模型致力于刻画基因调控、信号通路、代谢过程以及细胞间相互作用，从而在无需大量湿实验的情况下进行机制探索和假设验证。数字孪生则进一步将其发展为以患者为中心的个体化模型，可用于模拟疾病进展和治疗反应，推动精准医学的发展。总体而言，虚拟细胞和数字孪生技术正在深刻改变药物研发、生物标志物发现以及个体化治疗决策的方式。
+
+
+<div align="middle">
+<img src="../img/AIVC-DT.jpg" style="zoom:38%;" />
+<br>
+<small>2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities</small>
+</div>
+
 
 
 ---
@@ -126,9 +140,19 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **siRNA** Drug Design
+#### B2.1 **sRNA** screen
 
-**_siRNA design:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
+**_siRNA prediction:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
+
+
+**_sRNA screen for therapy development in AIVC._** "开发成功疗法的一大挑战在于，药物发现和开发过程中难以全面整合疾病的遗传、分子和细胞基础。这些特定情境下的基础机制尚未完全明确，且在人类患者和临床前研究中使用的模型系统之间往往存在差异。通过整合来自不同来源的与特定疾病情境相关的生物学数据，基于人工智能的虚拟细胞（**AIVC: AI based virtual cell**）可以构建一个环境，用于在计算机模拟中测试不同的治疗干预措施，并识别改造细胞以逆转疾病表型的方法，同时考虑不同治疗方法和患者特征的影响。AIVC 能够呈现特定患者群体的整体疾病表型（而非一次只针对一个特定的生化靶点），从而实现虚拟表型筛选。尽管计算机模拟实验并非总是完全准确，但通过优先筛选成功率更高的虚拟候选药物，AIVC 可以降低实验成本并加快研发进程。" (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
+
+
+<div align="middle">
+<img src="../img/AIVC-Screen.jpg" style="zoom:30%;" />
+<br>
+<small>modified from "2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities"</small>
+</div>
 
 
 #### B2.2 **Small-molecule** Drug Design

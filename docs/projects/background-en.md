@@ -28,6 +28,8 @@ About 20 thousand protein-coding genes in human were transcribed and tranlsated 
 
 ***RNA regulation in immune system.*** RNAs are dynamicly regulated during transcription. In addition, after RNA is transcribed, it will also have very complex and fine post-transcriptional regulation, such as alternative splicing (AS), alternative polyadenylation (APA), degradation, editing, modification, cellular localization and so on. These are closely related to the structure of RNA itself and the proteins that recognize RNA sequence and structure. At the same time, RNAs, especially noncoding RNAs (ncRNAs), also regulate other macromolecules, thus playing important roles in innate immune response to viruses and cancer immunity. We explore these complex regulatory processes in complex diseases such as **cancer and autoimmune diseases**, which are applied to immunotherapy.
 
+***Virtual Cells & Digital Twins:***  Furthermore, we can build computational models that integrate multi-omics, imaging, and clinical data to simulate cellular and physiological behaviors in silico. Virtual cell models seek to capture gene regulation, signaling, metabolism, and cell–cell interactions, enabling hypothesis testing and mechanism discovery without exhaustive wet-lab experiments. Digital twins extend this concept to patient-specific models, allowing simulations of disease progression and treatment response for precision medicine. Virtual cells and digital twins are transforming drug discovery, biomarker identification, and personalized therapeutic decision-making.
+
 
 ## Methods
 

@@ -7,6 +7,9 @@
 > [专利和著作权](IP.md)
 >
 > [Software & Models](/home/software)
+>
+> [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications&mode=list)
+
 
 ## 2025
 
