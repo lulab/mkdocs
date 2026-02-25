@@ -1,6 +1,6 @@
 # AI for RNAi Screen (Therapy development in AIVC)
 
-![](AIVC-screen.jpg){:style="width: 39%; "}
+![](img/AIVC-screen.jpg){:style="width: 39%; "}
 
 ## Topics/Projects
 

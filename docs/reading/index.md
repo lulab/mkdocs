@@ -7,9 +7,9 @@ hide:
 
 >[!important]
 >
->  <span style="font-weight: bold;  font-size: 16pt;">[Startup Readings](./startup/index.md)  </span> **recommended by PI**
+>  <span style="font-weight: bold;  font-size: 16pt;">📖 [Startup Readings](./startup/index.md)  </span> **recommended by PI**
 >
->  <span style="font-weight: bold;  font-size: 16pt;">[**New Papers**](https://365.kdocs.cn/l/cl71Q0YisgIh)  </span> **recommended by Lu Lab members**
+>  <span style="font-weight: bold;  font-size: 16pt;">📖 [**New Papers**](https://365.kdocs.cn/l/cl71Q0YisgIh)  </span> **recommended by Lu Lab members**
 
 
 ---
