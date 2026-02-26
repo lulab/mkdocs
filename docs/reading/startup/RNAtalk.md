@@ -24,6 +24,7 @@
     * 2024 **Nature Methods** - Large-scale foundation model on single-cell transcriptomics
 * AIVC studies
     * [2026 **bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
+    * 2026 Nature Comp. Sci. - Partially shared multi-modal embedding learns holistic representation of cell state
     * Read more about **Digital Twin** for Medicine
 
 ![MultiOmis Anaysis](img/multiomics.jpg){:style="float:left; margin-right:12px; width: 20%; "}
