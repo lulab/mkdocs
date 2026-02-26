@@ -44,7 +44,7 @@
 **(b) 文献阅读**
 通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup&mode=list)
 
-此外，更多的文献我整理放在了：[Tips for paper reading](../reading/reading.md)
+此外，更多的文献我整理放在了：[Tips for paper reading](../reading/index.md)
 
 
 **(c) Document your work** 
