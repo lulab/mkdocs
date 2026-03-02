@@ -6,7 +6,7 @@
 
 * (1) **siRNA prediction**
       * **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
-* (2) **Virtual cell**
+* (2) **RNAi pertubation based AIVC (AI Virtual Cell)**
       * 👍[2026 **bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
       * **2021 Nature biotechnology** - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning   
 * (3) Drug Synergy 
@@ -21,7 +21,7 @@
     * **2022 Nature Review** - High-content CRISPR screening. 
     * **2012 PNAS** - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
 * How to Read
-    * Interaction-seq (on-target & off-target)
-        * 👍 **2023 Nature Biotech.** - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
+    * 👍 VASA-seq (Total RNA-seq) **2022 NBT** - High-throughput total RNA sequencing in single cells using VASA-seq
+    * 👍 TRIBE (Interaction-seq) **2023 Nature Biotech.** - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
 
 
