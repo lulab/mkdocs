@@ -80,21 +80,12 @@
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
-**基本原则**： 导师对学生的时间应当尊重，不应当随性就微信索要实验结果或者分析结果；同样的，学生也应当尊重导师和其他同事的时间，有事情要讨论尽量提前预约。因此，除非事出紧急，email 交流重要而不紧急的事情会给彼此更多的空间和时间，大家的课题讨论和会议等交流方式也应当结构化。**事实上，绝大多数的重要的事情都不紧急，需要紧急回复的反而是形式化的琐事。**
-
 * **Group Meeting:** sharing and talk practicing
 * **Subgroup Meeting**: research results' report & discussion
-* **WECHAT** (**urgent**: need answer **within 24 hours or less**)
-* **EMAIL** (not urgent, need answer in a day or more)
-* **EMAIL+WECHAT** (因为清华邮箱有时会丢邮件，虽不紧急但很重要的信息不得不用微信或者微信+email)
+* **Individual Meeting**: personal project/paper and other issues
 
-> **“为什么国外把邮件(email)当微信一样发？**
->
-> 邮件(email)办公最大的好处，是不会期待对方“秒回”，所以收件方有足够的时间去整理信息，有更多的弹性时间，即便周末收到也可以等到周一上班再回。 而且因为邮件“非即时性”的特点，发起邮件对话的一方（通常是老板、或者甲方）会对自己编写的信息更认真，会想清楚自己到底要布置什么任务才会发送， 不会像微信这种“即时性”软件一样，很多是突然兴起 。。。
->
-> 所以，客观上邮件(email)是不方便的，但就是这种不方便反而利于劳动者， 这是对劳动者私人空间的尊重， 是对上/下班界限的明晰。”
->
-> 李小粥@知乎
+> **基本原则**： 除非事出紧急，预约是个好习惯。**事实上，绝大多数的重要的事情都不紧急，需要紧急回复的反而是形式化的琐事。**
+
 
 ### 3) 组会和课题讨论小组会之间的差别是什么？
 
