@@ -5,19 +5,6 @@
 
 ---
 
-## Goals 
-
-> “RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）
-
-
-我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
-
-<div align="middle">
-<img src="../img/goals.webp" style="zoom:50%;" />
-</div>
-
-
-
 
 ## Background
 
@@ -34,12 +21,28 @@
 
 ## Methods
 
-我们利用最新的**人工智能技术**从“**序列**”和“**结构**”两个不同的表征层面开发各类核酸模型，去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
+***RNA Modeling:***  我们利用最新的**人工智能技术**从“**序列**”和“**结构**”两个不同的表征层面开发各类核酸模型，去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
 
 <div align="middle">
-  <img src="../img/modeling.webp" style="zoom:50%;" />
+  <img src="../img/modeling.webp" style="max-width:50%;" />
   <br>
   <small>RNA Modeling</small>
 </div>
 
+***Multi-modal data integration:***  更进一步，我们可以通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具，例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
 
+<div align="middle">
+<img src="../img/multiomics.webp" style="zoom:30%;" />
+<br>
+<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
+</div>
+
+
+***Virtual Cells & Digital Twins:***  再进一步，我们可以构建整合多组学、影像学和临床数据的计算模型，在计算机中模拟细胞及人体生理行为。虚拟细胞模型致力于刻画基因调控、信号通路、代谢过程以及细胞间相互作用，从而在无需大量湿实验的情况下进行机制探索和假设验证。数字孪生则进一步将其发展为以患者为中心的个体化模型，可用于模拟疾病进展和治疗反应，推动精准医学的发展。总体而言，虚拟细胞和数字孪生技术正在深刻改变药物研发、生物标志物发现以及个体化治疗决策的方式。
+
+
+<div align="middle">
+<img src="../img/AIVC-DT.jpg" style="zoom:38%;" />
+<br>
+<small>2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities</small>
+</div>

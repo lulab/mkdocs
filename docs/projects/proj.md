@@ -8,7 +8,24 @@ title: 清华大学・鲁志实验室 科研课题
 
 ---
 
-## Projects & Subgroups
+## Goals 
+
+> <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /></div>
+> “RNA 而不是 DNA 才是**细胞的计算引擎**。” 
+> <small> --  [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章</small>
+
+
+我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
+
+<div align="middle">
+<img src="../img/goals.webp" style="max-width: 50%" />
+</div>
+
+
+---
+
+
+## Projects 
 
 我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. 生信驱动的**精准医疗**；II. AI驱动的**核酸模型和药物设计**。
 
@@ -27,15 +44,7 @@ title: 清华大学・鲁志实验室 科研课题
 
 ***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
-***cell-free RNA (cfRNA):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
-> **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
-
-<div align="middle">
-<img src="../img/exRNA-seq.jpg" style="zoom:33%;" />
-<br>
-<small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
-</div>
 
 
 ***Microbial RNA (mbRNA):*** 关于微生物RNA的研究表明，细菌、病毒及其他微生物会产生多种RNA分子，这些分子能够影响宿主的健康与疾病进程。细菌中的小RNA（sRNA）调控毒力基因、应激反应和抗生素耐药性，从而参与结核病和脓毒症等感染性疾病的发生。某些病毒编码的RNA（包括类似miRNA的分子），例如Epstein–Barr virus，可以调节宿主免疫通路，并在淋巴瘤等疾病中促进肿瘤发生。高通量测序技术的发展（**宏基因组和宏转录组**）使研究人员能够鉴定与炎症性肠病、癌症等疾病相关的微生物RNA特征。对这些RNA介导机制的深入理解，正推动RNA诊断方法、疫苗和靶向抗菌治疗策略的开发。
@@ -61,6 +70,18 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 #### A2.1 [**Medicine**] Precision Medicine
 
+***cell-free RNA (cfRNA):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
+
+> **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
+
+<div align="middle">
+<img src="../img/exRNA-seq.jpg" style="zoom:33%;" />
+<br>
+<small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
+</div>
+
+
+
 ***Clinical applications:*** 我们将上述方法应用在液体活检上，助力解决临床问题，例如癌症早筛。
 
 通过将转录组学数据与其他多组学数据整合，我们旨在从综合的、多维的水平上去解释复杂疾病的发展。 我们开发测序和生物信息学方法来研究**编码和非编码 RNA (ncRNA)** 的细胞和细胞外转录组，从单细胞水平和多分子水平研究患者各种免疫细胞内外编码和非编码基因的调控图谱。
@@ -76,6 +97,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 <div align="middle">
 <img src="../img/research.webp" style="zoom:50%;" />
 </div>
+
 
 
 
@@ -114,33 +136,11 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 ***RNA-RNA interaction (trans-pair)*** : RNA靶向RNA在各种生物过程中发挥着至关重要的作用，包括基因调控、RNA加工和病毒复制。 预测 RNA-RNA 相互作用涉及识别和表征两个 RNA 分子之间的结合位点，这可以深入了解它们的功能关系和调控机制。 值得注意的是，由于 RNA 结构的复杂性、巨大的序列空间以及经过实验验证的相互作用数据的有限性，预测 RNA-RNA 相互作用仍然是一个具有挑战性的问题。 因此，预测的准确性可能会根据所使用的具体方法和输入数据的质量而有所不同。 我们开发和完善用于预测 RNA-RNA 相互作用的计算方法，旨在提高对 RNA 生物学的理解，并促进新的治疗靶点和基于 RNA 的调控机制的发现。
 
-***Multi-modal data integration:***  更进一步，我们可以通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具，例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
-
-<div align="middle">
-<img src="../img/multiomics.webp" style="zoom:30%;" />
-<br>
-<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
-</div>
-
-
-***Virtual Cells & Digital Twins:***  再进一步，我们可以构建整合多组学、影像学和临床数据的计算模型，在计算机中模拟细胞及人体生理行为。虚拟细胞模型致力于刻画基因调控、信号通路、代谢过程以及细胞间相互作用，从而在无需大量湿实验的情况下进行机制探索和假设验证。数字孪生则进一步将其发展为以患者为中心的个体化模型，可用于模拟疾病进展和治疗反应，推动精准医学的发展。总体而言，虚拟细胞和数字孪生技术正在深刻改变药物研发、生物标志物发现以及个体化治疗决策的方式。
-
-
-<div align="middle">
-<img src="../img/AIVC-DT.jpg" style="zoom:38%;" />
-<br>
-<small>2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities</small>
-</div>
-
-
-
----
-
 
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **RNAi** Screen & Prediction
+#### B2.1 **RNAi** & AIVC
 
 **_siRNA prediction:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
 

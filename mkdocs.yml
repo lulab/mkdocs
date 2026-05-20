@@ -1,12 +1,12 @@
 site_name: Welcome to Lu Lab @ Tsinghua
 theme:
-  logo: img/Z-1.png
+  logo: img/Z-2.png
   name: material
- # palette:
- #   primary: custom
+  palette:
+    primary: custom
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.top
     - navigation.indexes 
     - navigation.sections
