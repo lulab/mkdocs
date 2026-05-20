@@ -8,6 +8,19 @@ title: Research Projects @ Lu Lab
 
 ---
 
+## Goals 
+
+>  <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br> [“**RNA**, not DNA, is **the computational engine of the cell.**”](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/)  <br> <small> (Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*, 2024.7. Cover Story) </small>
+
+
+We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
+
+
+<div align="middle">
+<img src="../img/goals.webp" style="zoom:50%;" />
+</div>
+
+
 ## Projects & Subgroups
 
 We work on two major research projects centered on noncoding RNA (ncRNA): I. Bioinfo-Driven **Precision Medicine**, II. AI-Driven **RNA Modeling & Drug Design**. 
@@ -27,6 +40,14 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from **Transposable Elements** of human genome, **Meta-transcriptome** of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
+see more in [Background](background-en.md)
+
+
+### A2. RNAfinder - Applications
+
+#### A2.1 [**Medicine**] Precision Medicine
+
+
 ***cell-free RNA (cfRNA).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
 > In clinical studies like liquid biopsy, **exRNA** (extra-cellular RNA) is also called **cfRNA** (cell free RNA). Many exRNAs are **noncoding RNAs** (**ncRNAs**), like miRNA, lncRNA, srpRNA, circRN, etc. 
@@ -38,28 +59,6 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 <small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
 </div>
 
-
-***Microbial RNA (mbRNA).*** Research on microbial RNA has revealed that bacteria, viruses, and other microorganisms produce diverse RNA molecules that influence host health and disease. Small RNAs (sRNAs) in bacteria regulate virulence genes, stress responses, and antibiotic resistance, contributing to infections such as tuberculosis and sepsis. Viral RNAs, including microRNA-like molecules encoded by viruses such as Epstein–Barr virus, can modulate host immune pathways and promote oncogenesis in diseases like lymphoma. Advances in high-throughput sequencing (**Meta-genomics and Meta-transcriptomics**) have enabled the identification of microbial RNA signatures associated with conditions ranging from inflammatory bowel disease to cancer. Understanding these RNA-mediated mechanisms is guiding the development of RNA-based diagnostics, vaccines, and targeted antimicrobial therapies.
-
-
-
-***double-stranded RNA (dsRNA).*** Three well-known types of noncoding RNA include miRNA, siRNA, and piRNA. These are distinct RNA types generated through double-stranded RNA (dsRNA) processing. Double-stranded RNA (dsRNA) is a molecule composed of two complementary RNA strands. RNA interference typically requires dsRNA, which can be introduced exogenously (such as viruses) or produced endogenously (such as repetitive sequences in human genome). Advances in research have revealed that there are far more than just these three types of dsRNA. These diverse dsRNAs play important roles in the immune system, particularly in antiviral and anti-tumor immune responses. For example, srpRNAs exert intercellular regulatory functions through exosome trafficking within the cancer microenvironment.
-
-More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)
-
-<div align="middle">
-<img src="../img/dsRNA.webp" style="zoom:50%;" />
-<br>
-<small>Different types of dsRNAs in immune response</small>
-</div>
-
-
-
-
-
-### A2. RNAfinder - Applications
-
-#### A2.1 [**Medicine**] Precision Medicine
 
 ***Clinical applications.*** By applying the above methods to liquid biopsy, we help many clinical studies like cancer screen.
 
@@ -83,7 +82,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 ---
 
 
-#### A2.2 [**Ribozyme**] Structure Prediction & Ribozyme Design
+#### A2.2 [**Biology**] Synthetic Biology
 
 **_RNA structure prediction._**  We develop structure prediction models and algorithms for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving RNA-based enzyme and vaccince design. For instance, mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
 
@@ -117,33 +116,13 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-
-***Multi-modal data integration.*** Furthermore, multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from NGS data like cfRNA-seq.  For the multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps. For instance, we integrate these multi-modal data using new AI technologies like large language and deep learning models. 
-
-<div align="middle">
-<img src="../img/multiomics.webp" style="zoom:30%;" />
-<br>
-<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
-</div>
-
-
-***Virtual Cells & Digital Twins:***  Even further, we can build computational models that integrate multi-omics, imaging, and clinical data to simulate cellular and physiological behaviors in silico. Virtual cell models seek to capture gene regulation, signaling, metabolism, and cell–cell interactions, enabling hypothesis testing and mechanism discovery without exhaustive wet-lab experiments. Digital twins extend this concept to patient-specific models, allowing simulations of disease progression and treatment response for precision medicine. Virtual cells and digital twins are transforming drug discovery, biomarker identification, and personalized therapeutic decision-making.
-
-<div align="middle">
-<img src="../img/AIVC-DT.jpg" style="zoom:38%;" />
-<br>
-<small>2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities</small>
-</div>
-
-
-
 ---
 
 
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **RNAi** Screen & Prediction
+#### B2.1 **RNAi and AIVC**
 
 **_siRNA prediction._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
 

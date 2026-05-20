@@ -10,12 +10,12 @@ title: 清华大学・鲁志实验室 科研课题
 
 ## Goals 
 
-> <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /></div>
-> “RNA 而不是 DNA 才是**细胞的计算引擎**。” 
-> <small> --  [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章</small>
+> <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br>[“RNA 而不是 DNA 才是**细胞的计算引擎**。” ](https://www.huanqiukexue.com/?p=1121) <br>  <small>（RNA: 掌控生命后台,《环球科学》2024年7月刊封面文章）</small></div>
 
 
-我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
+我们致力于**生物信息学**研究，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨**非编码RNA**的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。
+
+在具体的课题研究中，我们充分发挥生物信息学这一交叉学科优势，利用最新的**AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
 
 <div align="middle">
 <img src="../img/goals.webp" style="max-width: 50%" />
@@ -42,33 +42,14 @@ title: 清华大学・鲁志实验室 科研课题
 
 ### A1. **RNAfinder**
 
-***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
+***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA（**noncoding RNA**）。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
-
-
-
-***Microbial RNA (mbRNA):*** 关于微生物RNA的研究表明，细菌、病毒及其他微生物会产生多种RNA分子，这些分子能够影响宿主的健康与疾病进程。细菌中的小RNA（sRNA）调控毒力基因、应激反应和抗生素耐药性，从而参与结核病和脓毒症等感染性疾病的发生。某些病毒编码的RNA（包括类似miRNA的分子），例如Epstein–Barr virus，可以调节宿主免疫通路，并在淋巴瘤等疾病中促进肿瘤发生。高通量测序技术的发展（**宏基因组和宏转录组**）使研究人员能够鉴定与炎症性肠病、癌症等疾病相关的微生物RNA特征。对这些RNA介导机制的深入理解，正推动RNA诊断方法、疫苗和靶向抗菌治疗策略的开发。
-
-
-
-
-***double-stranded RNA (dsRNA):*** 著名的非编码RNA有miRNA/siRNA/piRNA这三类small RNA，他们是通过双链RNA（dsRNA）加工生成的不同RNA类型。双链RNA（double stranded RNA, dsRNA）是一种由两条互补RNA链组成的分子，RNA干扰的启动通常需要双链RNA（dsRNA），这些双链RNA可以是外源（如病毒）引入的，也可以是内源（如人类基因组里的重复序列）产生的。随着科研的进展，人们发现双链RNA（dsRNA）远不止上述3种。这些不同的dsRNAs在免疫系统中具有重要作用，尤其是在抗病毒和抗肿瘤免疫反应中。比如，srpRNA就通过癌症微环境的外泌体运输发挥细胞间的调控功能。
-
-More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)
-
-<div align="middle">
-<img src="../img/dsRNA.webp" style="zoom:50%;" />
-<br>
-<small>Different types of dsRNAs in immune response</small>
-</div>
-
-
-
+see more in [Background](background.md)
 
 
 ### A2. RNAfinder - Applications
 
-#### A2.1 [**Medicine**] Precision Medicine
+#### A2.1 [**Medicine**] Precision Medicine 精准医学
 
 ***cell-free RNA (cfRNA):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
@@ -105,7 +86,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 ---
 
 
-#### A2.2 [**Ribozyme**] Structure Prediction & Ribozyme Design
+#### A2.2 [**Biology**] Synthetic Biolgy 合成生物学
 
 **_RNA structure prediction:_** 我们开发针对 RNA结构的预测模型和算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
 
@@ -140,7 +121,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **RNAi** & AIVC
+#### B2.1 **RNAi** & AIVC 小核酸和虚拟细胞
 
 **_siRNA prediction:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
 
@@ -155,7 +136,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 </div>
 
 
-#### B2.2 **Small-molecule** Drug Design
+#### B2.2 **Small-molecule** Drug Design 小分子药物设计
 
 **_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
