@@ -10,7 +10,49 @@ title: 清华大学・鲁志实验室 科研课题
 
 ## Goals 
 
+>[!note] Our Goals
+>
+><p align="middle"><span style="font-weight: bold; font-size: 16pt;" >理解生命 • 影响医学</span></p>
+>
+
+
 > <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br>[“RNA 而不是 DNA 才是**细胞的计算引擎**。” ](https://www.huanqiukexue.com/?p=1121) <br>  <small>（RNA: 掌控生命后台,《环球科学》2024年7月刊封面文章）</small></div>
+>
+
+
+> 生命科学正在经历一次深刻的范式转变：
+> 从“观察科学（Observational Biology）”，走向“可编程科学（Programmable Biology）”。
+> 过去几十年，生物学的核心任务是发现和描述生命系统中的组成成分及其相互作用；而未来，更重要的问题将是：
+> 如果向一个生物系统输入特定的扰动（Perturbation），系统将如何响应和演化？
+> 
+> 在这一背景下，一个具有长期战略价值的方向正在逐渐形成：
+> *RNA Perturbation Science*。
+> 其核心问题是：给定一个 RNA 输入，生物系统将发生怎样的状态变化？
+> 从更本质的层面看，我们真正试图理解的是：
+> **RNA 与生物系统状态（Biological State）之间的映射关系。**
+> 这不仅涉及 RNA 如何反映系统状态（Sensing），更涉及 RNA 如何改变系统状态（Perturbation），最终实现对生命系统的预测（Prediction）与调控（Control）。
+> 
+> AI × RNA × Programmable Therapeutics 的交汇，极有可能成为未来十年生命科学最重要的爆发点之一。
+> RNA 之所以特别适合这个时代，是因为它同时具备：
+>
+> * 可设计性（Designable）
+> * 可计算性（Computable）
+> * 序列与结构关系紧密（Sequence–Structure Coupling）
+> * 易于开展高通量实验（High-throughput Compatible）
+> * 快速迭代与验证（Rapid Iteration）
+> * 天然适合 Foundation Models 与 Representation Learning
+>
+> 与许多蛋白质问题相比，RNA 更具有“AI-Friendly”的特征，因此更有可能成为连接人工智能与生命科学的关键桥梁。
+>
+> 未来真正具有长期影响力的科学家，不仅是观察生命的人，更是能够将生命系统转变为“可预测、可设计、可编程系统”的人。
+> RNA 很可能是实现这一目标最重要的入口之一。
+> 因此，我们实验室未来的长期愿景是：
+> **Predictive & Programmable Biological Systems Based on RNA**
+> 即：
+> **From Reading Biology to Programming Biology**
+>
+> —— ChatGPT，2026.06.01
+
 
 
 我们致力于**生物信息学**研究，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨**非编码RNA**的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。

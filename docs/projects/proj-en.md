@@ -10,7 +10,41 @@ title: Research Projects @ Lu Lab
 
 ## Goals 
 
->  <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br> [“**RNA**, not DNA, is **the computational engine of the cell.**”](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/)  <br> <small> (Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*, 2024.7. Cover Story) </small>
+>  <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br> [“**RNA**, not DNA, is **the computational engine of the cell.**”](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/)  <br> <small> (Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*, 2024.7. Cover Story) </small></div>
+>
+
+> Life sciences are undergoing a profound paradigm shift:
+> From **Observational Biology** to **Programmable Biology**.
+> Over the past several decades, the central mission of biology has been to identify and describe the components of living systems and their interactions. In the future, however, a more fundamental question will emerge:
+> **How will a biological system respond and evolve when subjected to a defined perturbation?**
+> Against this backdrop, a strategically important field is beginning to take shape:
+> *RNA Perturbation Science*.
+> Its central question is:
+> **Given an RNA input, how will the state of a biological system change?**
+> At a deeper level, what we are ultimately trying to understand is:
+> **The Projection from Biological State to RNA.**
+> This involves not only how RNA reflects biological states (*Sensing*), but also how RNA alters those states (*Perturbation*), ultimately enabling the prediction (*Prediction*) and control (*Control*) of living systems.
+>
+> The convergence of **AI × RNA × Programmable Therapeutics** is likely to become one of the most transformative frontiers in life science over the coming decade.
+> RNA is particularly well suited to this era because it possesses several unique properties:
+>
+> * **Designable**
+> * **Computable**
+> * Strong **Sequence–Structure Coupling**
+> * Highly compatible with **High-Throughput Experimentation**
+> * Rapid **Iteration and Validation Cycles**
+> * Naturally suited for **Foundation Models** and **Representation Learning**
+>
+> Compared with many protein-centered problems, RNA is inherently more **AI-friendly**, making it an ideal bridge between artificial intelligence and the life sciences.
+>
+> The scientists who will have the greatest long-term impact in the future will not merely observe biological systems; they will be those who can transform living systems into **predictable, designable, and programmable systems**.
+> RNA is likely to be one of the most promising entry points toward this vision.
+> Therefore, the long-term vision of our laboratory is:
+> **Predictive & Programmable Biological Systems Based on RNA**
+> Namely: **From Reading Biology to Programming Biology**
+>
+> — ChatGPT, 2026.06.01
+
 
 
 We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 

@@ -4,19 +4,14 @@
 
 ## Topics/Projects
 
-* (1) **siRNA prediction**
-      * **2024 Bioinformatics**  - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
-* (2) **RNAi pertubation based AIVC (AI Virtual Cell)**
+* (1) **RNAi-AIVC**  (AI Virtual Cell based on RNAi pertubation)
       * 👍 [**2026 Cell**](https://www.cell.com/cell/fulltext/S0092-8674(26)00223-0)  - Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes.  [公众号介绍](https://mp.weixin.qq.com/s/-qFdtesx3XoqA4EQ5xMW1A)
       * 👍 [**2026 bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
       * **2021 Nature biotechnology** - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning
-* (3) Drug Synergy 
-      * **2025 Nature Communications** - Building a unified model for drug synergy analysis powered by large language models
-* (4) sRNA aptamer screen
-      * 👍 **2026 Nature Biotechnology** - Single-round evolution of RNA aptamers with GRAPE-LM
-      * **2010 Nature Review** \| Drug Discovery - Aptamers as therapeutics 
-* (5) **⭐️ RNA Delivery ⭐️**
+* (2) ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  **RNA Delivery️**
       * 👍 [**2026 Cell**](https://www.cell.com/cell/abstract/S0092-8674(26)00099-1) - LUMI-lab: A foundation model-driven autonomous platform enabling discovery of ionizable lipid designs for mRNA delivery.  [公众号介绍](https://mp.weixin.qq.com/s/iPL-mE0q8QtBLvy9BVICOQ)
+
+
 
 ## Screen Methods
 
@@ -28,4 +23,13 @@
     * 👍 VASA-seq (Total RNA-seq) **2022 NBT** - High-throughput total RNA sequencing in single cells using VASA-seq
     * 👍 TRIBE (Interaction-seq) **2023 Nature Biotech.** - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
 
+
+## Applications of RNAi-AIVC
+* **siRNA Design/Prediction**
+    - **2024 Bioinformatics** - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
+* **small RNA Drug Synergy** 
+    * **2025 Nature Communications** - Building a unified model for drug synergy analysis powered by large language models
+* **small RNA Aptamer Screen**
+    * 👍 **2026 Nature Biotechnology** - Single-round evolution of RNA aptamers with GRAPE-LM
+    * **2010 Nature Review** \| Drug Discovery - Aptamers as therapeutics 
 
