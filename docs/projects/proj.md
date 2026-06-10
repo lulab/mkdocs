@@ -164,12 +164,12 @@ see more in [Background](background.md)
 
 ### B2. RNAtalk - Applications
 
-#### B2.1 **RNAi** & AIVC 小核酸和虚拟细胞
+#### B2.1 **RN<font style="color:red;">Ai</font>** & AIVC 小核酸和虚拟细胞
 
 **_siRNA prediction:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
 
 
-**_RNAi screen for therapy development in AIVC._** "开发成功疗法的一大挑战在于，药物发现和开发过程中难以全面整合疾病的遗传、分子和细胞基础。这些特定情境下的基础机制尚未完全明确，且在人类患者和临床前研究中使用的模型系统之间往往存在差异。通过整合来自不同来源的与特定疾病情境相关的生物学数据，基于人工智能的虚拟细胞（**AIVC: AI based virtual cell**）可以构建一个环境，用于在计算机模拟中测试不同的治疗干预措施，并识别改造细胞以逆转疾病表型的方法，同时考虑不同治疗方法和患者特征的影响。AIVC 能够呈现特定患者群体的整体疾病表型（而非一次只针对一个特定的生化靶点），从而实现虚拟表型筛选。尽管计算机模拟实验并非总是完全准确，但通过优先筛选成功率更高的虚拟候选药物，AIVC 可以降低实验成本并加快研发进程。" (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
+**_RN<font style="color:red;">Ai</font> screen for therapy development in AIVC._** "开发成功疗法的一大挑战在于，药物发现和开发过程中难以全面整合疾病的遗传、分子和细胞基础。这些特定情境下的基础机制尚未完全明确，且在人类患者和临床前研究中使用的模型系统之间往往存在差异。通过整合来自不同来源的与特定疾病情境相关的生物学数据，基于人工智能的虚拟细胞（**AIVC: AI based virtual cell**）可以构建一个环境，用于在计算机模拟中测试不同的治疗干预措施，并识别改造细胞以逆转疾病表型的方法，同时考虑不同治疗方法和患者特征的影响。AIVC 能够呈现特定患者群体的整体疾病表型（而非一次只针对一个特定的生化靶点），从而实现虚拟表型筛选。尽管计算机模拟实验并非总是完全准确，但通过优先筛选成功率更高的虚拟候选药物，AIVC 可以降低实验成本并加快研发进程。" (*2024 Cell - How to build the virtual cell with artificial intelligence - Priorities and opportunities*)
 
 
 <div align="middle">
