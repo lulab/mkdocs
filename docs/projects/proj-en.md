@@ -60,7 +60,8 @@ We develop **bioinformatics** technology on **noncoding RNAs** from multiple per
 We work on two major research projects centered on noncoding RNA (ncRNA): I. Bioinfo-Driven **Precision Medicine**, II. AI-Driven **RNA Modeling & Drug Design**. 
 
 <div align="middle">
-  <img src="../img/projects.webp" style="zoom:20%;" />
+  <img src="../img/projects.webp" style="width:300px;" />
+  <img src="../img/directions.webp" style="width:300px;" />
   <br>
 </div>
 
