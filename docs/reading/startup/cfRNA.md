@@ -2,6 +2,10 @@
 
 ![](img/cfRNA.webp){:style="width: 39%; "}
 
+## 0. RNA Modeling
+
+See [**AI models for RNA**](../ncRNA.md#I. AI models for RNA)
+
 ## I. cfRNA
 
 * 👍 [2025 **Nature Machine Intelligence**](https://doi.org/10.1038/s42256-025-01148-x) - A multimodal cell-free RNA language model for liquid biopsy applications

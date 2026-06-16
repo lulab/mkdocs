@@ -1,7 +1,5 @@
 # Startup Readings
 
-> 
-
 ## Roadmap
 
 1. [AI - Basic] **2022 Nature Reviews** - A guide to machine learning for biologists
@@ -12,15 +10,14 @@
 
 * RNAfinder:
     * [AI for cfRNA](cfRNA.md): AI for cell-free RNA
-    * [AI for mbRNA](mbRNA.md): AI for microbial RNA
+    * [AI for ncRNA](ncRNA.md): AI for noncoding RNA (& microbial RNA)
 * RNAtalk:
-    * [AI for RNAtalk](RNAtalk.md): AI for RNA Centered Interactome & Virtual Cell (AIVC)
-    * [AI for RNAi](RNAi.md): AI for RNAi Screen (Therapy development in AIVC)
+    * [AIVC for Omics](Omics.md): AI Virtual Cell (AIVC)
     * [AI for RNAdrug](RNAdrug.md): AI for Drug Design - RNA2smol
+    * [AI for RNAi](RNAi.md): AI for RNAi Screen (Therapy development in AIVC)
 
 
 ## Reviews
 
 * [PDFs of Startup Reading](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup%2FReviews&mode=list)
-
 
