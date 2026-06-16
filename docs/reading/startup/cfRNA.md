@@ -4,7 +4,7 @@
 
 ## 0. RNA Modeling
 
-See [**AI models for RNA**](../ncRNA.md#I. AI models for RNA)
+See [**AI models for RNA**](../ncRNA)
 
 ## I. cfRNA
 

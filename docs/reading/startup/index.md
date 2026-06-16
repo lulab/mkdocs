@@ -13,9 +13,8 @@
     * [AI for ncRNA](ncRNA.md): AI for noncoding RNA (& microbial RNA)
 * RNAtalk:
     * [AIVC for Omics](Omics.md): AI Virtual Cell (AIVC)
-    * [AI for RNAdrug](RNAdrug.md): AI for Drug Design - RNA2smol
     * [AI for RNAi](RNAi.md): AI for RNAi Screen (Therapy development in AIVC)
-
+    * [AI for RNAdrug](RNAdrug.md): AI for Drug Design - RNA2smol
 
 ## Reviews
 

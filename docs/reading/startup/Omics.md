@@ -3,7 +3,7 @@
 ![](img/AIVC-DT.jpg){:style="width: 39%; "}
 
 
-## MultiOmics --> AIVC (a multimodal model) in Medicine & Brain Studies
+## MultiOmics --> Multimodal AIVC 
 
 
 * MultiOmics Methods
