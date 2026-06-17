@@ -65,11 +65,11 @@
 ***
 
 > * **Lu Lab @ Tsinghua University**
-> * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
-> * Courses:  [courses.ncRNAlab.org](http://courses.ncRNAlab.org)
-> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )&#x20;
-> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org) 
-> 
+> * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org) ( <http://bioinformatics.life.tsinghua.edu.cn> )
+> * Courses:  [courses.ncRNAlab.org](http://courses.ncRNAlab.org) ( <http://bioinfo.life.tsinghua.edu.cn> )
+> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )
+> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org) ( <http://lulab.life.tsinghua.edu.cn/docs> )
+
 
 | "生物信息学"教育部重点实验室                                                           | MOE Key Lab of Bioinformatics                               |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
