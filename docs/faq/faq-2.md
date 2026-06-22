@@ -15,7 +15,7 @@
 * 基本计算机课程：如《Linux》、《R》、《Python》等
 * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》
 * 机器学习课程：如《机器学习》或《深度学习》
-* 生物信息课程： 如《[生物信息学](https://lulab.life.tsinghua.edu.cn/ncrnalab/courses/)》（本科生课-春季学期）
+* 生物信息课程： 如《[生物信息学](https://mkdocs.ncrnalab.org/courses/)》（本科生课-春季学期）
 
 > **清华大学Python 课程推荐 （三选一）：**
 >
@@ -53,7 +53,7 @@
 
 **(d) 生物信息学的基本技能的学习**
 
-具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。该教材主要用于我给大家开的《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期）。
+具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。该教材主要用于我给大家开的《[生物信息学](https://mkdocs.ncrnalab.org/courses/)》（本科生课-春季学期）。
 
 * 注意熟悉三个计算机技能：Linux, R, Python 
 * 有余力的话，还可以提前学习上述教材的PART I, II和III（不着急的话可以等入学后选修这门课）
