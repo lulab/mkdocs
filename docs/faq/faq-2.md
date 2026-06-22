@@ -42,7 +42,7 @@
 
 
 **(b) 文献阅读**
-通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](../reading/startup/index.md))
+通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](../reading/startup/index.md)
 
 此外，更多的文献我整理放在了：[Tips for paper reading](../reading/index.md)
 
