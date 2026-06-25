@@ -2,10 +2,8 @@
 
 
 
->[!note] What sculpture is to a block of marble, education is to a human soul.
->
-><p align="middle"><span style="font-weight: bold; font-size: 16pt;  font-family: Kaiti;" >少年应有鸿鹄志 当骑骏马踏平川</span></p>
->
+>[!note] So now faith, hope, and love abide, these three; but the greatest of these is love. (1 Corinthians 13:13)
+> <p align="middle"><span style="font-weight: bold; font-size: 16pt;  font-family: Kaiti;" >少年应有鸿鹄志 当骑骏马踏平川</span></p>
 > <div align="middle"><a href="https://365.kdocs.cn/l/crmAWAhGmoRE"><font color="#d32905"><big>Honored Students @ Lu Lab</big><br></font></a></div>
 
 "What sculpture is to a block of marble, education is to a human soul."  --  Joseph Addison
@@ -21,19 +19,19 @@
 ---
 
 ![](img/2024.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;"} ![](img/2023.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;""}
-  
+
 <div align="middle"><b>2024  |  2023 </b></div>
 
 ![](img/2022.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;"} ![](img/2021.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;""}   
-  
+
 <div align="middle"><b>2022  |  2021 </b></div>
 
 ![](img/2020.webp){:style="float:left; width: 45%; height:88pt;border:2px solid #ccc; border-radius:8px; margin: 2.5%;"} ![](img/2019.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;""}
-  
+
 <div align="middle"><b>2020  |  2019 </b></div>
 
 ![](img/2018.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;"} ![](img/2017.webp){:style="float:left; width: 45%; height:88pt; border:2px solid #ccc; border-radius:8px; margin: 2.5%;""}
-  
+
 <div align="middle"><b>2018  |  2017 </b></div>
 
 
