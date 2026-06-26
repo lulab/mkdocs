@@ -12,6 +12,11 @@
 * Foundation Models
     * 2025 **Nature Methods** - EpiAgent: foundation model for single-cell epigenomics
     * 2024 **Nature Methods** - Large-scale foundation model on single-cell transcriptomics
+* Discovery **Therapeutic Targets**
+    
+    * 👍 **[2026 Nature](https://www.nature.com/articles/s41586-026-10652-y)** - A multi-agent system for automating scientific discovery
+    * 👍 **[2026 Cell](https://www.cell.com/cell/fulltext/S0092-8674(26)00651-3)** - AI-driven discovery of GPNMB CAR T cells as a multi-cancer therapy [中文报道](https://mp.weixin.qq.com/s/1lrT5-XlCqH4AdWGkOR0jg)
+    
 * **AIVC studies**
     * 👍 [**2026 Nature Methods**](https://doi.org/10.1038/s41592-026-03102-0) - Decoding sequence determinants of gene expression in diverse cellular and disease states
     * [2026 **bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types

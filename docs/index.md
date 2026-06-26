@@ -4,7 +4,7 @@
 
 #### Welcome
 
-- :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/d/1e07c4f58c5e42e2832c/)
+- :material-page-layout-header:  [Lab Introduction](https://cloud.tsinghua.edu.cn/d/1e07c4f58c5e42e2832c/) & [Lab Vision](https://www.ncrnalab.org/vision-AI.html) <small>Suggested by ChatGPT</small>
 - :material-calendar-clock:  [Lab Meetings](intranet/meeting.md)  &  [Lab Calendar](intranet/cal.md)
 - :material-frequently-asked-questions:  [FAQ](faq/faq-1.md)
 
