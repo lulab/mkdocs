@@ -10,6 +10,11 @@
 
 “The carving and chipping away to create a masterpiece **take years of dedication**.  Teachers help students **discover their interests, passions, and ultimately themselves**.”
 
+![2026/06/29](img/2026.webp){:style="width:100%; border: 5px solid #E0E0E0; border-radius:8px;"} 
+
+<div align="middle"><b>2026 Summer</b></div>
+
+
 ![2025](img/2025.webp){:style="width:100%; border: 5px solid #E0E0E0; border-radius:8px;"} 
 
 <div align="middle"><b>2025 Summer</b></div>
