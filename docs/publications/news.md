@@ -7,7 +7,7 @@
     <div class="pub-info" style="flex: 1; padding-right: 20px;">
       <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2025.06</span>
       <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
-        <strong>Hongli Ma et al.</strong> published <em>RNAsmol</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Nature Computational Science</span>. 
+        <strong>Hongli Ma</strong> et al. published <em>RNAsmol</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Nature Computational Science</span>. 
         <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
       </p>
     </div>
@@ -16,12 +16,13 @@
     </div>
   </div>
 
+
   <!-- Item 2 -->
   <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
     <div class="pub-info" style="flex: 1; padding-right: 20px;">
       <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2025.05</span>
       <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
-        <strong>Pengfei Bao, Taiwei Wang et al.</strong> published <em>cfPeak</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Genome Biology</span>. 
+        <strong>Pengfei Bao, Taiwei Wang</strong> et al. published <em>cfPeak</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Genome Biology</span>. 
         <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
       </p>
     </div>
@@ -35,7 +36,7 @@
     <div class="pub-info" style="flex: 1;">
       <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2024.08</span>
       <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
-        <strong>Hongke Wang, Qing Zhan et al.</strong> published <em>DETECTOR-seq</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Clinical and Translational Medicine</span>. 
+        <strong>Hongke Wang, Qing Zhan</strong> et al. published <em>DETECTOR-seq</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Clinical and Translational Medicine</span>. 
         <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
       </p>
     </div>
@@ -46,7 +47,7 @@
     <div class="pub-info" style="flex: 1;">
       <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2023.11</span>
       <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
-        <strong>Yuhuan Tao, Shaozhen Xing et al.</strong> published a cell-free Multi-Omics paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Cell Reports Medicine</span>. 
+        <strong>Yuhuan Tao, Shaozhen Xing</strong> et al. published a cell-free Multi-Omics paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Cell Reports Medicine</span>. 
         <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
       </p>
     </div>
@@ -57,7 +58,7 @@
     <div class="pub-info" style="flex: 1; padding-right: 20px;">
       <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2022.07</span>
       <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
-        <strong>Shanwen Chen, Yunfan Jin et al.</strong> published a cell-free RNA paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">eLife</span>. 
+        <strong>Shanwen Chen, Yunfan Jin</strong> et al. published a cell-free RNA paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">eLife</span>. 
         <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
       </p>
     </div>
