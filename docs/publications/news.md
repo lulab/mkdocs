@@ -1,20 +1,72 @@
 # News in Lu Lab
 
+<div class="pub-container" style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-* **2025.6**. Hongli Ma et al. published RNAsmol paper in **Nature Computational Science**. *Congratulations* ! 
+  <!-- Item 1 -->
+  <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
+    <div class="pub-info" style="flex: 1; padding-right: 20px;">
+      <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2025.06</span>
+      <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
+        <strong>Hongli Ma et al.</strong> published <em>RNAsmol</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Nature Computational Science</span>. 
+        <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
+      </p>
+    </div>
+    <div class="pub-media" style="width: 140px; flex-shrink: 0; text-align: right;">
+      <img src="../img/2025_RNAsmol.webp" alt="RNAsmol" style="max-width: 100%; max-height: 100px; object-fit: contain; border-radius: 6px; border: 1px solid #f0f0f0;" />
+    </div>
+  </div>
 
-<img src="../img/2025_RNAsmol.webp" style="zoom:3.5%;" />
+  <!-- Item 2 -->
+  <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
+    <div class="pub-info" style="flex: 1; padding-right: 20px;">
+      <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2025.05</span>
+      <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
+        <strong>Pengfei Bao, Taiwei Wang et al.</strong> published <em>cfPeak</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Genome Biology</span>. 
+        <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
+      </p>
+    </div>
+    <div class="pub-media" style="width: 140px; flex-shrink: 0; text-align: right;">
+      <img src="../img/2025_cfPeak.webp" alt="cfPeak" style="max-width: 100%; max-height: 100px; object-fit: contain; border-radius: 6px; border: 1px solid #f0f0f0;" />
+    </div>
+  </div>
 
-* **2025.5.** Pengfei Bao, Taiwei Wang et al. published cfPeak paper in **Genome Biology**. *Congratulations* !
+  <!-- Item 3 (无图片) -->
+  <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
+    <div class="pub-info" style="flex: 1;">
+      <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2024.08</span>
+      <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
+        <strong>Hongke Wang, Qing Zhan et al.</strong> published <em>DETECTOR-seq</em> paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Clinical and Translational Medicine</span>. 
+        <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
+      </p>
+    </div>
+  </div>
 
-<img src="../img/2025_cfPeak.webp" style="zoom:30%;" />
+  <!-- Item 4 (无图片) -->
+  <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
+    <div class="pub-info" style="flex: 1;">
+      <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2023.11</span>
+      <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
+        <strong>Yuhuan Tao, Shaozhen Xing et al.</strong> published a cell-free Multi-Omics paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">Cell Reports Medicine</span>. 
+        <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
+      </p>
+    </div>
+  </div>
 
-* **2024.8.** Hongke Wang, Qing Zhan et al. published DETECTOR-seq paper in **Clinical and Translational Medicine**. *Congratulations* !
-* **2023.11.** Yuhuan Tao, Shaozhen Xing et al. published a cell-free Multi-Omics paper in **Cell Reports Medicine**. *Congratulations* !
-* **2022.07.**  Shanwen Chen, Yunfan Jin et al. published a cell-free RNA paper in **eLife**. *Congratulations* ！
+  <!-- Item 5 -->
+  <div class="pub-card" style="display: flex; flex-direction: row; align-items: center; background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eaeaea;">
+    <div class="pub-info" style="flex: 1; padding-right: 20px;">
+      <span class="pub-date" style="display: inline-block; background: #e3f2fd; color: #0d47a1; font-weight: bold; padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;">2022.07</span>
+      <p style="margin: 0; font-size: 1.05rem; line-height: 1.5; color: #333;">
+        <strong>Shanwen Chen, Yunfan Jin et al.</strong> published a cell-free RNA paper in <span style="font-style: italic; font-weight: bold; color: #1a365d;">eLife</span>. 
+        <span style="color: #e74c3c; font-style: italic; font-weight: 500; margin-left: 5px;">Congratulations! 🎉</span>
+      </p>
+    </div>
+    <div class="pub-media" style="width: 140px; flex-shrink: 0; text-align: right;">
+      <img src="../img/2022_cfRNA.webp" alt="cfRNA" style="max-width: 100%; max-height: 100px; object-fit: contain; border-radius: 6px; border: 1px solid #f0f0f0;" />
+    </div>
+  </div>
 
-<img src="../img/2022_cfRNA.webp" style="zoom:25%;" />
-
+</div>
 
 ---
 
