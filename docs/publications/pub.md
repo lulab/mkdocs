@@ -11,6 +11,22 @@
 > [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications&mode=list)
 
 
+## 2026
+
+
+* J Chen<sup>1</sup>, L Gao<sup>1</sup>, Y Zhu, W Zhou, B Su\*, **ZJ Lu**\*, B Huang\* (2026) **From Holo Pockets to Electron Density: GPT-style Drug Design with Density** . *ICML 2026*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Gaoge Sun<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zihan Liu, Kaixiang Zhang, Shufang Ning, Tianyi Zhang, Ying Zhang\*, **Zhi Lu**\*, Hang Yin\* (2026) **Tumor-derived Extracellular Vesicles containing dsRNA Induce Degradation of Ribosomal Protein mRNA in Platelets**. *JEV*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Yunfan Jin<sup>1</sup>, Jiyun Cui<sup>1</sup>, Hongli Ma, Fei Gan\*, **Zhi John Lu**\*, Zhenjiang Zech Xu\* (2026) **Conserved 3’ Stem-Loop Structures Enable Comprehensive Analysis of Bacterial Transcription Termination in Metagenomes**. *Microbiome*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Mengtao Li<sup>1</sup>\*, Jiuliang Zhao<sup>1</sup>, **Zhi John Lu**<sup>1</sup>, Chun Ning, Nan Jiang, Yan Zhang, Yu Li, Yi Feng, Qian Wang, Dong Xu, Xiaomei Leng, Jing Li, Shangzhu Zhang, Ziqian Wang, Liying Peng, Xinping Tian, Lulu Lv, Daobin Zhou\*, Xiaofeng Zeng\* (2026) **Anti-CD19 CAR T cell therapy for refractory SLE-ITP**. *Med*, 10;7(4):101039  (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Kaixiang Zhang, Gaoge Sun, Xiangzheng Liu, Shuai Zuo, Pengyuan Wang, Boxiao Zhan, **Zhi John Lu**, Hang Yin, Ying Zhang (2026) **NPM1 Mediates mRNA Sorting into Extracellular Vesicles via Specific RNA Motif Binding and Phase Separation**. *Advanced Science*, e14852
+* Changzhen Liu, Qiangsheng Yu, Yunfan Jin, Wei Ma, Jing Li, Tianxue Song, Meng Han, Yi Qian, Qi Xue, Leyi Ke, Yuxin Dong, Congcong Hou, Xuna Wu, Yule Liu, Jizong Wang, Liwen Jiang, Zhizhong Gong, Haiteng Deng, Daoxin Xie, Shengyang He, **Zhi John Lu**, Susheng Song, Tiancong Qi (2026) **An uORF-encoded mobile peptide sparks systemic stomatal immunity**. *Cell*,  189(5):1407-1422
+
+
+
+
+> —————————————————80————————————————————
+
+
 ## 2025
 
 
@@ -97,6 +113,7 @@
 
   [View Detail](https://pubmed.ncbi.nlm.nih.gov/35816095/) 
   
+
 ![](./assets/2022_elife.webp){: style="zoom:30%;" }
 
 * Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu** & Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
