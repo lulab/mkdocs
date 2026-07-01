@@ -4,7 +4,7 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 # 欢迎加入清华大学生命学院鲁志实验室
 
-**Bioinformatics Lab for noncoding RNA**
+**AI for Biology & Medicine**  **理解生命 • 影响医学**
 
 ---
 
@@ -23,9 +23,7 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 ---
 
-## 寻求项目合作
 
-* [清华大学鲁志实验室科研项目及其转化寻求合作](open.md)
 
 
 ## 科研方向人才招募
@@ -90,3 +88,4 @@ Email主题请标注“**应聘计算分析博士后**”或者“**应聘湿实
 ## 产业化方向人才招募
 
 * [新维度基因](http://www.xingene.com)
+* [RN**A I**ntelligence](https://www.ncrnalab.org/home/ai)

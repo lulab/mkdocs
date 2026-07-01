@@ -164,13 +164,14 @@ title: 清华大学・鲁志实验室 寻求合作
     * [COME](https://github.com/lulab/COME):  用于mRNA和lncRNA中蛋白编码潜能的分析 (*Nucleic Acids Research* 2017)。
     * [RNAfeature](https://github.com/lulab/RNAfeature): 用于多个物种间非编码RNA保守性信息的分析 (*Nucleic Acids Research* 2015)。
 * **b) *RNAtarget***
+    * [RNAsmol](https://github.com/lulab/RNAsmol): RNAsmol is an AI model designing small molecule drug targeting RNA  (*Nature Comp. Sci.*  2025).
     * [RBPgroup](https://github.com/lulab/RBPgroup): 利用NMF（非负矩阵分解）对各种CLIP-seq数据进行整合分析  (*Genome Biology*  2017)。
     * [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个探究RNA转录后调控事件的数据库和分析平台，能提供多个物种间RNA-蛋白的相互作用、致病突变位点等信息 (*Nucleic Acids Research* 2017/2019/2022)。
     * [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 一个集成了各种类型CLIP-seq数据的数据库，描述RNA结合蛋白和各种RNA调控网络的集成资源数据库 (*BMC Genomics* 2015)。
 * **c) *RNAstructurome***
     * [RME/RNAex](https://github.com/lulab/RME):  一种RNA二级结构预测算法，同时提供了多种类型的RNA二级结构实验数据 (*Nucleic Acids Research* 2015/2016)。
 * **d) *RNAmed***
-    * [cfPeak](https://github.com/lulab/cfPeak): cfPeak is a CNN model finding fragmented cell-free RNAs for disease diagnoisis and prognosis.
+    * [cfPeak](https://github.com/lulab/cfPeak): cfPeak is a CNN model finding fragmented cell-free RNAs for disease diagnoisis and prognosis   (*Genome Biology*  2025).
     * [exSeek](https://github.com/lulab/exSEEK): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
     * [cfOmics](http://cfOMics.ncRNAlab.org): 多类型生物标志物的整合数据库，也可以用来预测各种疾病患病可能性。
 
@@ -257,17 +258,16 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 ---
 
-## 相关专利和软件
+## 相关专利和AI软件
 
 * [专利和著作权](../publications/IP.md)
 * [软件和模型](/home/software)
+* [AI 产品和服务](/home/ai)
 
 ## 技术成果相关报道
 
 * [News](../publications/news.md#news)
 * [Papers](../publications/pub.md)
-
-
 
 ## 联系方式
 
