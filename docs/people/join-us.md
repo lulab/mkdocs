@@ -16,7 +16,7 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 **实验室围绕着非编码RNA(ncRNA)主要有两个研究方向: 1）AI驱动的核酸模型和药物设计；2）生信驱动的精准医疗。** 详见 [Projects](../projects/proj.md) 。
 
-实验室负责人鲁志博士 ([个人官方主页](https://life.tsinghua.edu.cn/info/1034/1298.htm))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章~80篇，包括通讯作者文章30余篇；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。
+实验室负责人鲁志博士 ([个人主页](https://www.ncrnalab.org/home/intro/index.html#profile))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章~80篇，包括通讯作者文章30余篇；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。
 
 实验室主页：<http://lulab.life.tsinghua.edu.cn> | <https://www.ncRNAlab.org>
 
