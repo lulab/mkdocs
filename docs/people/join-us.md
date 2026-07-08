@@ -16,7 +16,7 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 **实验室围绕着非编码RNA(ncRNA)主要有两个研究方向: 1）AI驱动的核酸模型和药物设计；2）生信驱动的精准医疗。** 详见 [Projects](../projects/proj.md) 。
 
-实验室负责人鲁志博士 ([个人主页](https://www.ncrnalab.org/home/intro/index.html#profile))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章~80篇，包括通讯作者文章30余篇；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。
+实验室负责人鲁志博士 ([个人主页](https://www.ncrnalab.org/home/intro/index.html#profile))，清华大学生命科学学院长聘副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章80 余篇，包括通讯作者文章30余篇；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。
 
 实验室主页：<http://lulab.life.tsinghua.edu.cn> | <https://www.ncRNAlab.org>
 
@@ -32,14 +32,16 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 ### “生物信息学”博士生招生
 
-实验室每年有2-3名博士生名额，可以通过两个博士招生夏令营录取： 
+对于本科生和硕士生：实验室每年有2名博士生名额，可以通过两个博士招生夏令营录取： 
 
 1. 北大-清华-NIBS 联合的 PTN 夏令营。
 2. 清华博士招生夏令营（包括CLS、生命学院、医学院、药学院四方联合统一招生）；对计算背景的同学可以申请其中一个和计算机系、自动化系联合培养的“智能”方向。
 
 > 感兴趣的同学请关注这几个夏令营的官方申请通知进行申请，本科生和硕士生都可以申请。每年7月、9月和来年3月有三次申请机会。录取后，一般要经过大半年在不同实验室的轮转体验之后最后在一个实验室定导。**注意：**因为各个项目名额限制不同，选择 PTN 项目的学生更有可能获得在我们实验室最终定导的机会，具体可以 email 咨询我们实验室。
 
-此外，对于在职人员，可以申请清华大学“创新领军工程博士”，一般每年11月在网上提交申请材料，我们实验室可以在里面的生物与医药（0860）类招生。
+---
+
+对于在职人员：可以申请清华大学“创新领军工程博士”，一般每年11月在网上提交申请材料，我们实验室可以在里面的生物与医药（0860）类招生。
 
 
 ### AI和数据分析方向的博士后招聘
@@ -74,8 +76,8 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 待遇丰厚，科研平台基础高。可通过协助申请以下一个或多个**人才支持计划**以及**产业化方向支持计划**进行聘用，提供具有国际竞争力的待遇和科研资助：
 
 * [清华大学水木学者支持计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)
-* [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/info/1272/4758.htm)
-* [博士后创新人才支持计划](https://postdoctor.tsinghua.edu.cn/info/zxtz/2171)
+* [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/info/1272/6208.htm)
+* [清华大学博士后基金](https://postdoctor.tsinghua.edu.cn/column/zqkh)
 * 产学研结合，产业化方向资助
 * more 。。。
 
@@ -83,9 +85,10 @@ title: Join Us! - Welcome to Lu Lab @ Tsinghua
 
 应聘者请将一份详尽的CV和一封阐述研究和/或产业化兴趣的简信， 发送给 lulab1@tsinghua.edu.cn 。博士后应聘者稍后还需要联系包含自己导师在内的2-3位推荐人发送推荐信至上述邮箱。
 
-Email主题请标注“**应聘计算分析博士后**”或者“**应聘湿实验博士后**”，并注明招聘信息来源，谢谢。
+Email主题请标注“**应聘 AI 方向博士后**”或者“**应聘高通量筛选方向博士后**”，并注明招聘信息来源，谢谢。
 
 ## 产业化方向人才招募
 
 * [新维度基因](http://www.xingene.com)
 * [RN**A I**ntelligence](https://www.ncrnalab.org/home/ai)
+
