@@ -4,7 +4,7 @@
 
 #### Welcome
 
-- :material-page-layout-header:  [Lab Introduction](/home/intro) \| <small>[Vision & Strategy](https://www.ncrnalab.org/home/vision-AI.html) Suggested by ChatGPT</small>
+- :material-page-layout-header:  [Lab Introduction](/home/intro) \| <small>[Vision & Strategy](/home/vision-AI.html) Suggested by ChatGPT</small>
 - :material-calendar-clock:  [Lab Meetings](intranet/meeting.md)  &  [Lab Calendar](intranet/cal.md)
 - :material-frequently-asked-questions:  [FAQ](faq/faq-1.md)
 
