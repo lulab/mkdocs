@@ -4,6 +4,8 @@
 
 ## Topics/Projects
 
+* (0) **RNA Therapeutics**
+      * 👍 [**2025 Nature Reviews | Drug Disc.**](https://www.nature.com/articles/s41573-025-01237-x) -  RNA chemistry and therapeutics
 * (1) **RNAi-AIVC**  (AI Virtual Cell based on RNAi pertubation)
       * 👍 [**2026 Cell**](https://www.cell.com/cell/fulltext/S0092-8674(26)00223-0)  - Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes.  [公众号介绍](https://mp.weixin.qq.com/s/-qFdtesx3XoqA4EQ5xMW1A)
       * [**2026 bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
@@ -11,6 +13,7 @@
       * **2021 Nature biotechnology** - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning
 * (2)  ⭐️**RNA Delivery️**⭐️  
       * 👍 [**2026 Cell**](https://www.cell.com/cell/abstract/S0092-8674(26)00099-1) - LUMI-lab: A foundation model-driven autonomous platform enabling discovery of ionizable lipid designs for mRNA delivery.  [公众号介绍](https://mp.weixin.qq.com/s/iPL-mE0q8QtBLvy9BVICOQ)
+
 
 
 
