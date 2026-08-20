@@ -24,6 +24,7 @@
     * 👍 TRIBE (Interaction-seq) **2023 Nature Biotech.** - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
 * How to Write
     * **2022 Nature Review** - High-content CRISPR screening. 
+    * 👍 **2025 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling
     * **2012 PNAS** - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
 
 ## Applications of RNAi-AIVC
