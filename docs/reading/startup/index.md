@@ -1,6 +1,6 @@
 # Startup Readings
 
-## Roadmap
+## Basic Readings
 
 1. [AI - Basic] **2022 Nature Reviews** - A guide to machine learning for biologists
 2. [AI for VC] **2024 Cell** - How to build the virtual cell with artificial intelligence - Priorities and opportunities

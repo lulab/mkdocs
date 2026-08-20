@@ -2,19 +2,17 @@
 
 ![](img/AIVC-screen.jpg){:style="width: 39%; "}
 
-## Topics/Projects
+## Basic Readings
 
-* (0) **RNA Therapeutics**
-      * 👍 [**2025 Nature Reviews | Drug Disc.**](https://www.nature.com/articles/s41573-025-01237-x) -  RNA chemistry and therapeutics
-* (1) **RNAi-AIVC**  (AI Virtual Cell based on RNAi pertubation)
-      * 👍 [**2026 Cell**](https://www.cell.com/cell/fulltext/S0092-8674(26)00223-0)  - Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes.  [公众号介绍](https://mp.weixin.qq.com/s/-qFdtesx3XoqA4EQ5xMW1A)
-      * [**2026 bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
-      * **[2024 Bioinformatics](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae316/7671099)** - Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data  
-      * **2021 Nature biotechnology** - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning
-* (2)  ⭐️**RNA Delivery️**⭐️  
-      * 👍 [**2026 Cell**](https://www.cell.com/cell/abstract/S0092-8674(26)00099-1) - LUMI-lab: A foundation model-driven autonomous platform enabling discovery of ionizable lipid designs for mRNA delivery.  [公众号介绍](https://mp.weixin.qq.com/s/iPL-mE0q8QtBLvy9BVICOQ)
-
-
+* (1) **RNA Therapeutics & ⭐️Delivery⭐️**
+      *  [**2025 Nature Reviews | Drug Disc.**](https://www.nature.com/articles/s41573-025-01237-x) -  RNA chemistry and therapeutics
+      * ⭐️[Examples of delivery optimization study]  [**2026 Cell**](https://www.cell.com/cell/abstract/S0092-8674(26)00099-1) - LUMI-lab: A foundation model-driven autonomous platform enabling discovery of ionizable lipid designs for mRNA delivery.  [公众号介绍](https://mp.weixin.qq.com/s/iPL-mE0q8QtBLvy9BVICOQ)
+  
+* (2) **RNAi-AIVC**  (AI Virtual Cell based on RNAi pertubation)
+      * [AIVC] **2024 Cell** - How to build the virtual cell with artificial intelligence - Priorities and opportunities
+      * [Resources of Perturbation Datasets] [**2026 bioRxiv**](https://doi.org/10.1101/2025.11.13.688367) - Unified modeling of cellular responses to diverse perturbation types
+  
+  
 
 
 ## Screen Methods
@@ -29,12 +27,16 @@
     * **2012 PNAS** - Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy [Lu Lab Paper]
 
 ## Applications of RNAi-AIVC
-* **siRNA Design/Prediction**
+* **siRNA Design (on/off-target & Toxicity Prediction)**
     - **2024 Bioinformatics** - OligoFormer: An accurate and robust prediction method for siRNA design. Bioinformatics [Lu Lab Paper]
+    - [**2010 Nature Review Drug Discovery**](https://www.nature.com/articles/nrd3010) - Recognizing and avoiding siRNA off-target effects for target identification and therapeutic application
+    
 * **small RNA Drug Synergy** 
     * **2025 Nature Communications** - Building a unified model for drug synergy analysis powered by large language models
     * [**2023 Nature Biotechnology**](https://doi.org/10.1038/s41587-023-01905-6) - Predicting transcriptional outcomes of novel multigene perturbations with GEARS
-* **small RNA Aptamer Screen**
-    * 👍 **2026 Nature Biotechnology** - Single-round evolution of RNA aptamers with GRAPE-LM
+* **small RNA (Aptamer) Drug Screen/Discovery**
+    * [**2026 Cell**](https://www.cell.com/cell/fulltext/S0092-8674(26)00223-0)  - Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes.  [公众号介绍](https://mp.weixin.qq.com/s/-qFdtesx3XoqA4EQ5xMW1A)
+    * **2026 Nature Biotechnology** - Single-round evolution of RNA aptamers with GRAPE-LM
+    * **2021 Nature biotechnology** - Prediction of Drug Efficacy from Transcriptional Profiles with Deep Learning
     * **2010 Nature Review** \| Drug Discovery - Aptamers as therapeutics 
 

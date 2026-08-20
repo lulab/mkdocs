@@ -9,6 +9,7 @@
 * MultiOmics Methods
     * 2024 **Nature Methods**  - Benchmarking algorithms for single-cell multi-omics prediction and integration
     * 2023 **Nature Methods** - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
+    * **[2024 Bioinformatics](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae316/7671099)** - Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data  
 * Foundation Models
     * 2025 **Nature Methods** - EpiAgent: foundation model for single-cell epigenomics
     * 2024 **Nature Methods** - Large-scale foundation model on single-cell transcriptomics
