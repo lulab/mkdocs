@@ -10,7 +10,7 @@
 * New models
     * RiNALMo, HydraRNA, RNAErnie, Ernie-RNA, structRFM, ...
 
-## II. mbRNAfinder
+## II. ncRNAfinder & mbRNAfinder
 
 * 👍 2021 **Genome Biology** - Comparative genomics identifies **thousands of candidate structured RNAs** in human microbiomes
 * 2024 **Nature Biotechnology -** RIP-PEN-seq identifies **a class of kink-turn RNAs** as splicing regulators
