@@ -8,13 +8,19 @@
 
 ## Specific Directions/Projects
 
-* RNAfinder:
+* **Major Directions:**
+    
     * [AI for cfRNA](cfRNA.md): AI for cell-free RNA
-    * [AI for ncRNA](ncRNA.md): AI for noncoding RNA (& microbial RNA)
-* RNAtalk:
-    * [AIVC for Omics](Omics.md): AI Virtual Cell (AIVC)
-    * [AI for RNAi](RNAi.md): AI for RNAi Screen (Therapy development in AIVC)
-    * [AI for RNAdrug](RNAdrug.md): AI for Drug Design - RNA2smol
+    * [AI for sRNA](RNAi.md): AI for small RNA design & RNAi screen (therapy development in AIVC)
+    * [AI for RNAsmol](RNAdrug.md): AI for small molecule drug design
+    
+* **More Directions:**
+    
+    * [AI for ncRNA](ncRNA.md): AI for noncoding RNA (& microbial RNA) discovery
+    
+    * [AIVC for Omics](Omics.md): AI Virtual Cell (AIVC) based on multiomics
+    
+      
 
 ## Reviews
 
