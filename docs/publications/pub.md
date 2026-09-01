@@ -13,7 +13,7 @@
 
 ## 2026
 
-
+* Yusa Zhang<sup>1</sup>, Hanbo Lu<sup>1</sup>, Pengfei Bao<sup>1</sup>, Anhao Wang, Xiaohong Lyu, Yidong Zhou\*, Songjie Shen\* and **Zhi John Lu**\* (2026) **CircExor enables interpretable prediction of circRNA localization into extracellular vesicles**. *Genome Research*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 * J Chen<sup>1</sup>, L Gao<sup>1</sup>, Y Zhu, W Zhou, B Su\*, **ZJ Lu**\*, B Huang\* (2026) **From Holo Pockets to Electron Density: GPT-style Drug Design with Density** . *ICML 2026*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 * Gaoge Sun<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zihan Liu, Kaixiang Zhang, Shufang Ning, Tianyi Zhang, Ying Zhang\*, **Zhi John Lu**\*, Hang  Hubert  Yin\* (2026) **Tumor-derived Extracellular Vesicles containing dsRNA Induce Degradation of Ribosomal Protein mRNA in Platelets**. *JEV*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 * Yunfan Jin<sup>1</sup>, Jiyun Cui<sup>1</sup>, Hongli Ma, Fei Gan\*, **Zhi John Lu**\*, Zhenjiang Zech Xu\* (2026) **Conserved 3’ Stem-Loop Structures Enable Comprehensive Analysis of Bacterial Transcription Termination in Metagenomes**. *Microbiome*  (<sup>1</sup>contributed equally, \*co-corresponding authors)
