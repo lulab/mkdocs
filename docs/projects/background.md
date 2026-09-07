@@ -8,6 +8,42 @@
 
 ## Background
 
+> 生命科学正在经历一次深刻的范式转变：
+> 从“观察科学（Observational Biology）”，走向“可编程科学（Programmable Biology）”。
+> 过去几十年，生物学的核心任务是发现和描述生命系统中的组成成分及其相互作用；而未来，更重要的问题将是：
+> 如果向一个生物系统输入特定的扰动（Perturbation），系统将如何响应和演化？
+> 
+> 在这一背景下，一个具有长期战略价值的方向正在逐渐形成：
+> *RNA Perturbation Science*。
+> 其核心问题是：给定一个 RNA 输入，生物系统将发生怎样的状态变化？
+> 从更本质的层面看，我们真正试图理解的是：
+> **RNA 与生物系统状态（Biological State）之间的映射关系。**
+> 这不仅涉及 RNA 如何反映系统状态（Sensing），更涉及 RNA 如何改变系统状态（Perturbation），最终实现对生命系统的预测（Prediction）与调控（Control）。
+> 
+> AI × RNA × Programmable Therapeutics 的交汇，极有可能成为未来十年生命科学最重要的爆发点之一。
+> RNA 之所以特别适合这个时代，是因为它同时具备：
+>
+> * 可设计性（Designable）
+> * 可计算性（Computable）
+> * 序列与结构关系紧密（Sequence–Structure Coupling）
+> * 易于开展高通量实验（High-throughput Compatible）
+> * 快速迭代与验证（Rapid Iteration）
+> * 天然适合 Foundation Models 与 Representation Learning
+>
+> 与许多蛋白质问题相比，RNA 更具有“AI-Friendly”的特征，因此更有可能成为连接人工智能与生命科学的关键桥梁。
+>
+> 未来真正具有长期影响力的科学家，不仅是观察生命的人，更是能够将生命系统转变为“可预测、可设计、可编程系统”的人。
+> RNA 很可能是实现这一目标最重要的入口之一。
+> 因此，我们实验室未来的长期愿景是：
+> **Predictive & Programmable Biological Systems Based on RNA**
+> 即：
+> **From Reading Biology to Programming Biology**
+>
+> —— ChatGPT，2026.06.01
+
+
+
+
 ***noncoding RNA (ncRNA):*** 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们仍然知之甚少。
 
 ”截止2020 年，ENCODE 项目已鉴定出约 37,600 个非编码RNA的基因，这几乎是蛋白质编码基因的两倍。其他统计数据相差很大，从约 18,000 个到接近 96,000 个。... 在 2024 年《科学》杂志的一篇评论中，将这些发现描述为 <u>RNA 革命</u> 的一部分。... 这些非编码RNA动摇了我们对生物学运作方式的理解。自从关于 DNA 双螺旋结构及其如何编码信息的划时代发现以来，分子生物学的基本思想一直是，生物体存在精确编码的指令，这些指令可以对特定分子进行特定任务编程。但**非编码RNA 似乎指向了一种更模糊、更集体的生命逻辑**。这种逻辑更难辨别，更难理解。但如果科学家能够学会适应这种模糊性，这种关于生命的观点可能会更加完整。“ （ [RNA: 掌控生命后台 \| 《环球科学》](https://mp.weixin.qq.com/s/ai_8lNXsluNz4Pu_piGA-g) 2024年7月刊封面文章）

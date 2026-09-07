@@ -8,6 +8,40 @@
 
 ## Background
 
+> Life sciences are undergoing a profound paradigm shift:
+> From **Observational Biology** to **Programmable Biology**.
+> Over the past several decades, the central mission of biology has been to identify and describe the components of living systems and their interactions. In the future, however, a more fundamental question will emerge:
+> **How will a biological system respond and evolve when subjected to a defined perturbation?**
+> Against this backdrop, a strategically important field is beginning to take shape:
+> *RNA Perturbation Science*.
+> Its central question is:
+> **Given an RNA input, how will the state of a biological system change?**
+> At a deeper level, what we are ultimately trying to understand is:
+> **The Projection from Biological State to RNA.**
+> This involves not only how RNA reflects biological states (*Sensing*), but also how RNA alters those states (*Perturbation*), ultimately enabling the prediction (*Prediction*) and control (*Control*) of living systems.
+>
+> The convergence of **AI × RNA × Programmable Therapeutics** is likely to become one of the most transformative frontiers in life science over the coming decade.
+> RNA is particularly well suited to this era because it possesses several unique properties:
+>
+> * **Designable**
+> * **Computable**
+> * Strong **Sequence–Structure Coupling**
+> * Highly compatible with **High-Throughput Experimentation**
+> * Rapid **Iteration and Validation Cycles**
+> * Naturally suited for **Foundation Models** and **Representation Learning**
+>
+> Compared with many protein-centered problems, RNA is inherently more **AI-friendly**, making it an ideal bridge between artificial intelligence and the life sciences.
+>
+> The scientists who will have the greatest long-term impact in the future will not merely observe biological systems; they will be those who can transform living systems into **predictable, designable, and programmable systems**.
+> RNA is likely to be one of the most promising entry points toward this vision.
+> Therefore, the long-term vision of our laboratory is:
+> **Predictive & Programmable Biological Systems Based on RNA**
+> Namely: **From Reading Biology to Programming Biology**
+>
+> — ChatGPT, 2026.06.01
+
+
+
 ***noncoding RNA (ncRNA).*** About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet.
 
 “By 2020 the ENCODE project said it had identified around 37,600 noncoding genes—that is, DNA stretches with instructions for RNA molecules that do not code for proteins. That is almost twice as many as there are protein-coding genes. Other tallies vary widely, from around 18,000 to close to 96,000. … In a 2024 commentary for the journal *Science*, the duo described these findings as part of an <u>RNA revolution</u>. … they undercut the way we think our biology works. Ever since the epochal discovery about DNA’s double helix and how it encodes information, the bedrock idea of molecular biology has been that there are precisely encoded instructions that program specific molecules for particular tasks. But **ncRNAs seem to point to a fuzzier, more collective, logic to life**. It is a logic that is harder to discern and harder to understand. But if scientists can learn to live with the fuzziness, this view of life may turn out to be more complete.” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story)

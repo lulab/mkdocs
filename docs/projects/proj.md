@@ -15,46 +15,6 @@ title: 清华大学・鲁志实验室 科研课题
 ><p align="middle"><span style="font-weight: bold; font-size: 16pt;" >理解生命 • 影响医学</span></p>
 >
 
-
-> <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br>[“RNA 而不是 DNA 才是**细胞的计算引擎**。” ](https://www.huanqiukexue.com/?p=1121) <br>  <small>（RNA: 掌控生命后台,《环球科学》2024年7月刊封面文章）</small></div>
->
-
-
-> 生命科学正在经历一次深刻的范式转变：
-> 从“观察科学（Observational Biology）”，走向“可编程科学（Programmable Biology）”。
-> 过去几十年，生物学的核心任务是发现和描述生命系统中的组成成分及其相互作用；而未来，更重要的问题将是：
-> 如果向一个生物系统输入特定的扰动（Perturbation），系统将如何响应和演化？
-> 
-> 在这一背景下，一个具有长期战略价值的方向正在逐渐形成：
-> *RNA Perturbation Science*。
-> 其核心问题是：给定一个 RNA 输入，生物系统将发生怎样的状态变化？
-> 从更本质的层面看，我们真正试图理解的是：
-> **RNA 与生物系统状态（Biological State）之间的映射关系。**
-> 这不仅涉及 RNA 如何反映系统状态（Sensing），更涉及 RNA 如何改变系统状态（Perturbation），最终实现对生命系统的预测（Prediction）与调控（Control）。
-> 
-> AI × RNA × Programmable Therapeutics 的交汇，极有可能成为未来十年生命科学最重要的爆发点之一。
-> RNA 之所以特别适合这个时代，是因为它同时具备：
->
-> * 可设计性（Designable）
-> * 可计算性（Computable）
-> * 序列与结构关系紧密（Sequence–Structure Coupling）
-> * 易于开展高通量实验（High-throughput Compatible）
-> * 快速迭代与验证（Rapid Iteration）
-> * 天然适合 Foundation Models 与 Representation Learning
->
-> 与许多蛋白质问题相比，RNA 更具有“AI-Friendly”的特征，因此更有可能成为连接人工智能与生命科学的关键桥梁。
->
-> 未来真正具有长期影响力的科学家，不仅是观察生命的人，更是能够将生命系统转变为“可预测、可设计、可编程系统”的人。
-> RNA 很可能是实现这一目标最重要的入口之一。
-> 因此，我们实验室未来的长期愿景是：
-> **Predictive & Programmable Biological Systems Based on RNA**
-> 即：
-> **From Reading Biology to Programming Biology**
->
-> —— ChatGPT，2026.06.01
-
-
-
 我们致力于**生物信息学**研究，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨**非编码RNA**的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。
 
 在具体的课题研究中，我们充分发挥生物信息学这一交叉学科优势，利用最新的**AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
@@ -83,16 +43,12 @@ title: 清华大学・鲁志实验室 科研课题
 
 ---
 
-### A1. **RNAfinder**
+##  A. 生信驱动的**精准医疗**
 
 ***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA（**noncoding RNA**）。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
 see more in [Background](background.md)
 
-
-### A2. RNAfinder - Applications
-
-#### A2.1 [**Medicine**] Precision Medicine 精准医学
 
 ***cell-free RNA (cfRNA):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
@@ -123,48 +79,30 @@ see more in [Background](background.md)
 </div>
 
 
-
-
-
 ---
 
 
-#### A2.2 [**Biology**] Synthetic Biolgy 合成生物学
+## B. AI驱动的**核酸模型和药物设计**
 
-**_RNA structure prediction:_** 我们开发针对 RNA结构的预测模型和算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
+> <div align="middle"><img src="../img/RNAcompute.webp" style="max-width: 50%" /> <br>[“RNA 而不是 DNA 才是**细胞的计算引擎**。” ](https://www.huanqiukexue.com/?p=1121) <br>  <small>（RNA: 掌控生命后台,《环球科学》2024年7月刊封面文章）</small></div>
+>
 
 
-**_RNA Design:_**  不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的**酶设计、疫苗设计和药物设计**的新时代。
+### B1. **Small-molecule** Drug Design 小分子药物设计
+
+**_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
 <div align="middle">
-  <img src="../img/rna-structure-prediction.webp" style="zoom:20%;" />
+  <img src="../img/drug_rna.webp" style="zoom:30%;" />
   <br>
-  <small>Prediction of 2D and 3D structure of RNA</small>
+  <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
 </div>
 
 
----
-
-
-
-
-### B1. **RNAtalk**
-
-
-<div align="middle">
-  <img src="../img/RNA-Talk.webp" style="zoom:20%;" />
-  <br>
-  <small>RNAs Talk: Language of RNA</small>
-</div>
-
+### B2. **RN<font style="color:red;">Ai</font>** & AIVC 小核酸和虚拟细胞
 
 ***RNA-RNA interaction (trans-pair)*** : RNA靶向RNA在各种生物过程中发挥着至关重要的作用，包括基因调控、RNA加工和病毒复制。 预测 RNA-RNA 相互作用涉及识别和表征两个 RNA 分子之间的结合位点，这可以深入了解它们的功能关系和调控机制。 值得注意的是，由于 RNA 结构的复杂性、巨大的序列空间以及经过实验验证的相互作用数据的有限性，预测 RNA-RNA 相互作用仍然是一个具有挑战性的问题。 因此，预测的准确性可能会根据所使用的具体方法和输入数据的质量而有所不同。 我们开发和完善用于预测 RNA-RNA 相互作用的计算方法，旨在提高对 RNA 生物学的理解，并促进新的治疗靶点和基于 RNA 的调控机制的发现。
 
-
-
-### B2. RNAtalk - Applications
-
-#### B2.1 **RN<font style="color:red;">Ai</font>** & AIVC 小核酸和虚拟细胞
 
 **_siRNA prediction:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
 
@@ -179,12 +117,15 @@ see more in [Background](background.md)
 </div>
 
 
-#### B2.2 **Small-molecule** Drug Design 小分子药物设计
+### B3. Synthetic Biolgy 合成生物学
 
-**_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
+**_RNA structure prediction:_** 我们开发针对 RNA结构的预测模型和算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
+
+
+**_RNA Design:_**  不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的**酶设计、疫苗设计和药物设计**的新时代。
 
 <div align="middle">
-  <img src="../img/drug_rna.webp" style="zoom:30%;" />
+  <img src="../img/rna-structure-prediction.webp" style="zoom:20%;" />
   <br>
-  <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
+  <small>Prediction of 2D and 3D structure of RNA</small>
 </div>
