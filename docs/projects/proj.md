@@ -29,7 +29,7 @@ title: 清华大学・鲁志实验室 科研课题
 
 ## Projects 
 
-我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. 生信驱动的**精准医疗**；II. AI驱动的**核酸模型和药物设计**。
+我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. **生信驱动的精准医疗**；II. **AI驱动的核酸模型和药物设计**。
 
 <div align="middle">
   <img src="../img/projects.webp" style="width:300px;" />
