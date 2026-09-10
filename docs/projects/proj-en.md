@@ -36,10 +36,14 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 
 ## A. Bioinfo-Driven **Precision Medicine**
 
+### noncoding RNA (ncRNA)
+
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from **Transposable Elements** of human genome, **Meta-transcriptome** of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
 see more in [Background](background-en.md)
 
+
+### cell-free RNA (cfRNA)
 
 ***cell-free RNA (cfRNA).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
@@ -52,6 +56,8 @@ see more in [Background](background-en.md)
 <small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
 </div>
 
+
+### Clinical Applications
 
 ***Clinical applications.*** By applying the above methods to liquid biopsy, we help many clinical studies like cancer screen.
 
