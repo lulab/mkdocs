@@ -11,7 +11,7 @@ title: Bioinformatics
 ## 【课程信息】
 
 * **上课时间**：2026 春季学期 周四第一大节（8:00-9:35）全周
-* **上课地点**：清华大学 四教4404
+* **上课地点**：清华大学
 * **教学大纲**：[Syllabus](https://365.kdocs.cn/l/caAbfIt5y8Fk)
 * **实践教程**：[Bioinformatics Tutorial](https://book.ncrnalab.org)
   

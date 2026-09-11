@@ -8,11 +8,13 @@ hide:
 !!!important "Major Courses 主讲课程" 
 
     - 春季学期：**[Bioinformatics《生物信息学》](./bioinfo.md)**
-        - 对象：本科生 50-80人 	
+        - 对象：本科生 30-50人 	
     - 秋季学期：**[AI for Biomedicine《生物医学中的AI实践》](./ai.md)**
-        - 对象：博士生 10-15人; 本科生 3-5人 
-    - 秋季学期：**[Genomics《基因组学导论》- PTN](./genomics.md)**
+        - 对象：博士生 ～10人; 本科生 2-5人 
+    - 秋季学期：**[Genomics《基因组学导论》PTN课](./genomics.md)**
         - 对象：博士生 50-80人 
+    - 秋季学期：**《医学科研人工智能导论》- AI for Genomics**
+        - 对象：博士生（+临床医学本科生）～30人 
 
 
 
