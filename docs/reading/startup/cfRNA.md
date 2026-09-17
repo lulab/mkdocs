@@ -43,6 +43,7 @@
 **Fragment Representation**
 
 * ✅ [2026 preprint](https://doi.org/10.64898/2026.07.09.737627) - Semantic fragment representations for coordinate-free analysis of genomics data
+* ✅ [2026 Nature Commn](https://www.nature.com/articles/s41467-026-74411-3)  - Decoding cancer circulating transcriptomic signatures with language models
 * ✅ Fragmentome (DELFI): 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
 
 **Fragment's End-motif**
