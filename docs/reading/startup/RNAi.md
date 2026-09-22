@@ -38,17 +38,16 @@
 
 
 
-## Screen Methods (Wetlab)
+## Screen Methods (Wetlab) for RNAi based AIVC
 
-**How to Read**
+**How to Read** (Total RNA-seq)
 
 * 👍 TotalX (Total RNA-seq) [**2026 NBT**](https://doi.org/10.1038/s41587-026-03068-6) - Scalable single-cell total RNA sequencing unifies coding and noncoding transcriptomics.   [公众号介绍](https://mp.weixin.qq.com/s/urR7dM6-S5i8ZCp9RiECDw)
 * 👍 VASA-seq (Total RNA-seq) **2022 NBT** - High-throughput total RNA sequencing in single cells using VASA-seq
 * DETECTOR-seq **2024 Clin. & Trans. Med.** - Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles [Lu Lab Paper]
 *  TRIBE (Interaction-seq) **2023 Nature Biotech.** - Detection of transcriptome-wide microRNA–target interactions in single cells with agoTRIBE
 
-
-**How to Write**
+**How to Write** (High-throughput Perturbation)
 
 * **2022 Nature Review** - High-content CRISPR screening. 
 * 👍 **2025 Nature Biotechnology** - Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling

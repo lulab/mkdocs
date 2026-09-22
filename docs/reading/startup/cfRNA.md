@@ -13,18 +13,22 @@
 
 * ✅ 2025 **Nature** - An ultrasensitive method for detection of cell-free RNA
 
-**(2) Add Microbial RNAs:**
+**(2) Add sncRNAs  (rsRNA, tsRNA, Y RNA, etc):**
+
+* ✅ 2024 NCOMN - Terminal modifications independent cell-free RNA sequencing enables sensitive early cancer detection and classification [SLiPiR-seq]
+
+**(3) Add Microbial RNAs:**
 
 * **[2025 Nature Biotechnology](https://doi.org/10.1038/s41587-025-02731-8)** - Modifications of microbiome-derived cell-free RNA in plasma discriminates colorectal cancer samples
-* ✅**2022 eLife** - Cancer type classification using plasma cell-free RNAs derived from human and microbes [Lu Lab Paper]
+* ✅ **2022 eLife** - Cancer type classification using plasma cell-free RNAs derived from human and microbes [Lu Lab Paper]
 
-**(3) Add Fragmented RNAs (and sncRNAs):**
+**(4) Add Fragmented RNA peaks/domains:**
 
-* ✅**2025 Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
+* ✅ **2025 Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential [Lu Lab Paper]
 
-**(4) Add TE-RNAs:**
+**(5) Add TE-RNAs:**
 
-* ✅**2023 Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
+* ✅ **2023 Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
 
 
 
